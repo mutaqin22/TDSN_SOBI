@@ -1,0 +1,218 @@
+koridor,nama_halte,lokasi
+1,Terminal Blok M,Terminal Blok M
+1,Mesjid Al-Azhar,Jl. Sisingamangaraja
+1,Bundaran Senayan,Jl. Jend Sudirman
+1,Gelora Bungkarno,Jl. Jend Sudirman
+1,Polda,Jl. Jend Sudirman
+1,Benhil,Jl. Jend Sudirman
+1,Karet 2,Jl. Jend Sudirman
+1,Dukuh Atas,Jl. Jend Sudirman
+1,Tosari,Jl. Jend Sudirman
+1,Sarinah,Jl. Mh Thamrin
+1,Bi,Jl. Mh Thamrin
+1,Monas,Jl. Merdeka Barat
+1,Harmoni Central Busway ( Hcb ),Jl. Gajah Mada
+1,Sawah Besar,Jl. Gajah Mada
+1,Mangga Besar,Jl. Gajah Mada
+1,Olimo,Jl. Gajah Mada
+1,Glodok,Jl. Gajah Mada
+1,Stasiun Kota,Jl.Stasiun 
+2,Terminal Pulogadung,Terminal Pulogadung
+2,Bermis,Jl.Perintis Kemerdekaan
+2,Polumas,Jl.Perintis Kemerdekaan
+2,Asmi,Jl.Perintis Kemerdekaan
+2,Pedongkelan,Jl.Perintis Kemerdekaan
+2,Cempaka Timur ( Cempaka Mas ),Jl.R. Suprapto
+2,Rumah Sakit Islam ( Yarsi ),Jl.R. Suprapto
+2,Cempaka Tengah ( Lippo ),Jl.R. Suprapto
+2,Pasar Cempaka  Putih,Jl.R. Suprapto
+2,Rawa Selatan,Jl.R. Suprapto
+2,Galur,Jl.R. Suprapto
+2,Senen,Jl.Bundaran Senen
+2,Atrium,Jl.Senen Raya
+2,Rspad,Jl.Kiwi
+2,Deplu,Jl.Pejambon
+2,Gambir 1,Jl.Merdeka Timur
+2,Istiqlal ( Perwira ),Jl.Perwira
+2,Juanda,Jl.Juanda
+2,Pecenongan,Jl.Juanda
+2,Balaikota,Jl.Merdeka Selatan
+2,Gambir 2,Jl.Merdeka Selatan
+2,Kwitang,Jl.Kwitang
+3,Terminal Kalidres,Terminal Kalidres
+3,Pesakih,Jl.Daan Mogot
+3,Sumur Bor,Jl.Daan Mogot
+3,Rawa Buaya,Jl.Daan Mogot
+3,Jembatan Baru,Jl.Daan Mogot
+3,Dispenda,Jl.Daan Mogot
+3,Jembatan Gantung,Jl.Daan Mogot
+3,Taman Kota,Jl.Daan Mogot
+3,Indosiar,Jl.Daan Mogot
+3,Jelambar,Jl.Daan Mogot
+3,Grogol 1,Jl.Kyai Tapa
+3,Rs.Sumber Waras,Jl.Kyai Tapa
+3,Pasar Baru,Jl.Soetomo
+4,Dukuh Atas 2,Jl.Dukuh Bawah
+4,Halimun,Jl.Galunggung
+4,Pasar Rumput,Jl.Galunggung
+4,Manggarai,Terminal Manggarai
+4,Matraman 2,Jl.Matraman Raya
+4,Pasar Genjing,Jl.Pramuka
+4,Utan Kayu,Jl.Pramuka
+4,Pramuka Lia,Jl.Pramuka
+4,Bpkp,Jl.Pramuka
+4,Unj,Jl.Pramuka
+4,Sunan Giri,Jl.Pemuda
+4,Velodrome,Jl.Pemuda
+4,Pemuda Paus,Jl.Pemuda
+4,Layur,Jl.Pemuda
+4,Tugas,Jl.Pemuda
+4,Pasar Polugadung,Jl.Bekasi Timur
+4,Terminal Polugadung,Jl.Bekasi Timur
+5,Kampung Melayu,Terminal Kamp Melayu
+5,Pasar Jatinegara ,Jl.Bekasi Timur
+5,Kebon Pala,Jl.Bekasi Timur
+5,Slamet Riyadi,Jl.Matraman
+5,Tegalan,Jl.Matraman
+5,Matraman  I,Jl.Matraman
+5,Rs. Carolus,Jl.Salemba
+5,Salemba Ui,Jl.Salemba
+5,Kramat Sentiong,Jl.Kramat Raya
+5,Pal Putih,Jl.Kramat Raya
+5,Central Senen,Jl.Senen Raya
+5,Budi Utomo,Jl.Gunung Sahari
+5,Pasar Baru Timur,Jl.Gunung Sahari
+5,Jembatan Merah,Jl.Gunung Sahari
+5,Gunung Sahari Mangga Dua,Jl.Gunung Sahari
+5,Pademangan,Jl.Gunung Sahari
+5,Ancol,Taman Impian Jaya Ancol
+6,Ragunan,Kebun Binatang Ragunan
+6,Departemen Pertanian,Jl.Harsono
+6,Smk 57,Jl.Harsono
+6,Jati Padang,Jl.Buncit Raya
+6,Pejaten,Jl.Buncit Raya
+6,Buncit Indah,Jl.Buncit Raya
+6,Warung Jati,Jl.Buncit Raya
+6,Imigrasi,Jl.Buncit Raya
+6,Duren Tiga,Jl.Buncit Raya
+6,Mampang Prapatan,Jl.Buncit Raya
+6,Kuningan Timur,Jl.Rasuna Said
+6,Patra Kuningan,Jl.Rasuna Said
+6,Depkes,Jl.Rasuna Said
+6,Gor Sumantri,Jl.Rasuna Said
+6,Karet Kuningan,Jl.Rasuna Said
+6,Kuningan Madya Aini,Jl.Rasuna Said
+6,Setiabudi Utara,Jl.Rasuna Said
+6,Latuharhari,Jl.Latuharhari
+7,Kp. Rambutan,Terminal Kamp Rambutan
+7,Tanah Merdeka,Jl.Baru
+7,Fly Over Raya Bogor,Jl.Raya Bogor
+7,Rs. Harapan Bunda,Jl.Raya Bogor
+7,Pasar Induk,Jl.Raya Bogor
+7,Pasar Kramat Jati,Jl.Raya Bogor
+7,Pgc 2,
+7,Cililitan (Pgc 1),Jl.Sutoyo
+7,B K N,Jl.Sutoyo
+7,Cawang Uki,Jl.Sutoyo
+7,B N N,Jl.Mt Haryono
+7,Cawang Otista,Jl.Otista Raya
+7,Gelanggang Remaja,Jl.Otista Raya
+7,Bidara Cina,Jl.Otista Raya
+8,Terminal Lebak Bulus,Jl.Lebak Bulus Raya
+8,Pondok Pinang,Jl.Ciputat Raya
+8,Pondok Indah 1,Jl.Metro Pondok Indah 
+8,Pondok Indah 2,Jl.Metro Pondok Indah 
+8,Tanah Kusir Kodim,Jl.Sultan Iskandar Muda
+8,Kebayoran Lama Bungur,Jl.Sultan Iskandar Muda
+8,Pasar Kebayoran Lama ,Jl.Sultan Iskandar Muda
+8,Simprug Kebayoran Lama,Jl.Sultan Iskandar Muda
+8,Permata Hijau,Jl.Letj Soepono
+8,Permata Hijau Rs. Medika,Jl.Letj Soepono
+8,Pos Pengumben,Jl.Panjang
+8,Kelapa Dua Sasak,Jl.Panjang
+8,Kebun Jeruk Relasi,Jl.Panjang
+8,Duri Kepa,Jl.Panjang
+8,Kedoya Assyiddiqiyah,Jl.Panjang
+8,Kedoya Green Garden,Jl.Panjang
+8,Tomang Mandala,Jl.Tomang Raya
+8,Rs Tarakan,Jl.Kyai Caringin
+8,Petojo,Jl.Suryopranoto
+9,Terminal Pinang Ranti,Jl.Pondok Gede
+9,Garuda Taman Mini,Jl.Pondok Gede
+9,Cawang Ciliwung,Jl.Pondok Gede
+9,Cikoko Stasiun Cawang,Jl.Mt.Haryono
+9,Tebet Bumd (Bkpm),Jl.Mt.Haryono
+9,Pancoran Tugu,Jl.Mt.Haryono
+9,Pancoran Barat,Jl.Jend Gatot Subroto
+9,Tegal Parang,Jl.Jend Gatot Subroto
+9,Kuningan Barat,Jl.Jend Gatot Subroto
+9,Jamsostek Gatot Subroto,Jl.Jend Gatot Subroto
+9,Lipi Gatot Subroto,Jl.Jend Gatot Subroto
+9,Semanggi ,Jl.Jend Gatot Subroto
+9,Jcc Senayan ,Jl.Jend S.Parman
+9,Slipi Petamburan,Jl.Jend S.Parman
+9,Slipi Kemanggisan,Jl.Jend S.Parman
+9,Rs Harapan Kita,Jl.Jend S.Parman
+9,Taman Anggrek / Central Park,Jl.Jend S.Parman
+9,Stasiun Ka Latumenten,Jl.Latumenten
+9,Grogol 2,
+9,Jembatan Besi,Jl.Jembatan Besi
+9,Jembatan Dua,Jl.Jembatan Dua
+9,Jembatan Tiga,Jl.Raya Pluit
+9,Penjaringan ,Jl.Raya Pluit
+9,Pluit,Jl.Raya Pluit
+10,Cawang Sutoyo,Jl.Soetoyo
+10,Penas Kalimalang,Jl.Soetoyo
+10,Cipinang Kebun Nanas,Jl.Di Panjaitan
+10,Pedati Prumpung,Jl.Di Panjaitan
+10,Stasiun Jatinegara,Jl.Di Panjaitan
+10,Bea Cukai Ahmad Yani,Jl.Di Panjaitan
+10,Utan Kayu Rawamangun ,Jl.Di Panjaitan
+10,Pramuka Bpkp 2,
+10,Kayu Putih Rawasari,Jl.A.Yani
+10,Pulomas By Pass (Pacuan Kuda),Jl.A.Yani
+10,Cempaka Putih,Jl.A.Yani
+10,Cempaka Mas 2,Jl.A.Yani
+10,Yos Sudarso Kodamar,Jl.Yos Sudarsono
+10,Sunter Kelapa Gading,Jl.Yos Sudarsono
+10,Plumpang Pertamina (Rs.Puri Medika),Jl.Yos Sudarsono
+10,Walikota Jakarta Utara,Jl.Yos Sudarsono
+10,Permai Koja,Jl.Yos Sudarsono
+10,Enggano,Jl.Enggano
+10,Terminal Tanjung Priok,Jl.Enggano
+11,Terminal Pulogebang,
+11,Walikota Jakarta Timur,Jl.Sentra Primer Timur
+11,Penggilingan,Jl.Sentra Primer Timur
+11,Perumnas Kalender,Jl.I.Gusti Ngurah Rai
+11,Fly Over Raden Inten,Jl.I.Gusti Ngurah Rai
+11,Buaran,Jl.I.Gusti Ngurah Rai
+11,Kampung Sumur,Jl.I.Gusti Ngurah Rai
+11,Fly Over Kalender,Jl.I.Gusti Ngurah Rai
+11,Stasiun Kalender,Jl.I.Gusti Ngurah Rai
+11,Cipinang,Jl.Bekasi Timur
+11,Imigrasi,Jl.Bekasi Timur
+11,Pasar Enjo,Jl.Bekasi Timur
+11,Fly Over Jatinegara,Jl.Bekasi Timur
+11,Stasiun Jatinegara,Jl.Bekasi Timur
+11,Rumah Sakit Primier,Jl.Jatinegara Timur
+12,Pluit Landmark,Jl.Pluit Raya
+12,Pakin,Jl.Pluit Raya
+12,Gedong Panjang,Jl.Gedong Panjang
+12,Museum Fatahillah,Jl.Kopi
+12,Pangeran Jayakarta,Jl.Mangga Dua
+12,Mangga Dua,Jl.Mangga Dua
+12,Kalibesar Barat,Jl.Kalibesar Barat
+12,Pekojan,Jl.Bandengan
+12,Kemayoran Landasan Pacu Timur,Jl.Sunter Barat
+12,Danau Sunter Barat (Agung),Jl.Sunter
+12,Sunter Smp 140,Jl.Sunter
+12,Sunter Karya,Jl.Sunter
+12,Sunter Boulevard Barat,Jl.Yos Sudarso
+13,Kip,Jl. Bekasi Raya
+13,Tipar Cakung,Jl. Bekasi Raya
+13,United Tractors,Jl. Bekasi Raya
+13,Pasar Cakung,Jl. Bekasi Raya
+13,Cakung Cilincing,Jl. Bekasi Raya
+13,Pulogebang',Jl. Bekasi Raya
+13,Ujung Menteng,Jl. Bekasi Raya
+13,Harapan Indah (Wil Bekasi),

@@ -1,0 +1,43 @@
+jenis_angkutan,nama_perusahaan,layanan_patas_ac,layanan_trayek,layanan_patas,layanan_trayek2,layanan_reguler,layanan_trayek3,jumlah_armada
+Bus Kota,Perum PPD,48,4,101,7,133,8,282
+Bus Kota,Mayasari Bakti,557,53,117,12,24,3,698
+Bus Kota,PT. Bianglala Metropolitan,41,3,,,,,41
+Bus Kota,PT. Sinar Jaya Megah Langgeng,89,13,,,,,89
+Bus Kota,PT. Daya Sentosa Utama,,,23,1,,,23
+Bus Kota,PT. Jasa Utama,,,45,4,9,1,54
+Bus Kota,PT. Koda Jaya/AJA Putra,68,3,63,3,,,131
+Bus Kota,PT. Steady Safe,3,2,3,1,6,3,12
+Bus Kota,PT. ARH,,,13,1,,,13
+Bus Kota,PT. Metromini (bus besar),15,2,,,,,15
+APTB,Perum PPD,25,3,,,,,25
+APTB,Mayasari Bakti,65,5,,,,,65
+APTB,PT. Bianglala Metropolitan,15,1,,,,,15
+APTB,PT. Sinar Jaya Megah Langgeng,40,4,,,,,40
+APTB,PT. Hiba Utama,10,1,,,,,10
+APTB,PT. Anugerah Mas,38,3,,,,,38
+Busway Koridor 1,Perum DAMRI,51,1,,,,,51
+Busway Koridor 1,PT. JET,,,,,,,
+Busway Koridor 2,PT. Transbatavia,48,1,,,,,48
+Busway Koridor 3,PT. Transbatavia,76,1,,,,,76
+Busway Koridor 4,PT. Jakarta Trans Metropolitan,30,1,,,,,30
+Busway Koridor 4,PT. Primajasa Perdanaraya Utama,15,,,,,,15
+Busway Koridor 5,PT. Jakarta Mega Trans,13,1,,,,,13
+Busway Koridor 5,Eka Sari Lorena,13,,,,,,13
+Busway Koridor 6,PT. Jakarta Trans Metropolitan,31,1,,,,,31
+Busway Koridor 6,PT. Primajasa Perdanaraya Utama,25,,,,,,25
+Busway Koridor 7,PT. Jakarta Mega Trans,46,1,,,,,46
+Busway Koridor 7,Eka Sari Lorena,34,,,,,,34
+Busway Koridor 8,Perum DAMRI,15,1,,,,,15
+Busway Koridor 9, PT. Trans Mayapada Busway,41,1,,,,,41
+Busway Koridor 9,Bianglala Metropolitan,43,,,,,,43
+Busway Koridor 9,UP.TJ (Pemprov DKI Jakarta),54,,,,,,54
+Busway Koridor 10,PT.Trans Mayapada Busway,16,1,,,,,16
+Busway Koridor 10,PT. Bianglala Metropolitan,17,,,,,,17
+Busway Koridor 11,Perum DAMRI,21,1,,,,,21
+Busway Koridor 12,Bianglala Metropolitan,36,1,,,,,36
+Busway BW02EXP,UP.TJ (Pemprov DKI Jakarta),15,,,,,,15
+Busway BW03EXP,UP.TJ (Pemprov DKI Jakarta),15,,,,,,15
+Busway BWAMARI,PT. Bianglala Metropolitan,50,,,,,,50
+Busway BW,UP.TJ (Pemprov DKI Jakarta),96,,,,,,96
+Busway BEKAS JET,UP.TJ (Pemprov DKI Jakarta),40,,,,,,40
+Busway BKTB01,UP.TJ (Pemprov DKI Jakarta),18,,,,,,18

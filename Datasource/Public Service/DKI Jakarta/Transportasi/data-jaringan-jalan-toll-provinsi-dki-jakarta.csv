@@ -1,0 +1,1545 @@
+kota_administrasi,nama_jalan,panjang_jalan,lebar_jalan,sistem,fungsi,status,nomor_jalan,suffix
+jakarta pusat,Toll Ir. Wiyoto Wiyono,500,18,,Toll,Nasional,,0
+jakarta pusat,Toll By-Pass (A. Yani),3554,54,,Toll,Nasional,,0
+jakarta pusat,Toll Lingkar Dalam (Gatot Subroto),2340,22,,Toll,Nasional,,0
+jakarta utara,Toll Bandara (Prof. Sedyatmo),10270,16,,Toll,Nasional,,0
+jakarta utara,Toll Pelabuhan,14300,25,,Toll,Nasional,,0
+jakarta utara,Toll Pluit - Tomang,1350,18,,Toll,Nasional,,0
+jakarta utara,Toll Cacing (Cakung Cilincing),2000,18,,Toll,Nasional,,0
+jakarta utara,Toll Ir. Wiyoto Wiyono,3610,18,,Toll,Nasional,,0
+jakarta utara,Toll Yos Sudarso,2812,18,,Toll,Nasional,,0
+jakarta barat,Toll Bandara (Prof. Sedyatmo),2250,16,,Toll,Kota,,0
+jakarta barat,Toll Lingkar Luar Barat,7300,30,,Toll,Kota,,0
+jakarta barat,Toll Jakarta - Merak,9200,18,,Toll,Kota,,0
+jakarta barat,Toll Pluit - Tomang,3682,18,,Toll,Kota,,0
+jakarta barat,Toll Dr. Latumeten,2800,24,,Toll,Kota,,0
+jakarta barat,Toll Lingkar Dalam (S. Parman),3900,24,,Toll,Kota,,0
+jakarta selatan,Toll Ra. Kartini,3000,21,,Toll,Kota,,0
+jakarta selatan,Toll Tb. Simatupang,7300,21,,Toll,Kota,,0
+jakarta selatan,Toll Lingkar Dalam (Gatot Subroto),3467,22,,Toll,Kota,,0
+jakarta selatan,Toll Lingkar Dalam (Mt. Haryono),2548,18,,Toll,Kota,,0
+jakarta timur,Toll Jakarta - Cikampek,4550,18,,Toll,Kota,,0
+jakarta timur,Toll Jagorawi,14200,40,,Toll,Kota,,0
+jakarta timur,Toll Tb. Simatupang,2900,21,,Toll,Kota,,0
+jakarta timur,Toll Lingkar Luar Cikunir,5750,18,,Toll,Kota,,0
+jakarta timur,Toll Cacing (Cakung Cilincing),3000,18,,Toll,Kota,,0
+jakarta timur,Toll By-Pass (A. Yani),1946,54,,Toll,Kota,,0
+jakarta timur,Toll By-Pass (Di. Panjaitan),3500,30,,Toll,Kota,,0
+jakarta timur,Toll Lingkar Dalam (Mt. Haryono),1452,18,,Toll,Kota,,0
+jakarta pusat,Gatot Subroto,2173,20,Primer,Arteri,Nasional,2795,5
+jakarta pusat,Gatot Subroto,313,20,Primer,Arteri,Nasional,2795,6
+jakarta pusat,Gelora 1 (Pejompongan - Kebayoran Lama),788,15,Primer,Kolektor,Propinsi,1877,0
+jakarta pusat,Gelora 7 (Pejompongan - Kebayoran Lama),500,15,Primer,Kolektor,Propinsi,4584,0
+jakarta pusat,Angkasa Raya,1500,30,Sekunder,Arteri,Propinsi,321,0
+jakarta pusat,Arief Rachman Hakim,300,16,Sekunder,Arteri,Propinsi,35,0
+jakarta pusat,Asia Afrika,1650,20,Sekunder,Arteri,Propinsi,39,0
+jakarta pusat,Balikpapan,400,27,Sekunder,Arteri,Propinsi,,0
+jakarta pusat,Benyamin Sueb (Ex.Landasan Selatan) (Sebagian),4050,50,Sekunder,Arteri,Propinsi,634,2
+jakarta pusat,Cideng Barat,413,10,Sekunder,Arteri,Propinsi,294,1
+jakarta pusat,Cideng Barat,2000,10,Sekunder,Arteri,Propinsi,294,2
+jakarta pusat,Cideng Timur,2000,10,Sekunder,Arteri,Propinsi,296,1
+jakarta pusat,Cideng Timur,413,10,Sekunder,Arteri,Propinsi,296,2
+jakarta pusat,Cikini Raya,1680,12,Sekunder,Arteri,Propinsi,312,0
+jakarta pusat,Dakota Raya,932,7,Sekunder,Arteri,Propinsi,524,0
+jakarta pusat,Diponegoro,1890,18,Sekunder,Arteri,Propinsi,370,1
+jakarta pusat,Diponegoro,109,18,Sekunder,Arteri,Propinsi,370,2
+jakarta pusat,Diponegoro,656,18,Sekunder,Arteri,Propinsi,370,3
+jakarta pusat,Fachrudin,380,18,Sekunder,Arteri,Propinsi,,0
+jakarta pusat,Gajah Mada (Sebagian),775,24,Sekunder,Arteri,Propinsi,10044,1
+jakarta pusat,Garuda,970,20,Sekunder,Arteri,Propinsi,399,0
+jakarta pusat,Gelora / Lapangan Tembak,825,9,Sekunder,Arteri,Propinsi,,
+jakarta pusat,Gerbang Pemuda,1020,22,Sekunder,Arteri,Propinsi,20171,0
+jakarta pusat,Gunung Sahari 5,241,7,Sekunder,Arteri,Propinsi,420,0
+jakarta pusat,Gunung Sahari Raya (Sebagian),4066,26,Sekunder,Arteri,Propinsi,415,2
+jakarta pusat,"Hasyim Ashari, Kh",1114,22,Sekunder,Arteri,Propinsi,413,1
+jakarta pusat,"Hasyim Ashari, Kh",1100,22,Sekunder,Arteri,Propinsi,413,2
+jakarta pusat,Hayam Huruk (Sebagian),772,20,Sekunder,Arteri,Propinsi,10043,1
+jakarta pusat,Hos. Cokroaminoto,1819,11,Sekunder,Arteri,Propinsi,327,0
+jakarta pusat,Imam Bonjol,1330,18,Sekunder,Arteri,Propinsi,129,0
+jakarta pusat,Industri Raya,770,11,Sekunder,Arteri,Propinsi,4928,0
+jakarta pusat,Jatibaru,750,20,Sekunder,Arteri,Propinsi,3971,0
+jakarta pusat,Jatibunder,777,13,Sekunder,Arteri,Propinsi,507,0
+jakarta pusat,Juanda H.Ir,1050,17,Sekunder,Arteri,Propinsi,10022,0
+jakarta pusat,Karet Pasar Baru Barat,900,14,Sekunder,Arteri,Propinsi,77459,0
+jakarta pusat,Karet Pasar Baru Timur / Rm. Margono Djojohadikoesoemo,680,14,Sekunder,Arteri,Propinsi,443,0
+jakarta pusat,Kebon Jati,450,9,Sekunder,Arteri,Propinsi,9098,0
+jakarta pusat,Kebon Sirih Raya,562,17,Sekunder,Arteri,Propinsi,712,1
+jakarta pusat,Kebon Sirih Raya,1388,17,Sekunder,Arteri,Propinsi,712,2
+jakarta pusat,Kemayoran Gempol Raya,1157,14,Sekunder,Arteri,Propinsi,12157,0
+jakarta pusat,Kh. Imam Mahbub,492,10,Sekunder,Arteri,Propinsi,4250,0
+jakarta pusat,Kramat Bunder,490,25,Sekunder,Arteri,Propinsi,840,0
+jakarta pusat,Kramat Raya,1391,40,Sekunder,Arteri,Propinsi,9042,0
+jakarta pusat,Kwitang,672,12,Sekunder,Arteri,Propinsi,955,0
+jakarta pusat,Kyai Caringin,500,30,Sekunder,Arteri,Propinsi,10111,0
+jakarta pusat,Landasan Barat,685,35,Sekunder,Arteri,Propinsi,52307,0
+jakarta pusat,Landasan Timur,666,35,Sekunder,Arteri,Propinsi,52307,0
+jakarta pusat,Majapahit,430,33,Sekunder,Arteri,Propinsi,11674,0
+jakarta pusat,Mangga Besar Raya (Sebagian,357,15,Sekunder,Arteri,Propinsi,1624,3
+jakarta pusat,"Mas Mansyur, Kh",2695,20,Sekunder,Arteri,Propinsi,692,0
+jakarta pusat,Matraman Dalam,320,20,Sekunder,Arteri,Propinsi,694,0
+jakarta pusat,Medan Merdeka Barat,937,35,Sekunder,Arteri,Propinsi,11456,0
+jakarta pusat,Medan Merdeka Selatan,937,35,Sekunder,Arteri,Propinsi,1020,0
+jakarta pusat,Medan Merdeka Timur,963,30,Sekunder,Arteri,Propinsi,697,0
+jakarta pusat,Medan Merdeka Utara,900,35,Sekunder,Arteri,Propinsi,1022,0
+jakarta pusat,Menteng Raya,530,16,Sekunder,Arteri,Propinsi,8559,0
+jakarta pusat,Moh. Husni Thamrin,250,35,Sekunder,Arteri,Propinsi,700,1
+jakarta pusat,Moh. Husni Thamrin,500,35,Sekunder,Arteri,Propinsi,700,2
+jakarta pusat,Moh. Husni Thamrin,1500,35,Sekunder,Arteri,Propinsi,700,3
+jakarta pusat,Moh. Husni Thamrin / Bundaran Hotel Indonesia,370,35,Sekunder,Arteri,Propinsi,700,4
+jakarta pusat,Moh. Ichwan Ridwan Rais,400,25,Sekunder,Arteri,Propinsi,10070,0
+jakarta pusat,Pangeran Jayakarta (Sebagian),1205,21,Sekunder,Arteri,Propinsi,1075,1
+jakarta pusat,Pasar Senen,972,22,Sekunder,Arteri,Propinsi,1080,0
+jakarta pusat,Pejompongan,1400,10,Sekunder,Arteri,Propinsi,1120,0
+jakarta pusat,Penjernihan Raya,1274,21,Sekunder,Arteri,Propinsi,1133,0
+jakarta pusat,Perwira,360,11,Sekunder,Arteri,Propinsi,,0
+jakarta pusat,Pos,485,20,Sekunder,Arteri,Propinsi,9847,0
+jakarta pusat,Pramuka Raya,2500,35,Sekunder,Arteri,Propinsi,1235,0
+jakarta pusat,Prapatan,910,10,Sekunder,Arteri,Propinsi,1241,0
+jakarta pusat,Proklamasi,873,14,Sekunder,Arteri,Propinsi,14032,0
+jakarta pusat,Rajawali Selatan Raya,818,18,Sekunder,Arteri,Propinsi,16019,0
+jakarta pusat,Salemba Raya,1377,40,Sekunder,Arteri,Propinsi,1308,0
+jakarta pusat,"Samanhudi,Kh",1025,20,Sekunder,Arteri,Propinsi,439,0
+jakarta pusat,Serdang 3,793,7,Sekunder,Arteri,Propinsi,9973,0
+jakarta pusat,"Sudirman, Jend",610,40,Sekunder,Arteri,Propinsi,505,1
+jakarta pusat,"Sudirman, Jend",550,40,Sekunder,Arteri,Propinsi,505,2
+jakarta pusat,"Sudirman, Jend",2198,40,Sekunder,Arteri,Propinsi,505,3
+jakarta pusat,"Sudirman, Jend",550,40,Sekunder,Arteri,Propinsi,505,4
+jakarta pusat,"Sudirman, Jend",1053,40,Sekunder,Arteri,Propinsi,505,0
+jakarta pusat,Sukardjo Wiryopranoto,970,15,Sekunder,Arteri,Propinsi,4609,0
+jakarta pusat,"Suprapto, Letjend",4310,31,Sekunder,Arteri,Propinsi,972,0
+jakarta pusat,"Suratmo, Dr",375,20,Sekunder,Arteri,Propinsi,1623,0
+jakarta pusat,Suryo Pranoto,715,27,Sekunder,Arteri,Propinsi,1383,0
+jakarta pusat,"Sutomo, Dr",478,25,Sekunder,Arteri,Propinsi,374,0
+jakarta pusat,Tambak,540,18,Sekunder,Arteri,Propinsi,1417,0
+jakarta pusat,Tanah Tinggi Barat,300,10,Sekunder,Arteri,Propinsi,1452,0
+jakarta pusat,Tanah Tinggi Timur,300,10,Sekunder,Arteri,Propinsi,37629,0
+jakarta pusat,Utan Panjang Barat,560,10,Sekunder,Arteri,Propinsi,1620,0
+jakarta pusat,Utan Panjang Timur,925,10,Sekunder,Arteri,Propinsi,12612,0
+jakarta pusat,Veteran Raya,1050,20,Sekunder,Arteri,Propinsi,1486,0
+jakarta pusat,"Wahid Hasyim, Kh",408,14,Sekunder,Arteri,Propinsi,3875,1
+jakarta pusat,"Wahid Hasyim, Kh",488,14,Sekunder,Arteri,Propinsi,3875,2
+jakarta pusat,"Wahid Hasyim, Kh",800,14,Sekunder,Arteri,Propinsi,3875,3
+jakarta pusat,"Wahid Hasyim, Kh",1288,14,Sekunder,Arteri,Propinsi,3875,4
+jakarta pusat,Abdul Muis,1336,14,Sekunder,Kolektor,Propinsi,1,0
+jakarta pusat,Abdul Rachman Saleh,484,7,Sekunder,Kolektor,Propinsi,2,0
+jakarta pusat,Abdul Rachman Saleh 1,362,7,Sekunder,Kolektor,Propinsi,3,0
+jakarta pusat,"Agus Salim, K.H",450,14,Sekunder,Kolektor,Propinsi,9,1
+jakarta pusat,"Agus Salim, K.H",800,14,Sekunder,Kolektor,Propinsi,9,2
+jakarta pusat,"Agus Salim, K.H",200,14,Sekunder,Kolektor,Propinsi,9,3
+jakarta pusat,Alaydrus,772,7,Sekunder,Kolektor,Propinsi,11,0
+jakarta pusat,Am Sangaji,1165,9,Sekunder,Kolektor,Propinsi,727,0
+jakarta pusat,Antara,342,11,Sekunder,Kolektor,Propinsi,24,0
+jakarta pusat,B Kartini Raya,348,8,Sekunder,Kolektor,Propinsi,104,0
+jakarta pusat,Baladewa,712,8,Sekunder,Kolektor,Propinsi,45,0
+jakarta pusat,Batu Ceper,749,9,Sekunder,Kolektor,Propinsi,68,0
+jakarta pusat,Batu Tulis 13,450,9,Sekunder,Kolektor,Propinsi,86,0
+jakarta pusat,Batu Tulis Raya,640,9,Sekunder,Kolektor,Propinsi,73,0
+jakarta pusat,Belawan,250,7,Sekunder,Kolektor,Propinsi,87,0
+jakarta pusat,Bendungan Hilir 15,100,7,Sekunder,Kolektor,Propinsi,12673,0
+jakarta pusat,Bendungan Hilir 4,152,7,Sekunder,Kolektor,Propinsi,93,0
+jakarta pusat,Bendungan Hilir Raya,2250,14,Sekunder,Kolektor,Propinsi,89,0
+jakarta pusat,Bendungan Jago,1100,24,Sekunder,Kolektor,Propinsi,103,0
+jakarta pusat,Bendungan Jatiluhur,790,7,Sekunder,Kolektor,Propinsi,4043,0
+jakarta pusat,Bendungan Walahar,439,7,Sekunder,Kolektor,Propinsi,20068,0
+jakarta pusat,Bengawan,150,7,Sekunder,Kolektor,Propinsi,10032,0
+jakarta pusat,Biak,600,12,Sekunder,Kolektor,Propinsi,119,0
+jakarta pusat,Blora,374,15,Sekunder,Kolektor,Propinsi,88,0
+jakarta pusat,Brantas,225,7,Sekunder,Kolektor,Propinsi,4115,0
+jakarta pusat,Budi Kemuliaan Raya,552,12,Sekunder,Kolektor,Propinsi,135,0
+jakarta pusat,Budi Utomo,367,22,Sekunder,Kolektor,Propinsi,139,0
+jakarta pusat,Bungur Besar 6,324,18,Sekunder,Kolektor,Propinsi,149,0
+jakarta pusat,Bungur Besar Raya,1182,18,Sekunder,Kolektor,Propinsi,143,0
+jakarta pusat,Cempaka Baru Timur,750,7,Sekunder,Kolektor,Propinsi,11956,0
+jakarta pusat,Cempaka Putih Barat,196,8,Sekunder,Kolektor,Propinsi,171,0
+jakarta pusat,Cempaka Putih Barat 25,224,7,Sekunder,Kolektor,Propinsi,199,0
+jakarta pusat,Cempaka Putih Barat 26,2320,7,Sekunder,Kolektor,Propinsi,200,0
+jakarta pusat,Cempaka Putih Barat 4,282,7,Sekunder,Kolektor,Propinsi,200,0
+jakarta pusat,Cempaka Putih Raya,1530,15,Sekunder,Kolektor,Propinsi,170,0
+jakarta pusat,Cempaka Putih Tengah,1545,7,Sekunder,Kolektor,Propinsi,807,0
+jakarta pusat,Cempaka Putih Tengah 10,203,7,Sekunder,Kolektor,Propinsi,165,0
+jakarta pusat,Cempaka Putih Tengah 2,295,7,Sekunder,Kolektor,Propinsi,807,0
+jakarta pusat,Cempaka Putih Tengah Rsi,448,7,Sekunder,Kolektor,Propinsi,217,0
+jakarta pusat,Cempaka Putih Timur,1676,15,Sekunder,Kolektor,Propinsi,12179,0
+jakarta pusat,Cempaka Putih Utara,850,7,Sekunder,Kolektor,Propinsi,194,0
+jakarta pusat,Cepunegara,400,7,Sekunder,Kolektor,Propinsi,88691,0
+jakarta pusat,Cibanten,160,4,Sekunder,Kolektor,Propinsi,88691,0
+jakarta pusat,Cideng Barat Dalam,300,7,Sekunder,Kolektor,Propinsi,10030,0
+jakarta pusat,Cikini 6,600,7,Sekunder,Kolektor,Propinsi,88420,0
+jakarta pusat,Cilacap,340,7,Sekunder,Kolektor,Propinsi,313,0
+jakarta pusat,Cilosari,600,7,Sekunder,Kolektor,Propinsi,316,0
+jakarta pusat,Cimahi,300,7,Sekunder,Kolektor,Propinsi,7746,0
+jakarta pusat,Cimandiri,510,7,Sekunder,Kolektor,Propinsi,319,0
+jakarta pusat,Cipunagara,363,7,Sekunder,Kolektor,Propinsi,44681,0
+jakarta pusat,Citarum,800,7,Sekunder,Kolektor,Propinsi,325,0
+jakarta pusat,Cut Mutia,564,9,Sekunder,Kolektor,Propinsi,3955,0
+jakarta pusat,Cut Nyak Dien,544,9,Sekunder,Kolektor,Propinsi,329,0
+jakarta pusat,Danau Tondano,500,10,Sekunder,Kolektor,Propinsi,366,0
+jakarta pusat,Duri Pasar,650,7,Sekunder,Kolektor,Propinsi,13032,0
+jakarta pusat,Galur ,600,16,Sekunder,Kolektor,Propinsi,33853,0
+jakarta pusat,Galur Selatan,600,8,Sekunder,Kolektor,Propinsi,248,0
+jakarta pusat,Gedung Kesenian,291,20,Sekunder,Kolektor,Propinsi,402,0
+jakarta pusat,Gelora ( Ex. Lapangan Tembak),804,22,Sekunder,Kolektor,Propinsi,3459,0
+jakarta pusat,Gunung Sahari 1,280,7,Sekunder,Kolektor,Propinsi,416,0
+jakarta pusat,Gunung Sahari 11,423,7,Sekunder,Kolektor,Propinsi,428,0
+jakarta pusat,Gunung Sahari 2,318,7,Sekunder,Kolektor,Propinsi,12028,0
+jakarta pusat,Gunung Sahari 3,311,7,Sekunder,Kolektor,Propinsi,425,0
+jakarta pusat,Gunung Sahari 7a,1159,7,Sekunder,Kolektor,Propinsi,423,0
+jakarta pusat,Hang Lekir 1,426,10,Sekunder,Kolektor,Propinsi,2829,0
+jakarta pusat,Hati Suci,204,8,Sekunder,Kolektor,Propinsi,20028,0
+jakarta pusat,Howitzer,753,8,Sekunder,Kolektor,Propinsi,464,0
+jakarta pusat,Jaksa,785,7,Sekunder,Kolektor,Propinsi,825,0
+jakarta pusat,Jatibaru Barat,100,7,Sekunder,Kolektor,Propinsi,10110,0
+jakarta pusat,Jatibaru Bengkel,300,7,Sekunder,Kolektor,Propinsi,10091,0
+jakarta pusat,Jatibaru Timur,150,7,Sekunder,Kolektor,Propinsi,10133,0
+jakarta pusat,Johar,290,9,Sekunder,Kolektor,Propinsi,508,0
+jakarta pusat,Johar Baru,900,7,Sekunder,Kolektor,Propinsi,509,0
+jakarta pusat,Johar Baru 1,317,7,Sekunder,Kolektor,Propinsi,3748,0
+jakarta pusat,Johar Baru 2,312,7,Sekunder,Kolektor,Propinsi,511,0
+jakarta pusat,Johar Baru 4,323,7,Sekunder,Kolektor,Propinsi,513,0
+jakarta pusat,Johar Baru 5,272,7,Sekunder,Kolektor,Propinsi,3753,0
+jakarta pusat,"Juanda 3, Ir, H",750,7,Sekunder,Kolektor,Propinsi,158,0
+jakarta pusat,Kali Baru Timur 1,170,7,Sekunder,Kolektor,Propinsi,542,0
+jakarta pusat,Kali Baru Timur 3,760,14,Sekunder,Kolektor,Propinsi,533,0
+jakarta pusat,Kali Baru Timur 4,750,14,Sekunder,Kolektor,Propinsi,535,0
+jakarta pusat,Kali Baru Timur 6,750,14,Sekunder,Kolektor,Propinsi,998,0
+jakarta pusat,Kali Lio,375,7,Sekunder,Kolektor,Propinsi,12793,0
+jakarta pusat,Kampung Bali 6,200,7,Sekunder,Kolektor,Propinsi,20114,0
+jakarta pusat,Kampung Rawa Selatan,1000,15,Sekunder,Kolektor,Propinsi,8933,0
+jakarta pusat,Kampung Rawa Selatan 4,417,7,Sekunder,Kolektor,Propinsi,8349,0
+jakarta pusat,Karang Anyar,570,7,Sekunder,Kolektor,Propinsi,83978,0
+jakarta pusat,Karang Anyar A,570,9,Sekunder,Kolektor,Propinsi,1627,0
+jakarta pusat,Karang Anyar B,400,7,Sekunder,Kolektor,Propinsi,5393,0
+jakarta pusat,Karang Anyar Krekot Jaya,771,7,Sekunder,Kolektor,Propinsi,5393,0
+jakarta pusat,Karang Anyar Utara,600,7,Sekunder,Kolektor,Propinsi,24266,0
+jakarta pusat,Kartini Raya,1180,7,Sekunder,Kolektor,Propinsi,617,0
+jakarta pusat,Kathedral,163,10,Sekunder,Kolektor,Propinsi,8738,0
+jakarta pusat,Kebon Jahe Kober,300,8,Sekunder,Kolektor,Propinsi,8591,0
+jakarta pusat,Kebon Kacang 1,787,7,Sekunder,Kolektor,Propinsi,636,0
+jakarta pusat,Kebon Kacang 10,150,7,Sekunder,Kolektor,Propinsi,646,0
+jakarta pusat,Kebon Kacang 11,551,20,Sekunder,Kolektor,Propinsi,1005,0
+jakarta pusat,Kebon Kacang 29,300,7,Sekunder,Kolektor,Propinsi,20017,0
+jakarta pusat,Kebon Kacang 30,500,7,Sekunder,Kolektor,Propinsi,666,0
+jakarta pusat,Kebon Kacang 41,656,8,Sekunder,Kolektor,Propinsi,1421,0
+jakarta pusat,Kebon Kacang 6,539,7,Sekunder,Kolektor,Propinsi,442,0
+jakarta pusat,Kebon Kacang 8,208,9,Sekunder,Kolektor,Propinsi,20057,0
+jakarta pusat,Kebon Kacang 9,742,12,Sekunder,Kolektor,Propinsi,645,0
+jakarta pusat,Kebon Kacang Raya,1233,7,Sekunder,Kolektor,Propinsi,636,0
+jakarta pusat,Kebon Kosong Raya,300,7,Sekunder,Kolektor,Propinsi,685,0
+jakarta pusat,Kebon Melati,280,7,Sekunder,Kolektor,Propinsi,18008,0
+jakarta pusat,Kebon Sirih Timur,700,7,Sekunder,Kolektor,Propinsi,24267,0
+jakarta pusat,Kelinci Raya,400,7,Sekunder,Kolektor,Propinsi,814,0
+jakarta pusat,Kembang,566,7,Sekunder,Kolektor,Propinsi,842,0
+jakarta pusat,Kembang Pacar,325,7,Sekunder,Kolektor,Propinsi,753,0
+jakarta pusat,Kembang Sepatu,700,7,Sekunder,Kolektor,Propinsi,752,0
+jakarta pusat,Kendal,588,9,Sekunder,Kolektor,Propinsi,757,0
+jakarta pusat,Kepu Selatan,720,16,Sekunder,Kolektor,Propinsi,778,0
+jakarta pusat,Kepu Timur,800,16,Sekunder,Kolektor,Propinsi,779,0
+jakarta pusat,Kesehatan,220,7,Sekunder,Kolektor,Propinsi,786,0
+jakarta pusat,Kimia,483,7,Sekunder,Kolektor,Propinsi,14098,0
+jakarta pusat,Kodam Raya,400,12,Sekunder,Kolektor,Propinsi,12609,0
+jakarta pusat,Kramat 2,765,7,Sekunder,Kolektor,Propinsi,851,0
+jakarta pusat,Kramat 4,517,7,Sekunder,Kolektor,Propinsi,832,0
+jakarta pusat,Kramat Jaya Baru,750,7,Sekunder,Kolektor,Propinsi,675,0
+jakarta pusat,Kramat Jaya Baru 4,253,6,Sekunder,Kolektor,Propinsi,3792,0
+jakarta pusat,Kramat Jaya Baru 4,416,7,Sekunder,Kolektor,Propinsi,8288,0
+jakarta pusat,Kramat Pulo,1060,7,Sekunder,Kolektor,Propinsi,12716,0
+jakarta pusat,Kramat Pulo Dalam,525,7,Sekunder,Kolektor,Propinsi,12796,0
+jakarta pusat,Kramat Pulo Dalam 1,225,7,Sekunder,Kolektor,Propinsi,8224,0
+jakarta pusat,Kramat Pulo Gundul ,1076,11,Sekunder,Kolektor,Propinsi,909,0
+jakarta pusat,Kramat Pulo Gundul Sd,49,11,Sekunder,Kolektor,Propinsi,409,0
+jakarta pusat,Kramat Sintiong,660,7,Sekunder,Kolektor,Propinsi,296,0
+jakarta pusat,Krekot Bunder,335,7,Sekunder,Kolektor,Propinsi,938,0
+jakarta pusat,Krekot Jaya,290,7,Sekunder,Kolektor,Propinsi,105,0
+jakarta pusat,Kudus,348,6,Sekunder,Kolektor,Propinsi,13370,0
+jakarta pusat,Kusuma Atmaja,1060,19,Sekunder,Kolektor,Propinsi,90,0
+jakarta pusat,Kwini 1,215,7,Sekunder,Kolektor,Propinsi,953,0
+jakarta pusat,Kwini 2,702,7,Sekunder,Kolektor,Propinsi,954,0
+jakarta pusat,Lapangan Banteng Barat,177,12,Sekunder,Kolektor,Propinsi,961,0
+jakarta pusat,Lapangan Banteng Selatan,337,12,Sekunder,Kolektor,Propinsi,962,0
+jakarta pusat,Lapangan Banteng Timur,320,12,Sekunder,Kolektor,Propinsi,963,0
+jakarta pusat,Lapangan Banteng Utara,365,12,Sekunder,Kolektor,Propinsi,964,0
+jakarta pusat,Latuharhary,1700,7,Sekunder,Kolektor,Propinsi,973,0
+jakarta pusat,Lautze,1250,21,Sekunder,Kolektor,Propinsi,967,0
+jakarta pusat,Madiun,353,9,Sekunder,Kolektor,Propinsi,7752,0
+jakarta pusat,Mangga Besar 13,925,7,Sekunder,Kolektor,Propinsi,2226,0
+jakarta pusat,Mangga Dua Dalam,625,22,Sekunder,Kolektor,Propinsi,10001,0
+jakarta pusat,Mangun Sarkoro,1600,13,Sekunder,Kolektor,Propinsi,1003,0
+jakarta pusat,Mardani Raya,1005,7,Sekunder,Kolektor,Propinsi,1011,0
+jakarta pusat,Moh. Ali,600,14,Sekunder,Kolektor,Propinsi,719,0
+jakarta pusat,"Moh. Yamin, Prof.",1710,18,Sekunder,Kolektor,Propinsi,71680,0
+jakarta pusat,Musi,630,13,Sekunder,Kolektor,Propinsi,10215,0
+jakarta pusat,Musium,325,8,Sekunder,Kolektor,Propinsi,1062,0
+jakarta pusat,Narada,700,13,Sekunder,Kolektor,Propinsi,741,0
+jakarta pusat,Palmerah Raya,739,8,Sekunder,Kolektor,Propinsi,34885,0
+jakarta pusat,Pam,225,7,Sekunder,Kolektor,Propinsi,9968,0
+jakarta pusat,Pamekasan,255,8,Sekunder,Kolektor,Propinsi,7836,0
+jakarta pusat,Pangeran Jayakarta Dalam,338,7,Sekunder,Kolektor,Propinsi,16820,0
+jakarta pusat,Pasar Baru,625,7,Sekunder,Kolektor,Propinsi,1076,0
+jakarta pusat,Pasar Baru Selatan,660,10,Sekunder,Kolektor,Propinsi,769,0
+jakarta pusat,Pasar Baru Timur,580,7,Sekunder,Kolektor,Propinsi,1078,0
+jakarta pusat,Paseban ,820,8,Sekunder,Kolektor,Propinsi,1081,0
+jakarta pusat,Paseban Dalam 1,223,16,Sekunder,Kolektor,Propinsi,1316,0
+jakarta pusat,Pasuruan,436,7,Sekunder,Kolektor,Propinsi,1109,0
+jakarta pusat,Patal Senayan,303,12,Sekunder,Kolektor,Propinsi,11706,0
+jakarta pusat,Pecenongan,603,7,Sekunder,Kolektor,Propinsi,1112,0
+jakarta pusat,Pejambon,637,16,Sekunder,Kolektor,Propinsi,1115,0
+jakarta pusat,Pelataran Monas Barat,191,45,Sekunder,Kolektor,Propinsi,10047,0
+jakarta pusat,Pelataran Monas Selatan,173,45,Sekunder,Kolektor,Propinsi,2245,0
+jakarta pusat,Pelataran Monas Timur,191,45,Sekunder,Kolektor,Propinsi,10038,0
+jakarta pusat,Pelataran Monas Utara,171,45,Sekunder,Kolektor,Propinsi,1041,0
+jakarta pusat,Penjernihan 1 (Pam Lama),596,7,Sekunder,Kolektor,Propinsi,4013,0
+jakarta pusat,Penjernihan 6,375,7,Sekunder,Kolektor,Propinsi,77482,0
+jakarta pusat,Percetakan Negara,1720,11,Sekunder,Kolektor,Propinsi,1138,0
+jakarta pusat,Percetakan Negara 1,500,11,Sekunder,Kolektor,Propinsi,1139,0
+jakarta pusat,Percetakan Negara 11,405,9,Sekunder,Kolektor,Propinsi,1150,0
+jakarta pusat,Percetakan Negara 2,993,7,Sekunder,Kolektor,Propinsi,1140,0
+jakarta pusat,Percetakan Negara 2a,893,7,Sekunder,Kolektor,Propinsi,1140,0
+jakarta pusat,Percetakan Negara 4,299,9,Sekunder,Kolektor,Propinsi,3767,0
+jakarta pusat,Percetakan Negara 5,600,7,Sekunder,Kolektor,Propinsi,1144,0
+jakarta pusat,Percetakan Negara 6,575,7,Sekunder,Kolektor,Propinsi,8496,0
+jakarta pusat,Percetakan Negara 9,400,12,Sekunder,Kolektor,Propinsi,22091,0
+jakarta pusat,Percetakan Negara 9a,300,12,Sekunder,Kolektor,Propinsi,8039,0
+jakarta pusat,Persatuan Guru,500,7,Sekunder,Kolektor,Propinsi,1151,0
+jakarta pusat,Petamburan (Exs. Jati Pinggir),200,7,Sekunder,Kolektor,Propinsi,7800,0
+jakarta pusat,Petojo Enclek 14,256,8,Sekunder,Kolektor,Propinsi,10052,0
+jakarta pusat,Pintu 1 Senayan (Pintu Gelora 1),853,12,Sekunder,Kolektor,Propinsi,88692,0
+jakarta pusat,Pintu 7 Senayan (Pintu Gelora 7),800,8,Sekunder,Kolektor,Propinsi,24523,0
+jakarta pusat,Pintu Air 1/Rel Ka.,650,7,Sekunder,Kolektor,Propinsi,16030,0
+jakarta pusat,Pintu Air Raya,800,20,Sekunder,Kolektor,Propinsi,3179,0
+jakarta pusat,Plaju,279,6,Sekunder,Kolektor,Propinsi,1111,0
+jakarta pusat,Pramuka Jati,696,8,Sekunder,Kolektor,Propinsi,18012,0
+jakarta pusat,Pulo Gundul,1076,10,Sekunder,Kolektor,Propinsi,3717,0
+jakarta pusat,Raden Saleh ,1450,11,Sekunder,Kolektor,Propinsi,14006,0
+jakarta pusat,Rajawali Selatan 1,550,7,Sekunder,Kolektor,Propinsi,1257,0
+jakarta pusat,Rajawali Selatan 12,615,12,Sekunder,Kolektor,Propinsi,1268,0
+jakarta pusat,Rajawali Selatan 2,628,21,Sekunder,Kolektor,Propinsi,1258,0
+jakarta pusat,Rajawali Selatan 3,421,21,Sekunder,Kolektor,Propinsi,1259,0
+jakarta pusat,Rawa Sawah,300,7,Sekunder,Kolektor,Propinsi,71936,0
+jakarta pusat,Rawa Selatan,502,4,Sekunder,Kolektor,Propinsi,22056,0
+jakarta pusat,Rawasari,900,9,Sekunder,Kolektor,Propinsi,3465,0
+jakarta pusat,Rawasari Barat,300,7,Sekunder,Kolektor,Propinsi,3465,0
+jakarta pusat,Rawasari Barat 10,275,7,Sekunder,Kolektor,Propinsi,77582,0
+jakarta pusat,Rawasari Selatan,720,9,Sekunder,Kolektor,Propinsi,1285,0
+jakarta pusat,Rawasari Selatan 1,320,6,Sekunder,Kolektor,Propinsi,1286,0
+jakarta pusat,Rawasari Timur,505,20,Sekunder,Kolektor,Propinsi,77581,0
+jakarta pusat,Remaja 3,150,7,Sekunder,Kolektor,Propinsi,88722,0
+jakarta pusat,Rp. Soeroso (Ex. Gondangdia),1080,10,Sekunder,Kolektor,Propinsi,412,0
+jakarta pusat,Salemba Tengah,675,9,Sekunder,Kolektor,Propinsi,1310,0
+jakarta pusat,Samratulangi,700,14,Sekunder,Kolektor,Propinsi,372,0
+jakarta pusat,Semangat Raya,385,4,Sekunder,Kolektor,Propinsi,9025,0
+jakarta pusat,Senen Raya ,651,22,Sekunder,Kolektor,Propinsi,1338,0
+jakarta pusat,Senen Raya 3,250,7,Sekunder,Kolektor,Propinsi,1341,0
+jakarta pusat,Serdang ,717,8,Sekunder,Kolektor,Propinsi,1377,0
+jakarta pusat,Serdang 3,250,7,Sekunder,Kolektor,Propinsi,9973,0
+jakarta pusat,Serdang Baru,705,8,Sekunder,Kolektor,Propinsi,2428,0
+jakarta pusat,Silang Monas Barat Daya,627,20,Sekunder,Kolektor,Propinsi,34,0
+jakarta pusat,Silang Monas Barat Laut,517,20,Sekunder,Kolektor,Propinsi,8426,0
+jakarta pusat,Silang Monas Tenggara,701,20,Sekunder,Kolektor,Propinsi,28,0
+jakarta pusat,Silang Monas Timur Laut,217,20,Sekunder,Kolektor,Propinsi,8427,0
+jakarta pusat,Stasiun Senen,374,14,Sekunder,Kolektor,Propinsi,1366,0
+jakarta pusat,Sumur Batu,927,11,Sekunder,Kolektor,Propinsi,13733,0
+jakarta pusat,Sumur Batu Pasar,827,7,Sekunder,Kolektor,Propinsi,5019,0
+jakarta pusat,Sumur Batu Utara,600,9,Sekunder,Kolektor,Propinsi,136,0
+jakarta pusat,Sunter Bendungan Jago,1114,6,Sekunder,Kolektor,Propinsi,123,0
+jakarta pusat,Surabaya,894,7,Sekunder,Kolektor,Propinsi,1380,0
+jakarta pusat,Sutan Syahrir,213,7,Sekunder,Kolektor,Propinsi,14027,0
+jakarta pusat,Suwiryo,807,7,Sekunder,Kolektor,Propinsi,1385,0
+jakarta pusat,Syamsu Rizal,547,31,Sekunder,Kolektor,Propinsi,589,0
+jakarta pusat,Talang Betutu,277,8,Sekunder,Kolektor,Propinsi,1389,0
+jakarta pusat,Taman Jatibaru,450,9,Sekunder,Kolektor,Propinsi,8190,0
+jakarta pusat,Taman Kebon Sirih,400,8,Sekunder,Kolektor,Propinsi,387,0
+jakarta pusat,Taman Sunda Kelapa,386,9,Sekunder,Kolektor,Propinsi,1413,0
+jakarta pusat,Tambora 4,1005,7,Sekunder,Kolektor,Propinsi,2290,0
+jakarta pusat,Tanah Abang 1,950,9,Sekunder,Kolektor,Propinsi,1420,0
+jakarta pusat,Tanah Abang 2,1410,14,Sekunder,Kolektor,Propinsi,1353,0
+jakarta pusat,Tanah Abang 3,550,10,Sekunder,Kolektor,Propinsi,1420,0
+jakarta pusat,Tanah Abang 4,725,8,Sekunder,Kolektor,Propinsi,1423,0
+jakarta pusat,Tanah Abang Timur,550,7,Sekunder,Kolektor,Propinsi,885,0
+jakarta pusat,Tanah Tinggi 1,700,13,Sekunder,Kolektor,Propinsi,2224,0
+jakarta pusat,Tanah Tinggi 2,250,7,Sekunder,Kolektor,Propinsi,1437,0
+jakarta pusat,Tanah Tinggi 4,825,7,Sekunder,Kolektor,Propinsi,1439,0
+jakarta pusat,Tanah Tinggi 5,300,7,Sekunder,Kolektor,Propinsi,1410,0
+jakarta pusat,Tanah Tinggi 6,250,7,Sekunder,Kolektor,Propinsi,31153,0
+jakarta pusat,Tanah Tinggi 8,250,7,Sekunder,Kolektor,Propinsi,33852,0
+jakarta pusat,Tanjung,101,8,Sekunder,Kolektor,Propinsi,11879,0
+jakarta pusat,Tanjung Karang,500,7,Sekunder,Kolektor,Propinsi,1457,0
+jakarta pusat,Tanjung Selor,925,9,Sekunder,Kolektor,Propinsi,1458,0
+jakarta pusat,Taruna ,589,7,Sekunder,Kolektor,Propinsi,64140,0
+jakarta pusat,Teuku Cik Ditiro,1500,7,Sekunder,Kolektor,Propinsi,11875,0
+jakarta pusat,Teuku Umar,1200,16,Sekunder,Kolektor,Propinsi,1472,1
+jakarta pusat,Teuku Umar,1611,16,Sekunder,Kolektor,Propinsi,1472,2
+jakarta pusat,Tikungan Cideng Barat,99,12,Sekunder,Kolektor,Propinsi,0,0
+jakarta pusat,Tikungan Cideng Timur,158,12,Sekunder,Kolektor,Propinsi,0,0
+jakarta pusat,Tongkang,486,7,Sekunder,Kolektor,Propinsi,8011,0
+jakarta pusat,Untung Suropati,451,10,Sekunder,Kolektor,Propinsi,1414,0
+jakarta pusat,Veteran 1,500,7,Sekunder,Kolektor,Propinsi,8736,0
+jakarta pusat,Veteran 2,400,7,Sekunder,Kolektor,Propinsi,1489,0
+jakarta pusat,"Wahidin Raya, Dr",372,22,Sekunder,Kolektor,Propinsi,375,0
+jakarta pusat,"Yusuf Adiwinata, Sh",782,7,Sekunder,Kolektor,Propinsi,7,0
+jakarta utara,Akses Marunda,3620,14,Primer,Arteri,Nasional,,0
+jakarta utara,Cakung Cilincing,5075,14,Primer,Arteri,Nasional,,0
+jakarta utara,Cilincing Raya,1731,18,Primer,Arteri,Nasional,45373,1
+jakarta utara,Enggano,945,16,Primer,Arteri,Nasional,21496,0
+jakarta utara,Gedong Panjang (Sebagian),316,16,Primer,Arteri,Nasional,1601,0
+jakarta utara,Jampea,1138,14,Primer,Arteri,Nasional,14614,0
+jakarta utara,Jembatan Dua,606,24,Primer,Arteri,Nasional,24110,0
+jakarta utara,Jembatan Tiga,1129,24,Primer,Arteri,Nasional,1618,0
+jakarta utara,Krapu,160,12,Primer,Arteri,Nasional,4915,0
+jakarta utara,Laks. R.E. Martadinata,7210,14,Primer,Arteri,Nasional,1652,0
+jakarta utara,Lodan,1391,14,Primer,Arteri,Nasional,162,0
+jakarta utara,Pakin,585,9,Primer,Arteri,Nasional,154,0
+jakarta utara,Perintis Kemerdekaan,1930,37,Primer,Arteri,Nasional,169,1
+jakarta utara,Perintis Kemerdekaan,2170,37,Primer,Arteri,Nasional,169,2
+jakarta utara,Pluit Selatan Raya,1489,16,Primer,Arteri,Nasional,24192,0
+jakarta utara,Raya Pelabuhan,351,14,Primer,Arteri,Nasional,1772,1
+jakarta utara,Sulawesi,329,30,Primer,Arteri,Nasional,1906,0
+jakarta utara,Taman Stasiun Tanjung Priok,450,14,Primer,Arteri,Nasional,28757,0
+jakarta utara,Yos Sudarso,2463,30,Primer,Arteri,Nasional,5361,1
+jakarta utara,Yos Sudarso,1801,30,Primer,Arteri,Nasional,5361,2
+jakarta utara,Yos Sudarso,2463,30,Primer,Arteri,Nasional,5361,3
+jakarta utara,Bandengan Selatan (Sebagian),800,12,Sekunder,Arteri,Propinsi,1968,2
+jakarta utara,Bandengan Utara (Sebagian),800,12,Sekunder,Arteri,Propinsi,1969,2
+jakarta utara,Benyamin Sueb (Ex.Landasan Selatan) (Sebagian),2240,50,Sekunder,Arteri,Propinsi,634,1
+jakarta utara,Boulevard Artha Gading,1100,14,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Boulevard Barat Raya,2100,14,Sekunder,Arteri,Propinsi,30884,0
+jakarta utara,Boulevard Timur Raya,1500,14,Sekunder,Arteri,Propinsi,30821,0
+jakarta utara,Cilincing Landak,1380,7,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Cilincing Marunda,1465,5,Sekunder,Arteri,Propinsi,10537,1
+jakarta utara,Cilincing Marunda Makmur,1147,8,Sekunder,Arteri,Propinsi,10537,2
+jakarta utara,Danau Indah Raya,410,8,Sekunder,Arteri,Propinsi,517,0
+jakarta utara,Danau Sunter,900,20,Sekunder,Arteri,Propinsi,4108,0
+jakarta utara,Danau Sunter Barat,3075,18,Sekunder,Arteri,Propinsi,28078,0
+jakarta utara,Danau Sunter Selatan,3375,18,Sekunder,Arteri,Propinsi,28119,0
+jakarta utara,Danau Sunter Utara,2895,18,Sekunder,Arteri,Propinsi,28090,0
+jakarta utara,Gaya Motor,735,7,Sekunder,Arteri,Propinsi,28424,0
+jakarta utara,Gedong Panjang (Sebagian),900,9,Sekunder,Arteri,Propinsi,1601,2
+jakarta utara,Griya Utama,475,14,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Gunung Sahari Raya (Sebagian),1200,26,Sekunder,Arteri,Propinsi,415,1
+jakarta utara,Jayapura,1100,14,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Kampung Bandan,900,9,Sekunder,Arteri,Propinsi,159,2
+jakarta utara,Kapuk Kamal Raya,1632,10,Sekunder,Arteri,Propinsi,431,0
+jakarta utara,Kapuk Raya ,1160,9,Sekunder,Arteri,Propinsi,5700,1
+jakarta utara,Kapuk Raya ,2460,9,Sekunder,Arteri,Propinsi,5700,2
+jakarta utara,Kelapa Gading Boulevard,2950,20,Sekunder,Arteri,Propinsi,30641,0
+jakarta utara,Kramat Jaya,1550,14,Sekunder,Arteri,Propinsi,4094,0
+jakarta utara,Landasan Pacu Barat / Hbr. Motik,850,35,Sekunder,Arteri,Propinsi,52307,0
+jakarta utara,Landasan Pacu Timur / Hbr. Motik,1725,35,Sekunder,Arteri,Propinsi,12788,0
+jakarta utara,Mandara Permai,250,7,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Mangga Dua Raya (Sebagian),1194,31,Sekunder,Arteri,Propinsi,5712,1
+jakarta utara,Mitra Sunter Boulevard,400,18,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Muara Baru,2040,9,Sekunder,Arteri,Propinsi,24656,0
+jakarta utara,Pahlawan/ Tipar Cakung (Sebagian),3625,14,Sekunder,Arteri,Propinsi,36825,0
+jakarta utara,Pantai Indah Barat,2700,7,Sekunder,Arteri,Propinsi,759,0
+jakarta utara,Pantai Indah Timur,3450,7,Sekunder,Arteri,Propinsi,766,0
+jakarta utara,Pegangsaan Dua Raya,8100,7,Sekunder,Arteri,Propinsi,892,0
+jakarta utara,Pluit Barat Raya,2600,9,Sekunder,Arteri,Propinsi,1793,0
+jakarta utara,Pluit Indah,1200,10,Sekunder,Arteri,Propinsi,1802,0
+jakarta utara,Pluit Karang,900,11,Sekunder,Arteri,Propinsi,3815,0
+jakarta utara,Pluit Karang (Exs. Muara Karang),900,11,Sekunder,Arteri,Propinsi,5265,0
+jakarta utara,Pluit Kencana,1030,7,Sekunder,Arteri,Propinsi,1803,0
+jakarta utara,Pluit Permai,1400,8,Sekunder,Arteri,Propinsi,4102,0
+jakarta utara,Pluit Putra,580,7,Sekunder,Arteri,Propinsi,7055,0
+jakarta utara,Pluit Putri,580,7,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Pluit Raya,1700,9,Sekunder,Arteri,Propinsi,1792,0
+jakarta utara,Pluit Sakti,1620,8,Sekunder,Arteri,Propinsi,1711,0
+jakarta utara,Pluit Timur Raya,1330,9,Sekunder,Arteri,Propinsi,1898,0
+jakarta utara,Pluit Utara Raya,1600,21,Sekunder,Arteri,Propinsi,4592,0
+jakarta utara,Plumpang Semper,1520,12,Sekunder,Arteri,Propinsi,4150,0
+jakarta utara,Plumpang Semper,2100,12,Sekunder,Arteri,Propinsi,4150,0
+jakarta utara,Rorotan,1280,5,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Rorotan 5,2660,4,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Rorotan 4,790,5,Sekunder,Arteri,Propinsi,,0
+jakarta utara,Sunter Jaya (Ex. Sunter Kemayoran),2730,12,Sekunder,Arteri,Propinsi,32798,0
+jakarta utara,Taman Sunter Indah,575,12,Sekunder,Arteri,Propinsi,71942,0
+jakarta utara,Teluk Gong Raya,2000,12,Sekunder,Arteri,Propinsi,4802,0
+jakarta utara,Tongkol,550,7,Sekunder,Arteri,Propinsi,24190,0
+jakarta utara,Tugu Raya (Tugu Semper),1184,9,Sekunder,Arteri,Propinsi,3230,0
+jakarta utara,Agung Barat 1,450,7,Sekunder,Kolektor,Propinsi,28132,0
+jakarta utara,Agung Indah 1,675,7,Sekunder,Kolektor,Propinsi,1102,0
+jakarta utara,Agung Indah 3,463,7,Sekunder,Kolektor,Propinsi,28408,0
+jakarta utara,Agung Perkasa Raya,735,7,Sekunder,Kolektor,Propinsi,28755,0
+jakarta utara,Agung Tengah 15,312,7,Sekunder,Kolektor,Propinsi,28406,0
+jakarta utara,Agung Tengah 4,1200,7,Sekunder,Kolektor,Propinsi,1068,0
+jakarta utara,Agung Timur 9,900,7,Sekunder,Kolektor,Propinsi,21479,0
+jakarta utara,Agung Utara 1,651,7,Sekunder,Kolektor,Propinsi,28101,0
+jakarta utara,Alamanda ,150,7,Sekunder,Kolektor,Propinsi,59556,0
+jakarta utara,Alas ,1126,8,Sekunder,Kolektor,Propinsi,1504,0
+jakarta utara,Alur Laut,750,7,Sekunder,Kolektor,Propinsi,30741,1
+jakarta utara,Alur Laut,575,7,Sekunder,Kolektor,Propinsi,30741,2
+jakarta utara,Alur Laut Utara,475,7,Sekunder,Kolektor,Propinsi,21475,0
+jakarta utara,Ampera 7 ,900,8,Sekunder,Kolektor,Propinsi,24169,0
+jakarta utara,Ampera Besar,860,7,Sekunder,Kolektor,Propinsi,24160,0
+jakarta utara,Ampera Raya,450,7,Sekunder,Kolektor,Propinsi,77494,0
+jakarta utara,Bahari Raya,405,7,Sekunder,Kolektor,Propinsi,71916,0
+jakarta utara,Banda,520,9,Sekunder,Kolektor,Propinsi,1256,0
+jakarta utara,Bangun Cipta Sarana,800,7,Sekunder,Kolektor,Propinsi,90654,0
+jakarta utara,Bisma Raya,3330,8,Sekunder,Kolektor,Propinsi,11536,0
+jakarta utara,Budi Mulia,1043,8,Sekunder,Kolektor,Propinsi,4008,0
+jakarta utara,Bugis,1018,7,Sekunder,Kolektor,Propinsi,1533,0
+jakarta utara,Bukit Gading Raya,900,7,Sekunder,Kolektor,Propinsi,30566,0
+jakarta utara,Buritan,450,7,Sekunder,Kolektor,Propinsi,30168,0
+jakarta utara,Cemara Angin,1100,7,Sekunder,Kolektor,Propinsi,65285,0
+jakarta utara,Cikijang,240,7,Sekunder,Kolektor,Propinsi,83080,0
+jakarta utara,Cilincing Baru,410,7,Sekunder,Kolektor,Propinsi,32039,0
+jakarta utara,Cilincing Kelapa,401,7,Sekunder,Kolektor,Propinsi,32080,0
+jakarta utara,Cilincing Kesatrian,550,7,Sekunder,Kolektor,Propinsi,32091,0
+jakarta utara,Cilincing Lama,401,7,Sekunder,Kolektor,Propinsi,11561,0
+jakarta utara,Cilincing Pagi,250,7,Sekunder,Kolektor,Propinsi,32101,0
+jakarta utara,Cipeucang 2,525,7,Sekunder,Kolektor,Propinsi,4064,0
+jakarta utara,Cipeucang 5,425,7,Sekunder,Kolektor,Propinsi,4069,0
+jakarta utara,Dadap Raya Tangerang,710,7,Sekunder,Kolektor,Propinsi,28210,0
+jakarta utara,Danau Agung ,900,15,Sekunder,Kolektor,Propinsi,226,0
+jakarta utara,Danau Agung 1,309,7,Sekunder,Kolektor,Propinsi,28068,0
+jakarta utara,Danau Agung 2,787,14,Sekunder,Kolektor,Propinsi,28110,0
+jakarta utara,Danau Indah Barat / Danau Permai Raya,670,7,Sekunder,Kolektor,Propinsi,566,0
+jakarta utara,Danau Indah Raya,250,8,Sekunder,Kolektor,Propinsi,631,0
+jakarta utara,Deli,350,7,Sekunder,Kolektor,Propinsi,1542,0
+jakarta utara,Dobo ,1000,10,Sekunder,Kolektor,Propinsi,235,0
+jakarta utara,Ekor Kuning,330,7,Sekunder,Kolektor,Propinsi,1560,0
+jakarta utara,Ende,543,8,Sekunder,Kolektor,Propinsi,1563,0
+jakarta utara,Enim,1740,8,Sekunder,Kolektor,Propinsi,1563,0
+jakarta utara,Gadang,510,7,Sekunder,Kolektor,Propinsi,1567,0
+jakarta utara,Gading Elok Utara,915,7,Sekunder,Kolektor,Propinsi,30915,0
+jakarta utara,Gading Indah Raya,180,7,Sekunder,Kolektor,Propinsi,52427,0
+jakarta utara,Gading Putih Utara Raya,320,7,Sekunder,Kolektor,Propinsi,30916,0
+jakarta utara,Ganggeng 6,400,7,Sekunder,Kolektor,Propinsi,52326,0
+jakarta utara,Gaya Motor 1,619,7,Sekunder,Kolektor,Propinsi,28421,0
+jakarta utara,Gaya Motor 2,289,7,Sekunder,Kolektor,Propinsi,28422,0
+jakarta utara,Gorontalo,580,8,Sekunder,Kolektor,Propinsi,28095,0
+jakarta utara,Hidup Baru,525,7,Sekunder,Kolektor,Propinsi,77557,0
+jakarta utara,Jepara ,870,12,Sekunder,Kolektor,Propinsi,1571,0
+jakarta utara,Kali Baru Barat,1666,8,Sekunder,Kolektor,Propinsi,45405,1
+jakarta utara,Kali Baru Timur,1666,8,Sekunder,Kolektor,Propinsi,45405,2
+jakarta utara,Kamal Muara ,740,7,Sekunder,Kolektor,Propinsi,71922,0
+jakarta utara,Kampung Gusti,800,10,Sekunder,Kolektor,Propinsi,5202,0
+jakarta utara,Kapuk Muara,850,8,Sekunder,Kolektor,Propinsi,24050,0
+jakarta utara,Karang Bolong Raya,1200,9,Sekunder,Kolektor,Propinsi,1626,0
+jakarta utara,Karya Utara 1 ,275,7,Sekunder,Kolektor,Propinsi,72964,0
+jakarta utara,Kebantenan,1700,7,Sekunder,Kolektor,Propinsi,18217,0
+jakarta utara,Kebantenan 1,1700,7,Sekunder,Kolektor,Propinsi,18217,0
+jakarta utara,Kelapa Cengkir Raya,445,10,Sekunder,Kolektor,Propinsi,30608,0
+jakarta utara,Kelapa Hibrida Raya,2420,7,Sekunder,Kolektor,Propinsi,30537,0
+jakarta utara,Kelapa Nias Raya,2000,14,Sekunder,Kolektor,Propinsi,500,0
+jakarta utara,Kelapa Nias Timur,390,7,Sekunder,Kolektor,Propinsi,90615,0
+jakarta utara,Labu,509,8,Sekunder,Kolektor,Propinsi,30005,0
+jakarta utara,Lagoa,525,7,Sekunder,Kolektor,Propinsi,45263,0
+jakarta utara,Langsat,706,7,Sekunder,Kolektor,Propinsi,59937,0
+jakarta utara,Lorong 104,400,7,Sekunder,Kolektor,Propinsi,52328,0
+jakarta utara,Mandara Indah 1,925,7,Sekunder,Kolektor,Propinsi,71928,0
+jakarta utara,Mandara Indah 2,850,7,Sekunder,Kolektor,Propinsi,58541,0
+jakarta utara,Mandara Indah 4,700,7,Sekunder,Kolektor,Propinsi,11392,0
+jakarta utara,Mandara Permai 4,900,7,Sekunder,Kolektor,Propinsi,57993,0
+jakarta utara,Mandara Permai 6,1125,7,Sekunder,Kolektor,Propinsi,12794,0
+jakarta utara,Mandara Permai 7,1000,7,Sekunder,Kolektor,Propinsi,58260,0
+jakarta utara,Mandor Kasan ,1500,7,Sekunder,Kolektor,Propinsi,71928,0
+jakarta utara,Mangga,650,7,Sekunder,Kolektor,Propinsi,3072,0
+jakarta utara,Mindi,875,7,Sekunder,Kolektor,Propinsi,30749,0
+jakarta utara,"Murtado, H ",280,8,Sekunder,Kolektor,Propinsi,45328,0
+jakarta utara,"Murtado, H (Tugu Utara)",410,7,Sekunder,Kolektor,Propinsi,30107,0
+jakarta utara,Pademangan Raya,647,7,Sekunder,Kolektor,Propinsi,24180,0
+jakarta utara,Palmas,600,7,Sekunder,Kolektor,Propinsi,52312,0
+jakarta utara,Pantai Indah Selatan 1,4100,7,Sekunder,Kolektor,Propinsi,761,0
+jakarta utara,Pantai Indah Selatan 2,1450,8,Sekunder,Kolektor,Propinsi,765,0
+jakarta utara,Pantai Indah Timur 1,4200,7,Sekunder,Kolektor,Propinsi,767,0
+jakarta utara,Pantai Indah Timur 2,2400,7,Sekunder,Kolektor,Propinsi,58098,0
+jakarta utara,Papanggo,800,8,Sekunder,Kolektor,Propinsi,33854,0
+jakarta utara,Parang Tritis Raya,1300,24,Sekunder,Kolektor,Propinsi,1525,0
+jakarta utara,Pelepah Raya,485,10,Sekunder,Kolektor,Propinsi,30672,0
+jakarta utara,Penjalai,620,7,Sekunder,Kolektor,Propinsi,52327,0
+jakarta utara,Peternakan 1,550,7,Sekunder,Kolektor,Propinsi,5603,0
+jakarta utara,Pinang,300,7,Sekunder,Kolektor,Propinsi,300023,0
+jakarta utara,Pluit Barat 1,530,7,Sekunder,Kolektor,Propinsi,1794,0
+jakarta utara,Pluit Karang Barat,1420,11,Sekunder,Kolektor,Propinsi,2437,0
+jakarta utara,Pluit Karang Permai,1300,7,Sekunder,Kolektor,Propinsi,1992,0
+jakarta utara,Pluit Karang Timur,700,12,Sekunder,Kolektor,Propinsi,1769,0
+jakarta utara,Pluit Karang Utara,1000,12,Sekunder,Kolektor,Propinsi,99103,0
+jakarta utara,Pluit Selatan 1,500,9,Sekunder,Kolektor,Propinsi,1870,0
+jakarta utara,Pulau Payung,800,10,Sekunder,Kolektor,Propinsi,45226,0
+jakarta utara,Rs. Ancol,553,7,Sekunder,Kolektor,Propinsi,28257,0
+jakarta utara,Rumbia,400,7,Sekunder,Kolektor,Propinsi,45336,0
+jakarta utara,Satya Jaya Raya ,450,7,Sekunder,Kolektor,Propinsi,12795,0
+jakarta utara,Semangka,700,7,Sekunder,Kolektor,Propinsi,30722,0
+jakarta utara,Semper Barat (Ex. Sungai Brantas),850,8,Sekunder,Kolektor,Propinsi,32086,0
+jakarta utara,Semper Timur,1750,7,Sekunder,Kolektor,Propinsi,13728,0
+jakarta utara,Sindang,800,7,Sekunder,Kolektor,Propinsi,4152,0
+jakarta utara,Sindang Laut,1200,7,Sekunder,Kolektor,Propinsi,23228,0
+jakarta utara,Sukapura Barat,1300,7,Sekunder,Kolektor,Propinsi,52322,0
+jakarta utara,Sukapura Barat 3,700,7,Sekunder,Kolektor,Propinsi,52324,0
+jakarta utara,Sungai Bambu,676,7,Sekunder,Kolektor,Propinsi,1907,0
+jakarta utara,Sungai Bambu 6,250,7,Sekunder,Kolektor,Propinsi,2347,0
+jakarta utara,Sungai Bambu 9,150,7,Sekunder,Kolektor,Propinsi,2376,0
+jakarta utara,Sungai Tirem (Warakas 1),500,7,Sekunder,Kolektor,Propinsi,1909,0
+jakarta utara,Sunter Agung Raya ,750,14,Sekunder,Kolektor,Propinsi,13726,0
+jakarta utara,Sunter Hijau Raya,850,7,Sekunder,Kolektor,Propinsi,52318,0
+jakarta utara,Sunter Indah Raya,375,7,Sekunder,Kolektor,Propinsi,59555,0
+jakarta utara,Sunter Jaya 1,700,7,Sekunder,Kolektor,Propinsi,71940,0
+jakarta utara,Sunter Jaya 5,400,7,Sekunder,Kolektor,Propinsi,52317,0
+jakarta utara,Sunter Jaya Barat,600,7,Sekunder,Kolektor,Propinsi,52315,0
+jakarta utara,Sunter Karya Timur,380,7,Sekunder,Kolektor,Propinsi,77495,0
+jakarta utara,Sunter Kirana 4,750,7,Sekunder,Kolektor,Propinsi,59957,0
+jakarta utara,Sunter Permai Raya,1500,7,Sekunder,Kolektor,Propinsi,13727,0
+jakarta utara,Tenggiri,800,9,Sekunder,Kolektor,Propinsi,1917,0
+jakarta utara,Tongkol,650,10,Sekunder,Kolektor,Propinsi,12149,0
+jakarta utara,Walang Baru,237,7,Sekunder,Kolektor,Propinsi,30113,0
+jakarta utara,Warakas,1396,7,Sekunder,Kolektor,Propinsi,32799,0
+jakarta utara,Warakas 5,707,7,Sekunder,Kolektor,Propinsi,28292,0
+jakarta utara,Warakas 7,1036,10,Sekunder,Kolektor,Propinsi,4192,0
+jakarta barat,Daan Mogot Raya,3580,28,Primer,Arteri,Nasional,127,1
+jakarta barat,Daan Mogot Raya,1758,28,Primer,Arteri,Nasional,127,2
+jakarta barat,Daan Mogot Raya,2355,28,Primer,Arteri,Nasional,127,3
+jakarta barat,Daan Mogot Raya,2263,28,Primer,Arteri,Nasional,127,4
+jakarta barat,Daan Mogot Raya,833,28,Primer,Arteri,Nasional,127,5
+jakarta barat,Daan Mogot Raya,983,28,Primer,Arteri,Nasional,127,6
+jakarta barat,"Latumeten, Prof, Dr",1700,24,Primer,Arteri,Nasional,34250,1
+jakarta barat,"Latumeten, Prof, Dr",1066,24,Primer,Arteri,Nasional,34250,2
+jakarta barat,Lingkar Barat,7200,14,Primer,Arteri,Nasional,,0
+jakarta barat,"S. Parman, Letjend",1349,20,Primer,Arteri,Nasional,2182,1
+jakarta barat,"S. Parman, Letjend",1136,20,Primer,Arteri,Nasional,2182,2
+jakarta barat,"S. Parman, Letjend",958,20,Primer,Arteri,Nasional,2182,3
+jakarta barat,"S. Parman, Letjend",825,20,Primer,Arteri,Nasional,2182,3
+jakarta barat,Peta Barat,5322,8,Primer,Kolektor,Propinsi,5817,0
+jakarta barat,Peta Selatan,1330,8,Primer,Kolektor,Propinsi,5618,0
+jakarta barat,Aipda Ks Tubun,1650,20,Sekunder,Arteri,Propinsi,9148,0
+jakarta barat,Arjuna Selatan,1200,6,Sekunder,Arteri,Propinsi,7830,1
+jakarta barat,Arjuna Selatan,1650,6,Sekunder,Arteri,Propinsi,7830,2
+jakarta barat,Arjuna Utara,1200,6,Sekunder,Arteri,Propinsi,43100,2
+jakarta barat,Arjuna Utara,1650,6,Sekunder,Arteri,Propinsi,43100,2
+jakarta barat,Asemka,300,25,Sekunder,Arteri,Propinsi,30,0
+jakarta barat,Bandengan Selatan (Sebagian),800,12,Sekunder,Arteri,Propinsi,1968,2
+jakarta barat,Bandengan Utara (Sebagian),800,12,Sekunder,Arteri,Propinsi,1969,2
+jakarta barat,Batu Sari,1500,10,Sekunder,Arteri,Propinsi,36178,0
+jakarta barat,Batu Sari 4 (Ex. Sakti Raya),400,12,Sekunder,Arteri,Propinsi,7829,0
+jakarta barat,Cengkeh,254,11,Sekunder,Arteri,Propinsi,40414,0
+jakarta barat,Gajah Mada (Sebagian),1800,24,Sekunder,Arteri,Propinsi,10044,2
+jakarta barat,Gedong Panjang (Sebagian),375,14,Sekunder,Arteri,Propinsi,,0
+jakarta barat,Hayam Huruk,1795,20,Sekunder,Arteri,Propinsi,10043,2
+jakarta barat,Jelambar Timur,1300,7,Sekunder,Arteri,Propinsi,2908,0
+jakarta barat,Jembatan Batu,450,31,Sekunder,Arteri,Propinsi,11487,0
+jakarta barat,Joglo Raya,5121,9,Sekunder,Arteri,Propinsi,15819,0
+jakarta barat,Kali Besar Timur 3,375,24,Sekunder,Arteri,Propinsi,6258,0
+jakarta barat,Kamal Raya,1200,7,Sekunder,Arteri,Propinsi,78514,0
+jakarta barat,Kamal Tegal Alur / Kamal Raya,5100,7,Sekunder,Arteri,Propinsi,5825,0
+jakarta barat,Kapuk Cengkareng,1000,7,Sekunder,Arteri,Propinsi,44739,0
+jakarta barat,"Katamso, Brigjend",1050,14,Sekunder,Arteri,Propinsi,34943,0
+jakarta barat,Kebayoran Lama Raya (Sebagian),1925,18,Sekunder,Arteri,Propinsi,,1
+jakarta barat,Kebon Jeruk,2567,12,Sekunder,Arteri,Propinsi,5643,0
+jakarta barat,Kedoya Raya,3056,9,Sekunder,Arteri,Propinsi,36055,0
+jakarta barat,Kemanggisan Utama Raya,1145,18,Sekunder,Arteri,Propinsi,18212,0
+jakarta barat,Kembang Kerep,800,7,Sekunder,Arteri,Propinsi,36735,0
+jakarta barat,Kemukus,300,14,Sekunder,Arteri,Propinsi,2129,0
+jakarta barat,Ketumbar,216,10,Sekunder,Arteri,Propinsi,2162,0
+jakarta barat,Kopi,450,9,Sekunder,Arteri,Propinsi,3177,0
+jakarta barat,Kota Bambu,40,40,Sekunder,Arteri,Propinsi,9148,0
+jakarta barat,Kunir,404,20,Sekunder,Arteri,Propinsi,1974,0
+jakarta barat,Kyai Tapa,1286,35,Sekunder,Arteri,Propinsi,3522,0
+jakarta barat,Lada,305,8,Sekunder,Arteri,Propinsi,5705,0
+jakarta barat,Lapangan Bola,638,20,Sekunder,Arteri,Propinsi,,0
+jakarta barat,"Makaliwe Raya, Dr",838,9,Sekunder,Arteri,Propinsi,1987,0
+jakarta barat,Mangga Besar Raya (Sebagian),558,30,Sekunder,Arteri,Propinsi,1624,1
+jakarta barat,Mangga Besar Raya (Sebagian),990,30,Sekunder,Arteri,Propinsi,1624,2
+jakarta barat,Mangga Dua Raya (Sebagian),400,31,Sekunder,Arteri,Propinsi,5712,0
+jakarta barat,Menceng,1600,7,Sekunder,Arteri,Propinsi,43205,0
+jakarta barat,Meruya Hilir / Meruya Utara,3150,14,Sekunder,Arteri,Propinsi,78517,0
+jakarta barat,Meruya Hilir / Meruya Utara,4600,8,Sekunder,Arteri,Propinsi,88685,0
+jakarta barat,Meruya Mudik / Meruya Selatan,2579,8,Sekunder,Arteri,Propinsi,12472,0
+jakarta barat,"Moch. Mansyur, Kh",2247,10,Sekunder,Arteri,Propinsi,4250,0
+jakarta barat,Palmerah Barat,1553,10,Sekunder,Arteri,Propinsi,34995,0
+jakarta barat,Palmerah Utara,694,12,Sekunder,Arteri,Propinsi,34991,0
+jakarta barat,Pangeran Jayakarta (Sebagian),800,21,Sekunder,Arteri,Propinsi,1075,2
+jakarta barat,Pejagalan,580,13,Sekunder,Arteri,Propinsi,2275,0
+jakarta barat,Panjang / Perjuangan,7012,20,Sekunder,Arteri,Propinsi,36878,0
+jakarta barat,Perniagaan,1391,14,Sekunder,Arteri,Propinsi,5663,0
+jakarta barat,Pesanggrahan,1375,17,Sekunder,Arteri,Propinsi,,0
+jakarta barat,Peta Utara,1000,7,Sekunder,Arteri,Propinsi,42337,0
+jakarta barat,Pintu Besar Selatan,501,30,Sekunder,Arteri,Propinsi,6081,0
+jakarta barat,Pintu Besar Utara,513,12,Sekunder,Arteri,Propinsi,6118,0
+jakarta barat,Puri Lingkar Luar,1250,18,Sekunder,Arteri,Propinsi,,0
+jakarta barat,Pos Pengumben Raya,1750,12,Sekunder,Arteri,Propinsi,5801,0
+jakarta barat,Ratu Kemuning,850,7,Sekunder,Arteri,Propinsi,78494,0
+jakarta barat,Rawa Belong,1500,14,Sekunder,Arteri,Propinsi,73385,0
+jakarta barat,Semanan Raya,3300,8,Sekunder,Arteri,Propinsi,40080,0
+jakarta barat,Srengseng Baru,525,7,Sekunder,Arteri,Propinsi,12797,0
+jakarta barat,Srengseng Raya,2426,6,Sekunder,Arteri,Propinsi,71301,0
+jakarta barat,Stasiun Kota,152,20,Sekunder,Arteri,Propinsi,40005,0
+jakarta barat,Swadarma Raya (Sebagian),530,6,Sekunder,Arteri,Propinsi,,0
+jakarta barat,Sumur Bor,400,7,Sekunder,Arteri,Propinsi,5881,0
+jakarta barat,Surya Wijaya,275,7,Sekunder,Arteri,Propinsi,78505,0
+jakarta barat,Tanjung Duren Raya ,1930,10,Sekunder,Arteri,Propinsi,35045,0
+jakarta barat,Tanjung Duren Utara,700,7,Sekunder,Arteri,Propinsi,2396,0
+jakarta barat,Tomang Raya,1037,18,Sekunder,Arteri,Propinsi,3078,0
+jakarta barat,Tubagus Angke,4275,16,Sekunder,Arteri,Propinsi,164,2
+jakarta barat,Utan Jati (Peta Timur),2000,8,Sekunder,Arteri,Propinsi,5932,0
+jakarta barat,Warung Gantung,1600,7,Sekunder,Arteri,Propinsi,5818,0
+jakarta barat,"Zainul Arifin, Kh",1200,14,Sekunder,Arteri,Propinsi,4045,0
+jakarta barat,Alam Barat ,1500,7,Sekunder,Kolektor,Propinsi,29,0
+jakarta barat,Alam Raya,1600,7,Sekunder,Kolektor,Propinsi,32,0
+jakarta barat,Alam Selatan,700,7,Sekunder,Kolektor,Propinsi,52,0
+jakarta barat,Alam Timur,700,7,Sekunder,Kolektor,Propinsi,53,0
+jakarta barat,Amanah,850,7,Sekunder,Kolektor,Propinsi,3999,0
+jakarta barat,Anggrek (Cengkareng),600,7,Sekunder,Kolektor,Propinsi,3784,0
+jakarta barat,Anggrek Garuda Raya,1025,7,Sekunder,Kolektor,Propinsi,1933,0
+jakarta barat,Anggrek Neli Murni Raya,1335,7,Sekunder,Kolektor,Propinsi,1939,0
+jakarta barat,Anggrek Rosliana,1335,7,Sekunder,Kolektor,Propinsi,74500,0
+jakarta barat,Anggrek Rosliana 7,590,7,Sekunder,Kolektor,Propinsi,1954,0
+jakarta barat,Angke Indah,675,7,Sekunder,Kolektor,Propinsi,24304,0
+jakarta barat,Angke Jaya,600,7,Sekunder,Kolektor,Propinsi,88179,0
+jakarta barat,Angsan Hijau 1,100,7,Sekunder,Kolektor,Propinsi,584,0
+jakarta barat,Bambu Larangan,3500,7,Sekunder,Kolektor,Propinsi,42831,0
+jakarta barat,Bangun Nusa,1650,7,Sekunder,Kolektor,Propinsi,5404,0
+jakarta barat,Bank,100,12,Sekunder,Kolektor,Propinsi,1971,0
+jakarta barat,Belimbing,240,7,Sekunder,Kolektor,Propinsi,40203,0
+jakarta barat,Blustru,244,14,Sekunder,Kolektor,Propinsi,40153,0
+jakarta barat,Bojong Indah Raya,600,7,Sekunder,Kolektor,Propinsi,42097,0
+jakarta barat,Bojong Raya,400,7,Sekunder,Kolektor,Propinsi,5010,0
+jakarta barat,Buana Biru Besar 1,225,7,Sekunder,Kolektor,Propinsi,12789,0
+jakarta barat,Buana Biru Besar 2,600,7,Sekunder,Kolektor,Propinsi,83317,0
+jakarta barat,Buana Biru Besar Raya,1350,7,Sekunder,Kolektor,Propinsi,83316,0
+jakarta barat,Cempaka,525,7,Sekunder,Kolektor,Propinsi,5441,0
+jakarta barat,Cendrawasih,1500,7,Sekunder,Kolektor,Propinsi,34806,0
+jakarta barat,Cendrawasih 5,125,7,Sekunder,Kolektor,Propinsi,42917,0
+jakarta barat,Cendrawasih Raya,544,7,Sekunder,Kolektor,Propinsi,1925,0
+jakarta barat,Daan Mogot 1,250,7,Sekunder,Kolektor,Propinsi,88696,0
+jakarta barat,Daan Mogot Estate,375,12,Sekunder,Kolektor,Propinsi,225,0
+jakarta barat,Dana,425,7,Sekunder,Kolektor,Propinsi,21121,0
+jakarta barat,"Daud, H",450,7,Sekunder,Kolektor,Propinsi,36586,0
+jakarta barat,Dua Puluh Desember,1197,7,Sekunder,Kolektor,Propinsi,236,0
+jakarta barat,Duri (Tss),650,7,Sekunder,Kolektor,Propinsi,38158,0
+jakarta barat,Duri Kosambi,2120,7,Sekunder,Kolektor,Propinsi,42071,0
+jakarta barat,Empang Bahagia,375,7,Sekunder,Kolektor,Propinsi,12301,0
+jakarta barat,Empang Bahagia 4,240,7,Sekunder,Kolektor,Propinsi,51725,0
+jakarta barat,Fajar Baru Utara,410,7,Sekunder,Kolektor,Propinsi,42033,0
+jakarta barat,Gedong Raya,245,7,Sekunder,Kolektor,Propinsi,32055,0
+jakarta barat,Gelong Baru Tengah,312,7,Sekunder,Kolektor,Propinsi,34454,0
+jakarta barat,Gelong Baru Utara,310,7,Sekunder,Kolektor,Propinsi,71008,0
+jakarta barat,Hadiah,405,7,Sekunder,Kolektor,Propinsi,34336,0
+jakarta barat,Hadiah 1,661,7,Sekunder,Kolektor,Propinsi,34337,0
+jakarta barat,Hadiah 2,241,7,Sekunder,Kolektor,Propinsi,2799,0
+jakarta barat,Indraloka,100,7,Sekunder,Kolektor,Propinsi,3525,0
+jakarta barat,Indraloka 2,300,7,Sekunder,Kolektor,Propinsi,34542,0
+jakarta barat,Jelambar,450,7,Sekunder,Kolektor,Propinsi,17865,0
+jakarta barat,Jelambar 6,175,7,Sekunder,Kolektor,Propinsi,43869,0
+jakarta barat,Jelambar Barat ,611,7,Sekunder,Kolektor,Propinsi,3622,0
+jakarta barat,Jelambar Barat 3,750,7,Sekunder,Kolektor,Propinsi,3782,0
+jakarta barat,Jelambar Baru,610,8,Sekunder,Kolektor,Propinsi,304,0
+jakarta barat,Jelambar Madya,878,10,Sekunder,Kolektor,Propinsi,2964,0
+jakarta barat,Jelambar Selatan,375,7,Sekunder,Kolektor,Propinsi,44670,0
+jakarta barat,Jelambar Selatan 1,550,7,Sekunder,Kolektor,Propinsi,3617,0
+jakarta barat,Jelambar Selatan 2,550,7,Sekunder,Kolektor,Propinsi,3618,0
+jakarta barat,Jelambar Selatan 3,850,7,Sekunder,Kolektor,Propinsi,3619,0
+jakarta barat,Jelambar Utama,710,8,Sekunder,Kolektor,Propinsi,309,0
+jakarta barat,Jelambar Utama 1,1200,6,Sekunder,Kolektor,Propinsi,306,0
+jakarta barat,Jelambar Utama Sakti,700,8,Sekunder,Kolektor,Propinsi,388,0
+jakarta barat,Jembatan Besi Raya,1000,8,Sekunder,Kolektor,Propinsi,38305,0
+jakarta barat,Kali Besar Barat ,450,8,Sekunder,Kolektor,Propinsi,38225,0
+jakarta barat,Kali Besar Timur,687,10,Sekunder,Kolektor,Propinsi,2080,0
+jakarta barat,Kamboja,1103,8,Sekunder,Kolektor,Propinsi,29823,0
+jakarta barat,Kapuk Poglar,1000,7,Sekunder,Kolektor,Propinsi,432,0
+jakarta barat,Kapuk Pulo,750,7,Sekunder,Kolektor,Propinsi,12251,0
+jakarta barat,Karya,300,7,Sekunder,Kolektor,Propinsi,71913,0
+jakarta barat,Karya Barat 3,249,7,Sekunder,Kolektor,Propinsi,36357,0
+jakarta barat,Kavling Dki,1700,7,Sekunder,Kolektor,Propinsi,44061,0
+jakarta barat,Keamanan,645,7,Sekunder,Kolektor,Propinsi,2099,0
+jakarta barat,Kebon Raya,1096,7,Sekunder,Kolektor,Propinsi,36379,0
+jakarta barat,Kebon Raya 1,700,7,Sekunder,Kolektor,Propinsi,2518,0
+jakarta barat,Kedoya Albasyia Raya,600,7,Sekunder,Kolektor,Propinsi,88708,0
+jakarta barat,Kedoya Duri,200,7,Sekunder,Kolektor,Propinsi,113,0
+jakarta barat,Kelapa Dua Raya,1900,20,Sekunder,Kolektor,Propinsi,498,0
+jakarta barat,Kemanggisan,970,8,Sekunder,Kolektor,Propinsi,728,0
+jakarta barat,Kemanggisan 3,575,7,Sekunder,Kolektor,Propinsi,29822,0
+jakarta barat,Kemanggisan Grogol,375,7,Sekunder,Kolektor,Propinsi,34695,0
+jakarta barat,Kemanggisan Hilir,1205,7,Sekunder,Kolektor,Propinsi,804,0
+jakarta barat,Kembang Abadi Utama,300,7,Sekunder,Kolektor,Propinsi,78485,0
+jakarta barat,Kembang Ayu Utama,400,7,Sekunder,Kolektor,Propinsi,505,0
+jakarta barat,Kembang Elok 6,550,7,Sekunder,Kolektor,Propinsi,88697,0
+jakarta barat,Kembang Harum Utama,800,7,Sekunder,Kolektor,Propinsi,78483,0
+jakarta barat,Kembang Molek Barat ,400,7,Sekunder,Kolektor,Propinsi,88686,0
+jakarta barat,Kembang Molek Timur ?,550,7,Sekunder,Kolektor,Propinsi,88698,0
+jakarta barat,Kembang Sakti Barat,2100,8,Sekunder,Kolektor,Propinsi,608,0
+jakarta barat,Kembang Sakti Timur,2100,8,Sekunder,Kolektor,Propinsi,609,0
+jakarta barat,Kembangan Baru,3000,8,Sekunder,Kolektor,Propinsi,88714,0
+jakarta barat,Kembangan Raya,3800,8,Sekunder,Kolektor,Propinsi,588,0
+jakarta barat,Kembangan Utama,850,7,Sekunder,Kolektor,Propinsi,78791,0
+jakarta barat,Kembangan Utara,1150,8,Sekunder,Kolektor,Propinsi,610,0
+jakarta barat,Kemuning (Sumur Bor Dalam),525,7,Sekunder,Kolektor,Propinsi,4242,0
+jakarta barat,Kencana Barat,650,7,Sekunder,Kolektor,Propinsi,611,0
+jakarta barat,Kencana Raya,1350,7,Sekunder,Kolektor,Propinsi,71927,0
+jakarta barat,Kencana Timur,550,7,Sekunder,Kolektor,Propinsi,88701,0
+jakarta barat,Kencana Utama ,550,7,Sekunder,Kolektor,Propinsi,88700,0
+jakarta barat,Kencana Utara,650,7,Sekunder,Kolektor,Propinsi,612,0
+jakarta barat,Kosambi Baru,525,7,Sekunder,Kolektor,Propinsi,77461,0
+jakarta barat,Kosambi Selatan,450,7,Sekunder,Kolektor,Propinsi,3367,0
+jakarta barat,Kosambi Utara,330,7,Sekunder,Kolektor,Propinsi,732,0
+jakarta barat,Kota Bambu Utara,1050,8,Sekunder,Kolektor,Propinsi,1967,0
+jakarta barat,Krendang Barat,750,7,Sekunder,Kolektor,Propinsi,821,0
+jakarta barat,Krendang Utara,829,7,Sekunder,Kolektor,Propinsi,38015,0
+jakarta barat,Kresek Raya,1850,7,Sekunder,Kolektor,Propinsi,42117,0
+jakarta barat,Kusuma,600,7,Sekunder,Kolektor,Propinsi,518,0
+jakarta barat,Kusuma 2,600,7,Sekunder,Kolektor,Propinsi,88702,0
+jakarta barat,Labu,570,7,Sekunder,Kolektor,Propinsi,2180,0
+jakarta barat,"Lebar, H",300,7,Sekunder,Kolektor,Propinsi,36488,0
+jakarta barat,Lontar Raya,504,7,Sekunder,Kolektor,Propinsi,34104,0
+jakarta barat,Macan,505,7,Sekunder,Kolektor,Propinsi,36359,0
+jakarta barat,Mandala,750,7,Sekunder,Kolektor,Propinsi,662,0
+jakarta barat,Mandala Utara,1132,7,Sekunder,Kolektor,Propinsi,663,0
+jakarta barat,Mangga Besar 1,1067,8,Sekunder,Kolektor,Propinsi,2197,0
+jakarta barat,Mangga Besar 10,600,14,Sekunder,Kolektor,Propinsi,52426,0
+jakarta barat,Mangga Besar 4,321,7,Sekunder,Kolektor,Propinsi,52425,0
+jakarta barat,Mangga Besar 5,1045,7,Sekunder,Kolektor,Propinsi,2219,0
+jakarta barat,Mangga Besar 8,400,7,Sekunder,Kolektor,Propinsi,184,0
+jakarta barat,Manggis Raya,320,7,Sekunder,Kolektor,Propinsi,2229,0
+jakarta barat,"Muwardi 2, Dr",827,8,Sekunder,Kolektor,Propinsi,78789,0
+jakarta barat,"Muwardi Raya, Dr",967,9,Sekunder,Kolektor,Propinsi,35050,0
+jakarta barat,Nurul Amal,521,7,Sekunder,Kolektor,Propinsi,42030,0
+jakarta barat,Palem,310,7,Sekunder,Kolektor,Propinsi,36589,0
+jakarta barat,Pasar Inpres,198,7,Sekunder,Kolektor,Propinsi,34446,0
+jakarta barat,Patra Raya,550,15,Sekunder,Kolektor,Propinsi,36385,0
+jakarta barat,Patra Tomang Raya,1000,8,Sekunder,Kolektor,Propinsi,83318,0
+jakarta barat,Pekapuran 8,500,7,Sekunder,Kolektor,Propinsi,38127,0
+jakarta barat,Pendongkelan,306,7,Sekunder,Kolektor,Propinsi,5786,0
+jakarta barat,Penyelesaian Tomang 4,1396,7,Sekunder,Kolektor,Propinsi,36099,0
+jakarta barat,Perdana,205,7,Sekunder,Kolektor,Propinsi,11993,0
+jakarta barat,Permata Meruya 1,400,7,Sekunder,Kolektor,Propinsi,88717,0
+jakarta barat,Permata Meruya 2,600,7,Sekunder,Kolektor,Propinsi,88718,0
+jakarta barat,Permata Meruya 3,400,7,Sekunder,Kolektor,Propinsi,88719,0
+jakarta barat,Perniagaan Barat,423,8,Sekunder,Kolektor,Propinsi,38027,0
+jakarta barat,Pesing Poglar,1000,7,Sekunder,Kolektor,Propinsi,78512,0
+jakarta barat,Peternakan,650,7,Sekunder,Kolektor,Propinsi,11941,0
+jakarta barat,Peternakan 3,530,7,Sekunder,Kolektor,Propinsi,5597,0
+jakarta barat,Pinangsia Raya,695,10,Sekunder,Kolektor,Propinsi,6090,0
+jakarta barat,Pinangsia Timur,420,7,Sekunder,Kolektor,Propinsi,6100,0
+jakarta barat,Pintu Kecil,1000,9,Sekunder,Kolektor,Propinsi,2315,0
+jakarta barat,Pondok Randu,1150,7,Sekunder,Kolektor,Propinsi,42113,0
+jakarta barat,Pos Kota,264,10,Sekunder,Kolektor,Propinsi,40004,0
+jakarta barat,Pos Polisi,330,7,Sekunder,Kolektor,Propinsi,42125,0
+jakarta barat,Prisma Raya,700,7,Sekunder,Kolektor,Propinsi,88721,0
+jakarta barat,Puri Indah Raya,1300,7,Sekunder,Kolektor,Propinsi,78487,0
+jakarta barat,Puri Kembangan,800,9,Sekunder,Kolektor,Propinsi,78488,0
+jakarta barat,Puri Kembangan Barat,2300,8,Sekunder,Kolektor,Propinsi,78486,0
+jakarta barat,Puri Kembangan Timur,2300,7,Sekunder,Kolektor,Propinsi,78481,0
+jakarta barat,Rasamala Permai 1,150,7,Sekunder,Kolektor,Propinsi,77464,0
+jakarta barat,Ratu Mawar,550,7,Sekunder,Kolektor,Propinsi,4001,0
+jakarta barat,Ratu Melati,550,7,Sekunder,Kolektor,Propinsi,4005,0
+jakarta barat,Ratu Teratai,500,7,Sekunder,Kolektor,Propinsi,4002,0
+jakarta barat,Rawa Buaya,850,7,Sekunder,Kolektor,Propinsi,5812,0
+jakarta barat,Regensi Kebon Jeruk,1500,8,Sekunder,Kolektor,Propinsi,1287,0
+jakarta barat,Safir Raya,445,7,Sekunder,Kolektor,Propinsi,43008,0
+jakarta barat,Sasak 1,225,7,Sekunder,Kolektor,Propinsi,36793,0
+jakarta barat,Sasak 3,300,7,Sekunder,Kolektor,Propinsi,36792,0
+jakarta barat,Satu Maret,3500,7,Sekunder,Kolektor,Propinsi,4283,0
+jakarta barat,Semanan Cipondoh ,1000,7,Sekunder,Kolektor,Propinsi,71939,0
+jakarta barat,"Semeru 1, Dr",1000,7,Sekunder,Kolektor,Propinsi,71938,0
+jakarta barat,"Semeru, Dr",1024,8,Sekunder,Kolektor,Propinsi,17867,0
+jakarta barat,Slipi,600,7,Sekunder,Kolektor,Propinsi,31230,0
+jakarta barat,Srengseng Kelapa Dua (H.Kelik),564,7,Sekunder,Kolektor,Propinsi,36052,0
+jakarta barat,Sulaeman,750,7,Sekunder,Kolektor,Propinsi,36849,0
+jakarta barat,Suraya Sarana,550,8,Sekunder,Kolektor,Propinsi,22680,0
+jakarta barat,Surya Mandala,540,10,Sekunder,Kolektor,Propinsi,36241,0
+jakarta barat,Surya Mandala 1,175,7,Sekunder,Kolektor,Propinsi,77583,0
+jakarta barat,Surya Nirmala,600,7,Sekunder,Kolektor,Propinsi,36234,0
+jakarta barat,Surya Utama,765,7,Sekunder,Kolektor,Propinsi,36123,0
+jakarta barat,Surya Wahana,250,7,Sekunder,Kolektor,Propinsi,88681,0
+jakarta barat,"Susilo 1, Dr",512,12,Sekunder,Kolektor,Propinsi,34726,0
+jakarta barat,Swadaya,175,7,Sekunder,Kolektor,Propinsi,12792,0
+jakarta barat,Taman Alfa Indah,900,8,Sekunder,Kolektor,Propinsi,88723,0
+jakarta barat,Taman Daan Mogot,782,7,Sekunder,Kolektor,Propinsi,2569,0
+jakarta barat,Taman Kebon Jeruk,580,18,Sekunder,Kolektor,Propinsi,29821,0
+jakarta barat,Taman Kosambi Barat,750,7,Sekunder,Kolektor,Propinsi,5215,0
+jakarta barat,Taman Kosambi Timur,750,7,Sekunder,Kolektor,Propinsi,5213,0
+jakarta barat,Taman Kota,550,7,Sekunder,Kolektor,Propinsi,88704,0
+jakarta barat,Taman Ratu Raya,450,7,Sekunder,Kolektor,Propinsi,4004,0
+jakarta barat,Taman Sari,1448,14,Sekunder,Kolektor,Propinsi,2383,0
+jakarta barat,Taman Surya Boulevard,700,10,Sekunder,Kolektor,Propinsi,36121,0
+jakarta barat,Tambora,380,7,Sekunder,Kolektor,Propinsi,38041,0
+jakarta barat,Tanah Sereal,1150,8,Sekunder,Kolektor,Propinsi,38223,0
+jakarta barat,Tanjung Duren Barat,680,8,Sekunder,Kolektor,Propinsi,88914,0
+jakarta barat,Tanjung Duren Barat 1,488,8,Sekunder,Kolektor,Propinsi,5892,0
+jakarta barat,Tanjung Duren Barat 4,498,8,Sekunder,Kolektor,Propinsi,5894,0
+jakarta barat,Tanjung Duren Barat 6,348,7,Sekunder,Kolektor,Propinsi,35139,0
+jakarta barat,Tanjung Duren Lama,400,7,Sekunder,Kolektor,Propinsi,88724,0
+jakarta barat,Tanjung Duren Timur,1246,8,Sekunder,Kolektor,Propinsi,3143,0
+jakarta barat,Tanjung Duren Timur 2,405,7,Sekunder,Kolektor,Propinsi,34050,0
+jakarta barat,Tanjung Duren Timur 3,525,7,Sekunder,Kolektor,Propinsi,34705,0
+jakarta barat,Tanjung Duren Timur 6,533,7,Sekunder,Kolektor,Propinsi,17836,0
+jakarta barat,Tanjung Duren Utara 10,300,7,Sekunder,Kolektor,Propinsi,34010,0
+jakarta barat,Tanjung Duren Utara 4,605,8,Sekunder,Kolektor,Propinsi,88915,0
+jakarta barat,Tanjung Raya/ Tunjung Raya ,450,7,Sekunder,Kolektor,Propinsi,34258,0
+jakarta barat,Telaga Bojong,325,7,Sekunder,Kolektor,Propinsi,42018,0
+jakarta barat,Teh,170,7,Sekunder,Kolektor,Propinsi,40023,0
+jakarta barat,Tiang Bendera,600,7,Sekunder,Kolektor,Propinsi,38872,0
+jakarta barat,Tiang Bendera 5,296,7,Sekunder,Kolektor,Propinsi,38037,0
+jakarta barat,Tomang Asli,700,7,Sekunder,Kolektor,Propinsi,2426,0
+jakarta barat,Tomang Utara ,500,7,Sekunder,Kolektor,Propinsi,9659,0
+jakarta barat,Tomang Utara 1,605,7,Sekunder,Kolektor,Propinsi,9651,0
+jakarta barat,Utama Raya,770,7,Sekunder,Kolektor,Propinsi,5909,0
+jakarta barat,Wijaya Kusuma,600,7,Sekunder,Kolektor,Propinsi,2443,0
+jakarta selatan,Gatot Subroto,1010,20, Primer ,Arteri,Nasional,2795,1
+jakarta selatan,Gatot Subroto,1710,20, Primer ,Arteri,Nasional,2795,2
+jakarta selatan,Gatot Subroto,871,20, Primer ,Arteri,Nasional,2795,3
+jakarta selatan,Gatot Subroto,898,20, Primer ,Arteri,Nasional,2795,4
+jakarta selatan,"Gedong (Tb. Simatupang, Jend)",400,14, Sekunder ,Arteri,Propinsi,52308,0
+jakarta selatan,"Haryono, Mt, Letjend",948,20, Primer ,Arteri,Nasional,157,2
+jakarta selatan,"Haryono, Mt, Letjend",1170,20, Primer ,Arteri,Nasional,157,3
+jakarta selatan,Ra. Kartini,910,14, Primer ,Arteri,Nasional,,0
+jakarta selatan,"Tb. Simatupang, Jend",1590,14, Primer ,Arteri,Nasional,12447,1
+jakarta selatan,"Tb. Simatupang, Jend",1277,14, Primer ,Arteri,Nasional,12447,2
+jakarta selatan,"Tb. Simatupang, Jend",2427,14, Primer ,Arteri,Nasional,12447,3
+jakarta selatan,"Tb. Simatupang, Jend",775,14, Primer ,Arteri,Nasional,12447,4
+jakarta selatan,"Tb. Simatupang, Jend",1315,14, Primer ,Arteri,Nasional,12447,5
+jakarta selatan,"Tb. Simatupang, Jend",1227,14, Primer ,Arteri,Nasional,12447,6
+jakarta selatan,Ciputat Raya (Sebagian),860,14, Sekunder ,Arteri,Propinsi,6095,0
+jakarta selatan,Juraganan / Tentara Pelajar (Pejompongan - Kebayoran Lama),1625,15, Primer ,Kolektor,Propinsi,401,0
+jakarta selatan,Metro Pondok Indah,1000,20, Primer ,Kolektor,Propinsi,46445,1
+jakarta selatan,Metro Pondok Indah,919,20, Primer ,Kolektor,Propinsi,46445,2
+jakarta selatan,Metro Pondok Indah,900,20, Primer ,Kolektor,Propinsi,46445,3
+jakarta selatan,Pasar Jum'at,1298,15, Primer ,Kolektor,Propinsi,902,0
+jakarta selatan,Sultan Iskandar Muda,1780,20, Primer ,Kolektor,Propinsi,24021,1
+jakarta selatan,Sultan Iskandar Muda,962,20, Primer ,Kolektor,Propinsi,24021,2
+jakarta selatan,Teuku Nyak Arief (Pejompongan - Kebayoran Lama),1711,15, Primer ,Kolektor,Propinsi,12806,0
+jakarta selatan,Abdul Syafi'ie / Lapangan Roos Selatan,1050,9, Sekunder ,Arteri,Propinsi,3430,1
+jakarta selatan,Abdul Syafi'ie / Lapangan Roos Utara,1050,9, Sekunder ,Arteri,Propinsi,3430,2
+jakarta selatan,Adhyaksa Raya (L. Bulus Lestari),610,7, Sekunder ,Arteri,Propinsi,56237,0
+jakarta selatan,Ampera Raya,2250,10, Sekunder ,Arteri,Propinsi,50897,0
+jakarta selatan,Arteri Kuningan / Hr. Rasuna Said,400,30, Sekunder ,Arteri,Propinsi,48077,0
+jakarta selatan,Bintaro Raya,1420,10, Sekunder ,Arteri,Propinsi,6023,0
+jakarta selatan,Bintaro Taman Barat,330,9, Sekunder ,Arteri,Propinsi,,0
+jakarta selatan,Casablanca,2100,24, Sekunder ,Arteri,Propinsi,3435,0
+jakarta selatan,Cilandak Kko,2200,10, Sekunder ,Arteri,Propinsi,50289,0
+jakarta selatan,Cilandak Raya,900,9, Sekunder ,Arteri,Propinsi,819,0
+jakarta selatan,Cileduk Raya,2500,18, Primer ,Kolektor,Propinsi,1372,1
+jakarta selatan,Cileduk Raya,2000,18, Primer ,Kolektor,Propinsi,1372,2
+jakarta selatan,Ciputat Raya (Sebagian),6117,14, Sekunder ,Arteri,Propinsi,6095,0
+jakarta selatan,Deplu Raya,800,7, Sekunder ,Arteri,Propinsi,47233,0
+jakarta selatan,Galunggung,600,20, Sekunder ,Arteri,Propinsi,37531,0
+jakarta selatan,Gandaria / Kh. M. Shafi'i Hadzani,555,9, Sekunder ,Arteri,Propinsi,44358,0
+jakarta selatan,Gandaria 1,114,7, Sekunder ,Arteri,Propinsi,2777,0
+jakarta selatan,Hang Lekir,525,14, Sekunder ,Arteri,Propinsi,18215,0
+jakarta selatan,Hang Tuah Raya,1166,12, Sekunder ,Arteri,Propinsi,2856,0
+jakarta selatan,Harsono Rm,1330,14, Sekunder ,Arteri,Propinsi,50710,0
+jakarta selatan,Iskandarsyah Raya ,645,18, Sekunder ,Arteri,Propinsi,2868,0
+jakarta selatan,Jamblang,480,6, Sekunder ,Arteri,Propinsi,,0
+jakarta selatan,Kapten Tandean,1400,30, Sekunder ,Arteri,Propinsi,2868,1
+jakarta selatan,Kapten Tandean,550,30, Sekunder ,Arteri,Propinsi,2886,2
+jakarta selatan,Karang Tengah Raya,2100,7, Sekunder ,Arteri,Propinsi,12730,0
+jakarta selatan,Kebayoran Baru,600,18, Sekunder ,Arteri,Propinsi,2910,0
+jakarta selatan,Kebayoran Lama Raya (Sebagian),2400,18, Sekunder ,Arteri,Propinsi,4407,0
+jakarta selatan,Kemang 1,525,6, Sekunder ,Arteri,Propinsi,,0
+jakarta selatan,Kemang Raya,1950,12, Sekunder ,Arteri,Propinsi,2918,0
+jakarta selatan,Kemang Selatan,700,7, Sekunder ,Arteri,Propinsi,522,0
+jakarta selatan,Kesehatan Raya (Bintaro),295,9, Sekunder ,Arteri,Propinsi,47180,0
+jakarta selatan,Kramat 1,425,6, Sekunder ,Arteri,Propinsi,,0
+jakarta selatan,Kramat Pela ,500,8, Sekunder ,Arteri,Propinsi,628,0
+jakarta selatan,Kyai Maja,1498,12, Sekunder ,Arteri,Propinsi,6383,0
+jakarta selatan,Lenteng Agung Barat,4200,16, Primer ,Kolektor,Propinsi,37824,0
+jakarta selatan,Lenteng Agung Timur,4000,16, Primer ,Kolektor,Propinsi,37824,0
+jakarta selatan,Mabes Polri / Kavling Polri,250,7, Sekunder ,Arteri,Propinsi,,0
+jakarta selatan,Mampang Prapatan Raya,1244,35, Sekunder ,Arteri,Propinsi,656,1
+jakarta selatan,Mampang Prapatan Raya,1244,35, Sekunder ,Arteri,Propinsi,656,2
+jakarta selatan,Minangkabau Barat,650,9, Sekunder ,Arteri,Propinsi,3066,0
+jakarta selatan,Minangkabau Timur,1000,9, Sekunder ,Arteri,Propinsi,5241,0
+jakarta selatan,Moh. Kahfi 1,6625,10, Sekunder ,Arteri,Propinsi,52305,0
+jakarta selatan,Moh. Kahfi 2,3700,8, Sekunder ,Arteri,Propinsi,38494,0
+jakarta selatan,Pahlawan Kali Bata (Sebagian),1875,20, Sekunder ,Arteri,Propinsi,744,0
+jakarta selatan,Pakubuwono 6,1625,9, Sekunder ,Arteri,Propinsi,3105,0
+jakarta selatan,Pangeran Antasari,4400,18, Sekunder ,Arteri,Propinsi,56336,0
+jakarta selatan,Panglima Polim Raya,1850,27, Sekunder ,Arteri,Propinsi,3110,0
+jakarta selatan,Pasar Minggu Raya,2100,14, Primer ,Kolektor,Propinsi,48116,1
+jakarta selatan,Pasar Minggu Raya,500,14, Primer ,Kolektor,Propinsi,48116,2
+jakarta selatan,Pasar Minggu Raya,925,14, Primer ,Kolektor,Propinsi,48116,3
+jakarta selatan,Paso,550,12, Sekunder ,Arteri,Propinsi,38497,0
+jakarta selatan,Patimura,1204,26, Sekunder ,Arteri,Propinsi,3139,0
+jakarta selatan,Pejaten Barat Raya,1110,7, Sekunder ,Arteri,Propinsi,4511,0
+jakarta selatan,Pejaten Raya,2360,7, Sekunder ,Arteri,Propinsi,50005,0
+jakarta selatan,Pondok Labu (Batas Dki),1200,9, Sekunder ,Arteri,Propinsi,37743,0
+jakarta selatan,Prapanca Raya,829,14, Sekunder ,Arteri,Propinsi,3185,0
+jakarta selatan,Radio Dalam Raya,1690,12, Sekunder ,Arteri,Propinsi,6585,0
+jakarta selatan,Ragunan Raya,1300,10, Sekunder ,Arteri,Propinsi,50006,0
+jakarta selatan,"Rasuna Said,H.R",4100,33, Sekunder ,Arteri,Propinsi,7313,0
+jakarta selatan,Rawa Bambu / Bambu Raya,1550,8, Primer ,Kolektor,Propinsi,44586,0
+jakarta selatan,Rempoa,2260,10, Sekunder ,Arteri,Propinsi,47196,0
+jakarta selatan,Rs. Fatmawati,600,16, Sekunder ,Arteri,Propinsi,47196,1
+jakarta selatan,Rs. Fatmawati,3252,16, Sekunder ,Arteri,Propinsi,35601,2
+jakarta selatan,"Saharjo, Dr",1110,18, Sekunder ,Arteri,Propinsi,54575,0
+jakarta selatan,"Satrio, Prof. Dr",2400,20, Sekunder ,Arteri,Propinsi,37517,0
+jakarta selatan,Sekolah Duta Raya,700,9, Sekunder ,Arteri,Propinsi,46427,0
+jakarta selatan,Senopati,1450,14, Sekunder ,Arteri,Propinsi,3270,0
+jakarta selatan,Sisingamangaraja,1750,26, Sekunder ,Arteri,Propinsi,3310,0
+jakarta selatan,"Soepono, Letjend",200,18, Sekunder ,Arteri,Propinsi,18214,1
+jakarta selatan,"Soepono, Letjend",825,18, Sekunder ,Arteri,Propinsi,18214,2
+jakarta selatan,Sultan Agung,2900,18, Sekunder ,Arteri,Propinsi,52224,0
+jakarta selatan,Sultan Hasanuddin,600,35, Sekunder ,Arteri,Propinsi,2458,0
+jakarta selatan,"Supomo, Prof.Dr.Sh",1850,18, Sekunder ,Arteri,Propinsi,4508,0
+jakarta selatan,Suryo,750,14, Sekunder ,Arteri,Propinsi,,0
+jakarta selatan,Swadarma Raya (Sebagian),1850,7, Sekunder ,Arteri,Propinsi,6683,0
+jakarta selatan,Tanjung Barat ,7800,16, Primer ,Kolektor,Propinsi,50820,0
+jakarta selatan,Trunojoyo,510,23, Sekunder ,Arteri,Propinsi,3453,0
+jakarta selatan,Veteran Bintaro,2300,9, Sekunder ,Arteri,Propinsi,38652,0
+jakarta selatan,Warung Jati Barat (Warung Buncit),4040,28, Sekunder ,Arteri,Propinsi,23869,0
+jakarta selatan,Wijaya 1,1330,11, Sekunder ,Arteri,Propinsi,3472,0
+jakarta selatan,Wijaya 2,1121,9, Sekunder ,Arteri,Propinsi,3473,0
+jakarta selatan,Wolter Monginsidi,1175,18, Sekunder ,Arteri,Propinsi,3063,0
+jakarta selatan,Abdul Majid,1075,7, Sekunder ,Kolektor,Propinsi,6271,0
+jakarta selatan,"Achmad Dahlan, Kh",830,7, Sekunder ,Kolektor,Propinsi,2448,0
+jakarta selatan,Aditya Warman,1125,9, Sekunder ,Kolektor,Propinsi,2447,0
+jakarta selatan,Adiyaksa 9,125,7, Sekunder ,Kolektor,Propinsi,56249,0
+jakarta selatan,Al Falah,150,7, Sekunder ,Kolektor,Propinsi,12799,0
+jakarta selatan,Andara,300,7, Sekunder ,Kolektor,Propinsi,56,0
+jakarta selatan,Asem 2,1300,7, Sekunder ,Kolektor,Propinsi,56997,0
+jakarta selatan,Asem Baris,1950,7, Sekunder ,Kolektor,Propinsi,2471,0
+jakarta selatan,Assirot,525,7, Sekunder ,Kolektor,Propinsi,1982,0
+jakarta selatan,Aup Raya,160,7, Sekunder ,Kolektor,Propinsi,77472,0
+jakarta selatan,"Banan, H (Bintaro)",203,7, Sekunder ,Kolektor,Propinsi,12036,0
+jakarta selatan,Bangka 1,300,7, Sekunder ,Kolektor,Propinsi,51988,0
+jakarta selatan,Bangka 8,850,7, Sekunder ,Kolektor,Propinsi,43076,0
+jakarta selatan,Bangka Raya,2000,8, Sekunder ,Kolektor,Propinsi,2501,0
+jakarta selatan,Bango,850,7, Sekunder ,Kolektor,Propinsi,56205,0
+jakarta selatan,Bank Dagang Negara,120,7, Sekunder ,Kolektor,Propinsi,2523,0
+jakarta selatan,Bank Dagang Negara 2,400,7, Sekunder ,Kolektor,Propinsi,56031,0
+jakarta selatan,Barito,975,8, Sekunder ,Kolektor,Propinsi,71917,0
+jakarta selatan,Barito 2 Taman,160,8, Sekunder ,Kolektor,Propinsi,44014,0
+jakarta selatan,Baru,270,10, Sekunder ,Kolektor,Propinsi,46028,0
+jakarta selatan,"Baun, H",710,7, Sekunder ,Kolektor,Propinsi,56365,0
+jakarta selatan,Benda,1100,7, Sekunder ,Kolektor,Propinsi,8775,0
+jakarta selatan,Bendi,1200,7, Sekunder ,Kolektor,Propinsi,82962,0
+jakarta selatan,Bintaro Permai,2025,7, Sekunder ,Kolektor,Propinsi,47264,0
+jakarta selatan,Bintaro Permai 2,675,7, Sekunder ,Kolektor,Propinsi,47126,0
+jakarta selatan,Bintaro Selatan,1500,7, Sekunder ,Kolektor,Propinsi,809,0
+jakarta selatan,Bintaro Tengah,600,7, Sekunder ,Kolektor,Propinsi,810,0
+jakarta selatan,Bintaro Utama 1,600,7, Sekunder ,Kolektor,Propinsi,12788,0
+jakarta selatan,Bintaro Utara,1420,10, Sekunder ,Kolektor,Propinsi,46650,0
+jakarta selatan,Bona Indah,380,8, Sekunder ,Kolektor,Propinsi,88602,0
+jakarta selatan,Bona Permai,325,7, Sekunder ,Kolektor,Propinsi,88594,0
+jakarta selatan,Brawijaya,910,12, Sekunder ,Kolektor,Propinsi,2547,0
+jakarta selatan,Brawijaya 3,300,9, Sekunder ,Kolektor,Propinsi,2552,0
+jakarta selatan,Bukit Duri Barat,375,7, Sekunder ,Kolektor,Propinsi,2567,0
+jakarta selatan,Bukit Duri Selatan,240,7, Sekunder ,Kolektor,Propinsi,75429,0
+jakarta selatan,Bukit Duri Tanjakan,1025,7, Sekunder ,Kolektor,Propinsi,2571,0
+jakarta selatan,Bukit Duri Timur,700,8, Sekunder ,Kolektor,Propinsi,4359,0
+jakarta selatan,Bukit Duri Utara,1425,7, Sekunder ,Kolektor,Propinsi,2566,0
+jakarta selatan,Bulungan,806,8, Sekunder ,Kolektor,Propinsi,2575,0
+jakarta selatan,Bumi,696,12, Sekunder ,Kolektor,Propinsi,2576,0
+jakarta selatan,Bunga Flamboyan,325,7, Sekunder ,Kolektor,Propinsi,88678,0
+jakarta selatan,Bunga Mawar,400,7, Sekunder ,Kolektor,Propinsi,180,0
+jakarta selatan,Bungur ,800,7, Sekunder ,Kolektor,Propinsi,46099,0
+jakarta selatan,Cidodol,775,7, Sekunder ,Kolektor,Propinsi,6086,0
+jakarta selatan,Ciganjur,4300,7, Sekunder ,Kolektor,Propinsi,204,0
+jakarta selatan,Cikoko Barat 9,300,7, Sekunder ,Kolektor,Propinsi,48570,0
+jakarta selatan,Cikoko Timur,600,7, Sekunder ,Kolektor,Propinsi,207,0
+jakarta selatan,Cilandak Dalam,250,7, Sekunder ,Kolektor,Propinsi,56221,0
+jakarta selatan,Cilandak Tengah,1100,8, Sekunder ,Kolektor,Propinsi,56295,0
+jakarta selatan,Cinere Lebak Bulus,1400,14, Sekunder ,Kolektor,Propinsi,824,0
+jakarta selatan,Cipete 3,125,7, Sekunder ,Kolektor,Propinsi,2677,0
+jakarta selatan,Cipete Raya,320,7, Sekunder ,Kolektor,Propinsi,37708,0
+jakarta selatan,Cipete Utara (Abdul Madjid),1200,8, Sekunder ,Kolektor,Propinsi,218,0
+jakarta selatan,Darma Wangsa ,1550,9, Sekunder ,Kolektor,Propinsi,2712,0
+jakarta selatan,Darma Wangsa 11,200,7, Sekunder ,Kolektor,Propinsi,99089,0
+jakarta selatan,Darma Wangsa 13,450,7, Sekunder ,Kolektor,Propinsi,99091,0
+jakarta selatan,Darma Wangsa 14,275,7, Sekunder ,Kolektor,Propinsi,99092,0
+jakarta selatan,Darma Wangsa 4,161,7, Sekunder ,Kolektor,Propinsi,2721,0
+jakarta selatan,Darma Wangsa 6,225,7, Sekunder ,Kolektor,Propinsi,2724,0
+jakarta selatan,Delima Raya,900,7, Sekunder ,Kolektor,Propinsi,83183,0
+jakarta selatan,Delman Utara,1500,8, Sekunder ,Kolektor,Propinsi,40352,0
+jakarta selatan,Denpasar,200,7, Sekunder ,Kolektor,Propinsi,5097,0
+jakarta selatan,Denpasar Selatan (H. Maun/Duren Timur),300,7, Sekunder ,Kolektor,Propinsi,12802,0
+jakarta selatan,Depsos Raya,350,7, Sekunder ,Kolektor,Propinsi,47137,0
+jakarta selatan,Desa Putra,1100,7, Sekunder ,Kolektor,Propinsi,38496,0
+jakarta selatan,Dukuh Patra,230,7, Sekunder ,Kolektor,Propinsi,54630,0
+jakarta selatan,Duren Tiga,1066,9, Sekunder ,Kolektor,Propinsi,41046,0
+jakarta selatan,Duren Tiga Timur,510,7, Sekunder ,Kolektor,Propinsi,33026,0
+jakarta selatan,Durentiga Selatan,1650,7, Sekunder ,Kolektor,Propinsi,41080,0
+jakarta selatan,Durentiga Utara,900,7, Sekunder ,Kolektor,Propinsi,48137,0
+jakarta selatan,Duta Niaga,2100,7, Sekunder ,Kolektor,Propinsi,11691,0
+jakarta selatan,Gaharu 1,300,8, Sekunder ,Kolektor,Propinsi,56034,0
+jakarta selatan,Gandaria 3,228,8, Sekunder ,Kolektor,Propinsi,2779,0
+jakarta selatan,Gandaria Tengah 3,950,8, Sekunder ,Kolektor,Propinsi,2789,0
+jakarta selatan,Gedung Hijau Raya,1300,12, Sekunder ,Kolektor,Propinsi,46440,0
+jakarta selatan,Gembira,400,7, Sekunder ,Kolektor,Propinsi,2798,0
+jakarta selatan,Gili Manuk,150,7, Sekunder ,Kolektor,Propinsi,37525,0
+jakarta selatan,Gudang Peluru Raya,725,8, Sekunder ,Kolektor,Propinsi,54441,0
+jakarta selatan,Gudang Peluru Selatan,600,7, Sekunder ,Kolektor,Propinsi,54090,0
+jakarta selatan,Gunawarman,1050,7, Sekunder ,Kolektor,Propinsi,2808,0
+jakarta selatan,Guntur,675,7, Sekunder ,Kolektor,Propinsi,2809,0
+jakarta selatan,Gunung Balong,300,7, Sekunder ,Kolektor,Propinsi,2384,0
+jakarta selatan,Guru Mugni (Karet Kuningan),1200,7, Sekunder ,Kolektor,Propinsi,37516,0
+jakarta selatan,Halimun,600,7, Sekunder ,Kolektor,Propinsi,43853,0
+jakarta selatan,Halimun 1,750,9, Sekunder ,Kolektor,Propinsi,2818,0
+jakarta selatan,Hang Jebat,700,7, Sekunder ,Kolektor,Propinsi,19487,0
+jakarta selatan,Hang Lekir 1,256,10, Sekunder ,Kolektor,Propinsi,2829,0
+jakarta selatan,Hang Tuah 10,151,7, Sekunder ,Kolektor,Propinsi,2855,0
+jakarta selatan,Hang Tuah 7,337,10, Sekunder ,Kolektor,Propinsi,10285,0
+jakarta selatan,Hidup Baru,115,7, Sekunder ,Kolektor,Propinsi,8161,0
+jakarta selatan,Hortikultura,900,7, Sekunder ,Kolektor,Propinsi,275,0
+jakarta selatan,"Ipin, H",715,7, Sekunder ,Kolektor,Propinsi,38454,0
+jakarta selatan,Jagakarsa 1,1100,7, Sekunder ,Kolektor,Propinsi,59524,0
+jakarta selatan,Jagakarsa 2,535,7, Sekunder ,Kolektor,Propinsi,50512,0
+jakarta selatan,Jagakarsa Raya,3200,7, Sekunder ,Kolektor,Propinsi,4393,0
+jakarta selatan,Jati Murni Raya,895,8, Sekunder ,Kolektor,Propinsi,2424,0
+jakarta selatan,Jati Padang Raya,4215,7, Sekunder ,Kolektor,Propinsi,830,0
+jakarta selatan,Jati Padang Utara,350,7, Sekunder ,Kolektor,Propinsi,50065,0
+jakarta selatan,Jaya Mandala ,500,7, Sekunder ,Kolektor,Propinsi,302,0
+jakarta selatan,Jeruk ,750,7, Sekunder ,Kolektor,Propinsi,37845,0
+jakarta selatan,Joe,400,17, Sekunder ,Kolektor,Propinsi,43974,0
+jakarta selatan,"Joko Sutono, Prof",780,7, Sekunder ,Kolektor,Propinsi,2881,0
+jakarta selatan,Kaimun Jaya,460,8, Sekunder ,Kolektor,Propinsi,56294,0
+jakarta selatan,Kalibata Baru,750,7, Sekunder ,Kolektor,Propinsi,44730,0
+jakarta selatan,Kalibata Selatan,680,7, Sekunder ,Kolektor,Propinsi,48355,0
+jakarta selatan,Kalibata Tengah,164,7, Sekunder ,Kolektor,Propinsi,48355,0
+jakarta selatan,Kalibata Timur,270,7, Sekunder ,Kolektor,Propinsi,4399,0
+jakarta selatan,Kalibata Utara,1406,7, Sekunder ,Kolektor,Propinsi,48230,0
+jakarta selatan,Karang Tengah 1,450,7, Sekunder ,Kolektor,Propinsi,56438,0
+jakarta selatan,Karet Pedurenan,224,7, Sekunder ,Kolektor,Propinsi,6320,0
+jakarta selatan,Kartika Utama,1150,7, Sekunder ,Kolektor,Propinsi,71923,0
+jakarta selatan,Kawi Ratna ,140,7, Sekunder ,Kolektor,Propinsi,52005,0
+jakarta selatan,Kawi-Kawi ,163,7, Sekunder ,Kolektor,Propinsi,59606,0
+jakarta selatan,Kebon Nanas 2,300,7, Sekunder ,Kolektor,Propinsi,46050,0
+jakarta selatan,Kebon Nanas 3,300,7, Sekunder ,Kolektor,Propinsi,40319,0
+jakarta selatan,Kelapa Tiga,1050,7, Sekunder ,Kolektor,Propinsi,44417,0
+jakarta selatan,Kemang Selatan 8,375,7, Sekunder ,Kolektor,Propinsi,1371,0
+jakarta selatan,Kemang Timur,1800,7, Sekunder ,Kolektor,Propinsi,48133,0
+jakarta selatan,Kemang Timur 5,550,7, Sekunder ,Kolektor,Propinsi,38125,0
+jakarta selatan,Kemang Utara,600,7, Sekunder ,Kolektor,Propinsi,31053,0
+jakarta selatan,Kemang Utara 9,1000,7, Sekunder ,Kolektor,Propinsi,561,0
+jakarta selatan,Kertanegara,1400,7, Sekunder ,Kolektor,Propinsi,2900,0
+jakarta selatan,Kokosan / Kukusan,975,7, Sekunder ,Kolektor,Propinsi,44266,0
+jakarta selatan,Kostrad Pusri,350,7, Sekunder ,Kolektor,Propinsi,44733,0
+jakarta selatan,Kramat Patal Senayan,1200,10, Sekunder ,Kolektor,Propinsi,627,0
+jakarta selatan,Kuningan Barat (Exs. Abdul Rohim),945,7, Sekunder ,Kolektor,Propinsi,629,0
+jakarta selatan,Lebak Bulus 1,3250,7, Sekunder ,Kolektor,Propinsi,56254,0
+jakarta selatan,Lebak Bulus 3,400,7, Sekunder ,Kolektor,Propinsi,56256,0
+jakarta selatan,Lebak Bulus Pdk,600,7, Sekunder ,Kolektor,Propinsi,83088,0
+jakarta selatan,Lebak Bulus Raya 1,400,7, Sekunder ,Kolektor,Propinsi,37710,0
+jakarta selatan,Leuser ,700,8, Sekunder ,Kolektor,Propinsi,2979,0
+jakarta selatan,Limo,1300,7, Sekunder ,Kolektor,Propinsi,46080,0
+jakarta selatan,Lingkar Mega Kuningan,675,7, Sekunder ,Kolektor,Propinsi,12801,0
+jakarta selatan,M. Saidi,1200,7, Sekunder ,Kolektor,Propinsi,798,0
+jakarta selatan,Mampang Prapatan 11,600,7, Sekunder ,Kolektor,Propinsi,661,0
+jakarta selatan,Mampang Prapatan 4,2567,28, Sekunder ,Kolektor,Propinsi,82977,0
+jakarta selatan,Mampang Prapatan 7,400,7, Sekunder ,Kolektor,Propinsi,658,0
+jakarta selatan,Mampang Prapatan 8,600,7, Sekunder ,Kolektor,Propinsi,2582,0
+jakarta selatan,Manggarai Selatan 2,415,7, Sekunder ,Kolektor,Propinsi,3004,0
+jakarta selatan,Manggarai Utara 1,1500,7, Sekunder ,Kolektor,Propinsi,65257,0
+jakarta selatan,Manggarai Utara 2,415,7, Sekunder ,Kolektor,Propinsi,65258,0
+jakarta selatan,Manggarai Utara 5,280,7, Sekunder ,Kolektor,Propinsi,65261,0
+jakarta selatan,Marga Satwa Raya,950,14, Sekunder ,Kolektor,Propinsi,50785,0
+jakarta selatan,Margaguna,340,11, Sekunder ,Kolektor,Propinsi,4430,0
+jakarta selatan,Mega Kuningan,825,7, Sekunder ,Kolektor,Propinsi,12800,0
+jakarta selatan,Melawai Raya,1300,17, Sekunder ,Kolektor,Propinsi,3075,0
+jakarta selatan,Menteng Atas Barat ,1150,7, Sekunder ,Kolektor,Propinsi,18167,0
+jakarta selatan,Menteng Atas Selatan,525,7, Sekunder ,Kolektor,Propinsi,52028,0
+jakarta selatan,Menteng Pulo,1150,7, Sekunder ,Kolektor,Propinsi,3059,0
+jakarta selatan,Mesjid Al Huda,385,7, Sekunder ,Kolektor,Propinsi,71930,0
+jakarta selatan,Muria,400,7, Sekunder ,Kolektor,Propinsi,53014,0
+jakarta selatan,Muria Dalam,440,7, Sekunder ,Kolektor,Propinsi,19484,0
+jakarta selatan,Muria Dalam Raya,1350,13, Sekunder ,Kolektor,Propinsi,915,0
+jakarta selatan,"Nawi Raya, H",1050,7, Sekunder ,Kolektor,Propinsi,56027,0
+jakarta selatan,Niaga Hijau Raya,840,12, Sekunder ,Kolektor,Propinsi,71932,0
+jakarta selatan,Palatehan,353,7, Sekunder ,Kolektor,Propinsi,3106,0
+jakarta selatan,Pancoran Timur,1000,9, Sekunder ,Kolektor,Propinsi,4846,0
+jakarta selatan,Pancoran Timur 2,1000,7, Sekunder ,Kolektor,Propinsi,747,0
+jakarta selatan,Pangadegan Selatan,560,10, Sekunder ,Kolektor,Propinsi,48078,0
+jakarta selatan,Pangkalan Jati,600,9, Sekunder ,Kolektor,Propinsi,56215,0
+jakarta selatan,Panglima Polim 9,525,10, Sekunder ,Kolektor,Propinsi,3119,0
+jakarta selatan,Panjang,1700,7, Sekunder ,Kolektor,Propinsi,6484,0
+jakarta selatan,Patal Senayan,600,12, Sekunder ,Kolektor,Propinsi,11706,0
+jakarta selatan,Patal Senayan 1,450,7, Sekunder ,Kolektor,Propinsi,93724,0
+jakarta selatan,Patal Senayan Simprug,600,7, Sekunder ,Kolektor,Propinsi,3131,0
+jakarta selatan,Patiunus,851,14, Sekunder ,Kolektor,Propinsi,3138,0
+jakarta selatan,Patra Kuningan ,1500,14, Sekunder ,Kolektor,Propinsi,52114,0
+jakarta selatan,Patra Kuningan (Masu Duku Patra),400,7, Sekunder ,Kolektor,Propinsi,771,0
+jakarta selatan,Pelita,320,7, Sekunder ,Kolektor,Propinsi,46041,0
+jakarta selatan,Pengadegan,525,7, Sekunder ,Kolektor,Propinsi,1335,0
+jakarta selatan,Pengadegan Barat,600,7, Sekunder ,Kolektor,Propinsi,48716,0
+jakarta selatan,Pengadegan Selatan,1200,7, Sekunder ,Kolektor,Propinsi,48708,0
+jakarta selatan,Pengadegan Timur,675,7, Sekunder ,Kolektor,Propinsi,48561,0
+jakarta selatan,Pengadegan Utara,1305,7, Sekunder ,Kolektor,Propinsi,48565,0
+jakarta selatan,Peninggaran Delman Utama,1600,10, Sekunder ,Kolektor,Propinsi,38653,0
+jakarta selatan,Permata Berlian,525,7, Sekunder ,Kolektor,Propinsi,46052,0
+jakarta selatan,Permata Hijau,1225,7, Sekunder ,Kolektor,Propinsi,4282,0
+jakarta selatan,Permata Hijau Boulevard Barat,750,7, Sekunder ,Kolektor,Propinsi,46450,0
+jakarta selatan,Permata Hijau Boulevard Timur,750,7, Sekunder ,Kolektor,Propinsi,88185,0
+jakarta selatan,Pertanian,800,7, Sekunder ,Kolektor,Propinsi,56258,0
+jakarta selatan,Pertanian 3,660,7, Sekunder ,Kolektor,Propinsi,23797,0
+jakarta selatan,Pesanggrahan Raya,1300,8, Sekunder ,Kolektor,Propinsi,46017,0
+jakarta selatan,Petogogan 1,576,7, Sekunder ,Kolektor,Propinsi,3164,0
+jakarta selatan,Petogogan Raya,600,11, Sekunder ,Kolektor,Propinsi,782,0
+jakarta selatan,Pinang,1100,8, Sekunder ,Kolektor,Propinsi,56283,0
+jakarta selatan,Pinang Emas 5,141,7, Sekunder ,Kolektor,Propinsi,935,0
+jakarta selatan,Pinang Kalijati,550,7, Sekunder ,Kolektor,Propinsi,56343,0
+jakarta selatan,Pinang Kuningan 1,210,7, Sekunder ,Kolektor,Propinsi,59590,0
+jakarta selatan,Pondok Jaya,198,7, Sekunder ,Kolektor,Propinsi,48204,0
+jakarta selatan,Purbaya,600,8, Sekunder ,Kolektor,Propinsi,50102,0
+jakarta selatan,Puri Mutiara,400,8, Sekunder ,Kolektor,Propinsi,38377,0
+jakarta selatan,Raden Patah,415,8, Sekunder ,Kolektor,Propinsi,3215,0
+jakarta selatan,Rasamala,460,7, Sekunder ,Kolektor,Propinsi,29769,0
+jakarta selatan,Rawajati Timur,808,9, Sekunder ,Kolektor,Propinsi,4853,0
+jakarta selatan,Rawajati Timur 1,509,7, Sekunder ,Kolektor,Propinsi,4855,0
+jakarta selatan,"Saikin, H (Bintaro)",600,7, Sekunder ,Kolektor,Propinsi,46546,0
+jakarta selatan,Salihara,725,6, Sekunder ,Kolektor,Propinsi,51003,0
+jakarta selatan,Sawo Kecik,240,7, Sekunder ,Kolektor,Propinsi,54192,0
+jakarta selatan,Sekolah Duta 1,812,7, Sekunder ,Kolektor,Propinsi,37652,0
+jakarta selatan,Setia Budi,575,8, Sekunder ,Kolektor,Propinsi,3277,0
+jakarta selatan,Setia Budi 2,610,7, Sekunder ,Kolektor,Propinsi,3280,0
+jakarta selatan,Setia Budi 3,400,7, Sekunder ,Kolektor,Propinsi,3282,0
+jakarta selatan,Setia Budi Barat,550,8, Sekunder ,Kolektor,Propinsi,52007,0
+jakarta selatan,Setia Budi Tengah,350,8, Sekunder ,Kolektor,Propinsi,3294,0
+jakarta selatan,Setia Budi Utara,280,7, Sekunder ,Kolektor,Propinsi,78502,0
+jakarta selatan,Sirsak ,825,7, Sekunder ,Kolektor,Propinsi,50444,0
+jakarta selatan,"Soleh ,H",175,7, Sekunder ,Kolektor,Propinsi,12798,0
+jakarta selatan,"Soleh 1, H",825,7, Sekunder ,Kolektor,Propinsi,36831,0
+jakarta selatan,Srengseng Sawah,3945,7, Sekunder ,Kolektor,Propinsi,5066,0
+jakarta selatan,Stasiun Manggarai,380,9, Sekunder ,Kolektor,Propinsi,71939,0
+jakarta selatan,Sukabumi Udik,805,7, Sekunder ,Kolektor,Propinsi,38503,0
+jakarta selatan,Swakarya Bawah,310,7, Sekunder ,Kolektor,Propinsi,4621,0
+jakarta selatan,Taman Brawijaya,300,7, Sekunder ,Kolektor,Propinsi,12591,0
+jakarta selatan,Taman Brawijaya 1,200,7, Sekunder ,Kolektor,Propinsi,88367,0
+jakarta selatan,Taman Cilandak Raya,200,7, Sekunder ,Kolektor,Propinsi,56418,0
+jakarta selatan,Taman Rasuna,450,7, Sekunder ,Kolektor,Propinsi,12791,0
+jakarta selatan,Tebah,440,7, Sekunder ,Kolektor,Propinsi,38499,0
+jakarta selatan,Tebet Barat,2050,9, Sekunder ,Kolektor,Propinsi,54399,0
+jakarta selatan,Tebet Barat 1,575,7, Sekunder ,Kolektor,Propinsi,54265,0
+jakarta selatan,Tebet Barat 10,510,7, Sekunder ,Kolektor,Propinsi,54335,0
+jakarta selatan,Tebet Barat 4,560,7, Sekunder ,Kolektor,Propinsi,54397,0
+jakarta selatan,Tebet Barat 6,215,7, Sekunder ,Kolektor,Propinsi,54301,0
+jakarta selatan,Tebet Barat 9,710,7, Sekunder ,Kolektor,Propinsi,54315,0
+jakarta selatan,Tebet Barat Dalam,510,8, Sekunder ,Kolektor,Propinsi,3390,0
+jakarta selatan,Tebet Barat Dalam 10,815,7, Sekunder ,Kolektor,Propinsi,54341,0
+jakarta selatan,Tebet Barat Dalam 2,260,7, Sekunder ,Kolektor,Propinsi,3391,0
+jakarta selatan,Tebet Barat Dalam 9,402,7, Sekunder ,Kolektor,Propinsi,54347,0
+jakarta selatan,Tebet Dalam,800,7, Sekunder ,Kolektor,Propinsi,13732,0
+jakarta selatan,Tebet Dalam 1,400,7, Sekunder ,Kolektor,Propinsi,54207,0
+jakarta selatan,Tebet Dalam 2,310,8, Sekunder ,Kolektor,Propinsi,54218,0
+jakarta selatan,Tebet Dalam 4d,150,7, Sekunder ,Kolektor,Propinsi,54227,0
+jakarta selatan,Tebet Raya,2280,9, Sekunder ,Kolektor,Propinsi,54567,0
+jakarta selatan,Tebet Timur,1550,8, Sekunder ,Kolektor,Propinsi,54130,0
+jakarta selatan,Tebet Timur Dalam ,575,7, Sekunder ,Kolektor,Propinsi,3407,0
+jakarta selatan,Tebet Timur Dalam 11,1460,7, Sekunder ,Kolektor,Propinsi,54116,0
+jakarta selatan,Tebet Timur Dalam 2,600,7, Sekunder ,Kolektor,Propinsi,65269,0
+jakarta selatan,Tebet Timur Dalam 8,570,7, Sekunder ,Kolektor,Propinsi,54150,0
+jakarta selatan,Tebet Utara Dalam,450,7, Sekunder ,Kolektor,Propinsi,54872,0
+jakarta selatan,Tegal Parang Selatan,254,7, Sekunder ,Kolektor,Propinsi,13777,0
+jakarta selatan,Tegal Parang Utara,900,7, Sekunder ,Kolektor,Propinsi,18190,0
+jakarta selatan,Terogong Raya,1250,7, Sekunder ,Kolektor,Propinsi,37714,0
+jakarta selatan,Tirtayasa,666,8, Sekunder ,Kolektor,Propinsi,12713,0
+jakarta selatan,Ulujami Raya,1950,7, Sekunder ,Kolektor,Propinsi,36600,0
+jakarta selatan,Warung Jati,670,7, Sekunder ,Kolektor,Propinsi,48378,0
+jakarta selatan,Warung Jati Timur (Siaga Raya),2000,7, Sekunder ,Kolektor,Propinsi,23820,0
+jakarta selatan,Warung Pedok,690,7, Sekunder ,Kolektor,Propinsi,54151,0
+jakarta selatan,Wijaya 13,350,9, Sekunder ,Kolektor,Propinsi,3484,0
+jakarta selatan,Wijaya Kusuma 1,170,7, Sekunder ,Kolektor,Propinsi,2470,0
+jakarta selatan,Wijaya Kusuma 3,310,7, Sekunder ,Kolektor,Propinsi,2474,0
+jakarta selatan,Yon Zikon,225,6, Sekunder ,Kolektor,Propinsi,51935,0
+jakarta timur,"Ahmad Yani, Jend.",2046,30,Primer,Arteri,Nasional,65,3
+jakarta timur,"Ahmad Yani, Jend.",2594,30,Primer,Arteri,Nasional,65,1
+jakarta timur,"Ahmad Yani, Jend.",1060,30,Primer,Arteri,Nasional,65,2
+jakarta timur,Bekasi Raya,1849,19,Primer,Arteri,Nasional,50,1
+jakarta timur,Bekasi Raya,1882,19,Primer,Arteri,Nasional,50,2
+jakarta timur,Bekasi Raya,1243,19,Primer,Arteri,Nasional,50,3
+jakarta timur,Bekasi Raya,2065,19,Primer,Arteri,Nasional,50,4
+jakarta timur,Bogor Raya,1870,15,Primer,Arteri,Nasional,100,1
+jakarta timur,Bogor Raya,440,15,Primer,Arteri,Nasional,100,2
+jakarta timur,Bogor Raya,1830,15,Primer,Arteri,Nasional,100,3
+jakarta timur,Bogor Raya,1320,15,Primer,Arteri,Nasional,100,4
+jakarta timur,Bogor Raya,1660,15,Primer,Arteri,Nasional,100,5
+jakarta timur,Bogor Raya,1860,15,Primer,Arteri,Nasional,100,6
+jakarta timur,Bogor Raya,1920,15,Primer,Arteri,Nasional,100,7
+jakarta timur,Bogor Raya,400,15,Primer,Arteri,Nasional,100,8
+jakarta timur,Cakung Cilincing,3955,14,Primer,Arteri,Nasional,,1
+jakarta timur,"D.I. Panjaitan, Mayjend",260,30,Primer,Arteri,Nasional,3628,1
+jakarta timur,"D.I. Panjaitan, Mayjend",2050,30,Primer,Arteri,Nasional,3628,2
+jakarta timur,"D.I. Panjaitan, Mayjend",1230,30,Primer,Arteri,Nasional,3628,3
+jakarta timur,"Gedong (Tb. Simatupang, Jend)",1338,14,Sekunder,Arteri,Kota,52308,1
+jakarta timur,Halim Perdanakusuma,2390,16,Sekunder,Arteri,Kota,272,0
+jakarta timur,"Haryono Mt, Letjend",1419,20,Primer,Arteri,Nasional,157,1
+jakarta timur,"Sutoyo, Mayjend",2094,30,Primer,Arteri,Nasional,83358,0
+jakarta timur,"Tb. Simatupang, Jend",1046,14,Sekunder,Arteri,Kota,12447,7
+jakarta timur,"Tb. Simatupang, Jend",840,14,Sekunder,Arteri,Kota,12447,8
+jakarta timur,"Tb. Simatupang, Jend",625,14,Sekunder,Arteri,Kota,12447,9
+jakarta timur,Balap Sepeda,520,16,Sekunder,Arteri,Kota,64586,0
+jakarta timur,Bambu Apus Raya,3000,9,Sekunder,Arteri,Kota,66108,0
+jakarta timur,"Basuki Rahmat, Jend",2600,18,Sekunder,Arteri,Kota,3436,0
+jakarta timur,Bekasi Barat,1000,24,Sekunder,Arteri,Kota,970,0
+jakarta timur,Bekasi Timur Raya,2600,24,Sekunder,Arteri,Kota,3549,1
+jakarta timur,Bekasi Timur Raya,1710,24,Sekunder,Arteri,Kota,3549,2
+jakarta timur,Bekasi Timur Raya,2700,24,Sekunder,Arteri,Kota,3549,3
+jakarta timur,Binamarga,2125,7,Sekunder,Arteri,Kota,,0
+jakarta timur,Bintara Raya,1425,13,Sekunder,Arteri,Kota,59868,0
+jakarta timur,Buaran Indah ,600,16,Sekunder,Arteri,Kota,3035,0
+jakarta timur,Ceger Raya,3090,7,Sekunder,Arteri,Kota,66129,0
+jakarta timur,Cibubur Raya,1160,7,Sekunder,Arteri,Kota,202,0
+jakarta timur,Cilangkap Baru,1213,7,Sekunder,Arteri,Kota,,0
+jakarta timur,Cilangkap Raya,2300,8,Sekunder,Arteri,Kota,66008,0
+jakarta timur,Cililitan Besar,750,24,Sekunder,Arteri,Kota,213,0
+jakarta timur,Cipayung Raya,3850,10,Sekunder,Arteri,Kota,88313,0
+jakarta timur,Cipinang Baru Raya,920,14,Sekunder,Arteri,Kota,93589,0
+jakarta timur,Ciracas Raya,1500,10,Sekunder,Arteri,Kota,66103,0
+jakarta timur,Condet Raya,4800,7,Sekunder,Arteri,Kota,63875,1
+jakarta timur,Dewi Sartika,2200,18,Sekunder,Arteri,Kota,8294,0
+jakarta timur,Gempol Raya,800,7,Sekunder,Arteri,Kota,90002,0
+jakarta timur,I Gusti Ngurah Rai,7089,28,Sekunder,Arteri,Kota,58161,2
+jakarta timur,Jambore Cibubur,870,7,Sekunder,Arteri,Kota,66183,0
+jakarta timur,Jati,288,6,Sekunder,Arteri,Kota,,0
+jakarta timur,Jatinegara Barat,1420,18,Sekunder,Arteri,Kota,3640,0
+jakarta timur,Jatinegara Timur,1075,22,Sekunder,Arteri,Kota,4697,0
+jakarta timur,Jatiwaringin,2100,14,Sekunder,Arteri,Kota,56781,0
+jakarta timur,Kampung Melayu Besar,1250,30,Sekunder,Arteri,Kota,59875,0
+jakarta timur,Kayu Putih,1437,13,Sekunder,Arteri,Kota,64726,0
+jakarta timur,Kelapa Dua Wetan,1800,7,Sekunder,Arteri,Kota,66014,0
+jakarta timur,Komodor Halim Pk. (Ex. Venus),800,7,Sekunder,Arteri,Kota,62032,0
+jakarta timur,Kopatdara / Kopasanda,3600,7,Sekunder,Arteri,Kota,614,0
+jakarta timur,Kopur / Ra. Fadillah,3684,7,Sekunder,Arteri,Kota,4200,0
+jakarta timur,Lapangan Tembak,1723,11,Sekunder,Arteri,Kota,66003,0
+jakarta timur,Mabes Hankam Raya,2220,12,Sekunder,Arteri,Kota,66125,1
+jakarta timur,Mabes Hankam Raya,1480,12,Sekunder,Arteri,Kota,66125,2
+jakarta timur,Matraman Raya,1210,40,Sekunder,Arteri,Kota,3765,1
+jakarta timur,Matraman Raya,743,40,Sekunder,Arteri,Kota,3765,2
+jakarta timur,Munjul Raya,1029,8,Sekunder,Arteri,Kota,66009,0
+jakarta timur,Otto Iskandar Dinata,2300,30,Sekunder,Arteri,Kota,3862,0
+jakarta timur,Pagelarang,1500,7,Sekunder,Arteri,Kota,66127,0
+jakarta timur,Pahlawan Kali Bata (Sebagian),975,12,Sekunder,Arteri,Propinsi,744,1
+jakarta timur,Pahlawan Revolusi,1116,17,Sekunder,Arteri,Kota,7376,1
+jakarta timur,Pahlawan Revolusi,2809,17,Sekunder,Arteri,Kota,7376,2
+jakarta timur,Pemuda,3183,35,Sekunder,Arteri,Kota,64115,1
+jakarta timur,Pemuda,1134,35,Sekunder,Arteri,Kota,64115,2
+jakarta timur,Pemuda,3216,35,Sekunder,Arteri,Kota,64115,3
+jakarta timur,Penggilingan Raya,599,9,Sekunder,Arteri,Kota,64115,1
+jakarta timur,Penggilingan Raya,3651,9,Sekunder,Arteri,Kota,7437,2
+jakarta timur,Pondok Gede Raya,800,9,Sekunder,Arteri,Kota,75425,0
+jakarta timur,Pondok Gede Raya,160,20,Sekunder,Arteri,Kota,38994,1
+jakarta timur,Pondok Gede Raya,800,20,Sekunder,Arteri,Kota,38994,2
+jakarta timur,Pondok Gede Raya,1225,20,Sekunder,Arteri,Kota,38994,3
+jakarta timur,Pondok Gede Raya,1065,20,Sekunder,Arteri,Kota,38994,4
+jakarta timur,Pondok Kopi Raya,2275,6,Sekunder,Arteri,Kota,,0
+jakarta timur,Pulo Gebang,4173,10,Sekunder,Arteri,Kota,43854,0
+jakarta timur,Radar Auri,475,6,Sekunder,Arteri,Kota,,0
+jakarta timur,Radin Inten 2,3531,18,Sekunder,Arteri,Kota,47052,0
+jakarta timur,"Rajiman Widyodiningrat,Krt, Dr",3675,14,Sekunder,Arteri,Kota,44794,0
+jakarta timur,Robusta,513,6,Sekunder,Arteri,Kota,,0
+jakarta timur,"Rs. Soekanto, Jend.Pol",1425,20,Sekunder,Arteri,Kota,60674,1
+jakarta timur,"Rs. Soekanto, Jend.Pol",500,20,Sekunder,Arteri,Kota,60674,2
+jakarta timur,Sejajar Tol Cakung Sisi Timur,4000,7,Sekunder,Arteri,Kota,,0
+jakarta timur,Sejajar Tol Cakung Sisi Barat,3975,6,Sekunder,Arteri,Kota,,0
+jakarta timur,Sentra Primer Timur / Dr. Sumarmo,1850,14,Sekunder,Arteri,Kota,,0
+jakarta timur,Setu Raya,2750,7,Sekunder,Arteri,Kota,66124,0
+jakarta timur,Stasiun Cakung,450,7,Sekunder,Arteri,Kota,3920,0
+jakarta timur,"Sugiono, Kol (Exs.Sawah Barat Raya)",2220,12,Sekunder,Arteri,Kota,12664,0
+jakarta timur,Taman Bunga,500,6,Sekunder,Arteri,Kota,,0
+jakarta timur,Tarum Barat Raya (Batas Dki),8810,9,Sekunder,Arteri,Kota,38605,0
+jakarta timur,Tipar Cakung (Sebagian),2600,14,Sekunder,Arteri,Kota,5348,0
+jakarta timur,Tmii 1,400,49,Sekunder,Arteri,Kota,90001,0
+jakarta timur,Velodrome,238,15,Sekunder,Arteri,Kota,,0
+jakarta timur,Alu Alu,845,7,Sekunder,Kolektor,Kota,64245,0
+jakarta timur,Angkur,500,8,Sekunder,Kolektor,Kota,64014,0
+jakarta timur,Anyelir,525,8,Sekunder,Kolektor,Kota,66142,0
+jakarta timur,Arjuna 1,450,7,Sekunder,Kolektor,Kota,59636,0
+jakarta timur,Asrama Haji,1600,12,Sekunder,Kolektor,Kota,58,0
+jakarta timur,"Bading, H",450,7,Sekunder,Kolektor,Kota,12607,0
+jakarta timur,Balai Pustaka (Hij),405,7,Sekunder,Kolektor,Kota,60316,0
+jakarta timur,Balai Pustaka Barat,700,8,Sekunder,Kolektor,Kota,64114,0
+jakarta timur,Balai Pustaka Timur,1047,15,Sekunder,Kolektor,Kota,64218,0
+jakarta timur,Bambu Mas Raya,300,7,Sekunder,Kolektor,Kota,58942,0
+jakarta timur,Bambu Mas Selatan,400,7,Sekunder,Kolektor,Kota,59,0
+jakarta timur,Bangunan Barat,530,7,Sekunder,Kolektor,Kota,64408,0
+jakarta timur,Bangunan Timur,1250,8,Sekunder,Kolektor,Kota,64339,0
+jakarta timur,"Baping, H",1500,8,Sekunder,Kolektor,Kota,66179,0
+jakarta timur,Baret Biru 3,265,7,Sekunder,Kolektor,Kota,52418,0
+jakarta timur,Batu Ampar,1274,7,Sekunder,Kolektor,Kota,63204,0
+jakarta timur,Batu Ampar 1,1785,7,Sekunder,Kolektor,Kota,63876,0
+jakarta timur,Batu Ampar 3,1200,7,Sekunder,Kolektor,Kota,88676,0
+jakarta timur,Budaya,525,7,Sekunder,Kolektor,Kota,63221,0
+jakarta timur,Bujana Tirta  ,560,7,Sekunder,Kolektor,Kota,88189,0
+jakarta timur,Bujana Tirta 4,320,7,Sekunder,Kolektor,Kota,64312,0
+jakarta timur,Bulak Ringin,550,7,Sekunder,Kolektor,Kota,12604,0
+jakarta timur,Bulak Sereh,500,7,Sekunder,Kolektor,Kota,156,0
+jakarta timur,Buluh Perindu,475,7,Sekunder,Kolektor,Kota,912,0
+jakarta timur,Bunga Rampai,2950,7,Sekunder,Kolektor,Kota,59869,0
+jakarta timur,Bunga Rampai 6,300,7,Sekunder,Kolektor,Kota,59867,0
+jakarta timur,Cawang Baru,964,8,Sekunder,Kolektor,Kota,3585,0
+jakarta timur,Cawang Baru Tengah,708,7,Sekunder,Kolektor,Kota,3587,0
+jakarta timur,Cawang Baru Utara,283,7,Sekunder,Kolektor,Kota,58149,0
+jakarta timur,Centex,1000,7,Sekunder,Kolektor,Kota,201,0
+jakarta timur,Cibubur 1,400,7,Sekunder,Kolektor,Kota,11366,0
+jakarta timur,Cibubur 2,633,7,Sekunder,Kolektor,Kota,7982,0
+jakarta timur,Cipinang ,250,7,Sekunder,Kolektor,Kota,59742,0
+jakarta timur,Cipinang Asem ,1100,7,Sekunder,Kolektor,Kota,223,0
+jakarta timur,Cipinang Baru Bunder,935,14,Sekunder,Kolektor,Kota,64222,0
+jakarta timur,Cipinang Baru Timur,400,7,Sekunder,Kolektor,Kota,839,0
+jakarta timur,Cipinang Baru Utara,680,7,Sekunder,Kolektor,Kota,841,0
+jakarta timur,Cipinang Besar,680,8,Sekunder,Kolektor,Kota,7094,0
+jakarta timur,Cipinang Cempedak,200,7,Sekunder,Kolektor,Kota,3806,0
+jakarta timur,Cipinang Cempedak 1,680,7,Sekunder,Kolektor,Kota,3595,0
+jakarta timur,Cipinang Cempedak 2,750,7,Sekunder,Kolektor,Kota,3596,0
+jakarta timur,Cipinang Cempedak 3,310,7,Sekunder,Kolektor,Kota,3597,0
+jakarta timur,Cipinang Cempedak 4,900,7,Sekunder,Kolektor,Kota,58060,0
+jakarta timur,Cipinang Kebembem,675,8,Sekunder,Kolektor,Kota,64223,0
+jakarta timur,Cipinang Kebembem 1,600,7,Sekunder,Kolektor,Kota,22404,0
+jakarta timur,Cipinang Kebembem 3,600,7,Sekunder,Kolektor,Kota,64207,0
+jakarta timur,Cipinang Muara,1665,7,Sekunder,Kolektor,Kota,6931,0
+jakarta timur,Cipinang Muara,185,7,Sekunder,Kolektor,Kota,6931,0
+jakarta timur,Cipinang Muara 1,1650,7,Sekunder,Kolektor,Kota,75424,0
+jakarta timur,Cipinang Raya ,1475,12,Sekunder,Kolektor,Kota,3600,0
+jakarta timur,Condet Tengah Raya ,1500,9,Sekunder,Kolektor,Kota,88673,0
+jakarta timur,Curug Antilope,970,8,Sekunder,Kolektor,Kota,46647,0
+jakarta timur,Delima,1100,7,Sekunder,Kolektor,Kota,1356,0
+jakarta timur,Duren Sawit Raya,1560,9,Sekunder,Kolektor,Kota,59870,0
+jakarta timur,Dwikora,2400,7,Sekunder,Kolektor,Kota,244,0
+jakarta timur,Flamboyan,150,7,Sekunder,Kolektor,Kota,66116,0
+jakarta timur,Gabus Raya,134,7,Sekunder,Kolektor,Kota,64884,0
+jakarta timur,Gading Raya,400,7,Sekunder,Kolektor,Kota,115,0
+jakarta timur,Gongseng Raya,896,8,Sekunder,Kolektor,Kota,66001,0
+jakarta timur,Gurame,305,7,Sekunder,Kolektor,Kota,23944,0
+jakarta timur,Halim Golf Course,2500,24,Sekunder,Kolektor,Kota,271,0
+jakarta timur,Hasan. H,1275,7,Sekunder,Kolektor,Kota,4198,0
+jakarta timur,Hiu,120,7,Sekunder,Kolektor,Kota,59598,0
+jakarta timur,Inpres Kampung Tengah,427,7,Sekunder,Kolektor,Kota,62927,0
+jakarta timur,Janur 1,176,7,Sekunder,Kolektor,Kota,58361,0
+jakarta timur,Janur 2,475,7,Sekunder,Kolektor,Kota,60523,0
+jakarta timur,Jatayu,220,7,Sekunder,Kolektor,Kota,47307,0
+jakarta timur,Jatinegara Barat 1,616,8,Sekunder,Kolektor,Kota,3641,0
+jakarta timur,Jatinegara Barat 3,230,7,Sekunder,Kolektor,Kota,3643,0
+jakarta timur,Jatinegara Kaum,650,7,Sekunder,Kolektor,Kota,22806,0
+jakarta timur,Jatinegara Timur 2,300,7,Sekunder,Kolektor,Kota,58674,0
+jakarta timur,Jatinegara Timur 4,525,7,Sekunder,Kolektor,Kota,58805,0
+jakarta timur,Jengki,1070,7,Sekunder,Kolektor,Kota,46602,0
+jakarta timur,Jengki Utara,700,9,Sekunder,Kolektor,Kota,398,0
+jakarta timur,Kalisari,2000,9,Sekunder,Kolektor,Kota,65286,0
+jakarta timur,Kalisari 3,1000,7,Sekunder,Kolektor,Kota,88225,0
+jakarta timur,Kalisari Lapan ,885,7,Sekunder,Kolektor,Kota,4078,0
+jakarta timur,Kayu Jati,368,7,Sekunder,Kolektor,Kota,64108,0
+jakarta timur,Kayu Manis 10,475,7,Sekunder,Kolektor,Kota,12608,0
+jakarta timur,Kayu Manis 7,480,7,Sekunder,Kolektor,Kota,3666,0
+jakarta timur,Kayu Manis 8,1600,7,Sekunder,Kolektor,Kota,3667,0
+jakarta timur,Kayu Manis Barat,1691,7,Sekunder,Kolektor,Kota,3368,0
+jakarta timur,Kayu Manis Timur,1464,7,Sekunder,Kolektor,Kota,4785,0
+jakarta timur,Kayu Mas,825,7,Sekunder,Kolektor,Kota,64135,0
+jakarta timur,Kayu Mas Tengah,600,7,Sekunder,Kolektor,Kota,93639,0
+jakarta timur,Kayu Mas Utara,300,7,Sekunder,Kolektor,Kota,24359,0
+jakarta timur,Kayu Putih 3,875,7,Sekunder,Kolektor,Kota,83343,0
+jakarta timur,Kayu Putih Selatan ,850,7,Sekunder,Kolektor,Kota,64091,0
+jakarta timur,Kayu Putih Tengah,875,8,Sekunder,Kolektor,Kota,64117,0
+jakarta timur,Kayu Putih Timur,1040,7,Sekunder,Kolektor,Kota,64139,0
+jakarta timur,Kayu Putih Utara,675,7,Sekunder,Kolektor,Kota,23943,0
+jakarta timur,Kayu Tinggi,2873,7,Sekunder,Kolektor,Kota,7536,0
+jakarta timur,Kebon Kelapa,775,7,Sekunder,Kolektor,Kota,6765,0
+jakarta timur,Kebon Nanas,1000,7,Sekunder,Kolektor,Kota,4696,0
+jakarta timur,Kebon Nanas Selatan,625,7,Sekunder,Kolektor,Kota,4697,0
+jakarta timur,Kedongdong,435,7,Sekunder,Kolektor,Kota,59600,0
+jakarta timur,Kejaksaan,800,8,Sekunder,Kolektor,Kota,59486,0
+jakarta timur,Kelapa Hijau 1,600,7,Sekunder,Kolektor,Kota,58796,0
+jakarta timur,Kelapa Kopyor,1950,7,Sekunder,Kolektor,Kota,12813,0
+jakarta timur,Kelapa Kuning 1,500,7,Sekunder,Kolektor,Kota,12610,0
+jakarta timur,Kelapa Kuning Raya,1200,7,Sekunder,Kolektor,Kota,77484,0
+jakarta timur,Kelapa Muda 1,525,7,Sekunder,Kolektor,Kota,12585,0
+jakarta timur,Kelapa Sawit 1,459,7,Sekunder,Kolektor,Kota,3483,0
+jakarta timur,Kelapa Sawit Raya,1000,7,Sekunder,Kolektor,Kota,77485,0
+jakarta timur,Kesehatan,460,8,Sekunder,Kolektor,Kota,59893,0
+jakarta timur,Kimia Farma Kelurahan,800,8,Sekunder,Kolektor,Kota,3486,0
+jakarta timur,Kiwi Raya,700,12,Sekunder,Kolektor,Kota,66076,0
+jakarta timur,Komarudin,400,7,Sekunder,Kolektor,Kota,43856,0
+jakarta timur,Kramat Asem,743,7,Sekunder,Kolektor,Kota,3745,0
+jakarta timur,Lapan,300,9,Sekunder,Kolektor,Kota,66026,0
+jakarta timur,Laut Arafuru,300,8,Sekunder,Kolektor,Kota,90434,0
+jakarta timur,Laut Banda,225,8,Sekunder,Kolektor,Kota,95052,0
+jakarta timur,Layur,1015,10,Sekunder,Kolektor,Kota,64703,0
+jakarta timur,Lestari (Kali Sari),350,7,Sekunder,Kolektor,Kota,66174,0
+jakarta timur,Lubang Buaya Raya / Rawa Binong,2775,9,Sekunder,Kolektor,Kota,66156,0
+jakarta timur,Mahoni,825,7,Sekunder,Kolektor,Kota,66062,0
+jakarta timur,Malaka,2060,7,Sekunder,Kolektor,Kota,11600,0
+jakarta timur,Malaka Baru,900,13,Sekunder,Kolektor,Kota,650,0
+jakarta timur,Manggar 1,300,7,Sekunder,Kolektor,Kota,12603,0
+jakarta timur,Manggarai Selatan 1,570,7,Sekunder,Kolektor,Kota,3003,0
+jakarta timur,Mapilindo,1300,7,Sekunder,Kolektor,Kota,55454,0
+jakarta timur,Masjid Al Wusto,800,7,Sekunder,Kolektor,Kota,3512,0
+jakarta timur,Mawar Merah 1,300,7,Sekunder,Kolektor,Kota,696,0
+jakarta timur,Mawar Merah Raya,750,7,Sekunder,Kolektor,Kota,695,0
+jakarta timur,Media Massa,300,7,Sekunder,Kolektor,Kota,698,0
+jakarta timur,Merbabu,575,8,Sekunder,Kolektor,Kota,44742,0
+jakarta timur,Metro Jaya,300,7,Sekunder,Kolektor,Kota,65055,0
+jakarta timur,Monumen Pancasila Sakti,900,9,Sekunder,Kolektor,Kota,748,0
+jakarta timur,Mustang,660,7,Sekunder,Kolektor,Kota,71931,0
+jakarta timur,"Naman, H (Pd. Kelapa)",2100,7,Sekunder,Kolektor,Kota,849,0
+jakarta timur,Nusa Indah Raya,200,7,Sekunder,Kolektor,Kota,59498,0
+jakarta timur,Otista 3,1325,7,Sekunder,Kolektor,Kota,89243,0
+jakarta timur,Otista 4,150,7,Sekunder,Kolektor,Kota,12790,0
+jakarta timur,Pakis Raya,580,10,Sekunder,Kolektor,Kota,42108,0
+jakarta timur,Pal Meriam,300,7,Sekunder,Kolektor,Kota,3820,0
+jakarta timur,Palad,1450,7,Sekunder,Kolektor,Kota,745,0
+jakarta timur,Palmeriam Selatan,375,7,Sekunder,Kolektor,Kota,59635,0
+jakarta timur,Palmeriam Utara,450,7,Sekunder,Kolektor,Kota,59634,0
+jakarta timur,Paus,371,9,Sekunder,Kolektor,Kota,64619,0
+jakarta timur,Pedati,900,7,Sekunder,Kolektor,Kota,3604,0
+jakarta timur,Pegambiran,385,9,Sekunder,Kolektor,Kota,64242,0
+jakarta timur,Penganten Ali,1612,7,Sekunder,Kolektor,Kota,66120,0
+jakarta timur,Pernis,165,7,Sekunder,Kolektor,Kota,71934,0
+jakarta timur,Persahabatan,506,15,Sekunder,Kolektor,Kota,64219,0
+jakarta timur,Persahabatan Utara,345,8,Sekunder,Kolektor,Kota,64241,0
+jakarta timur,Perserikatan,115,9,Sekunder,Kolektor,Kota,24305,0
+jakarta timur,Perumnas Raya,2450,10,Sekunder,Kolektor,Kota,59487,0
+jakarta timur,Petengahan,1173,7,Sekunder,Kolektor,Kota,88216,0
+jakarta timur,Pisangan Baru Tengah,750,7,Sekunder,Kolektor,Kota,3489,0
+jakarta timur,Pisangan Baru Timur,350,7,Sekunder,Kolektor,Kota,75421,0
+jakarta timur,Pisangan Baru Utara,375,7,Sekunder,Kolektor,Kota,75422,0
+jakarta timur,Pisangan Lama 3,1310,8,Sekunder,Kolektor,Kota,22800,0
+jakarta timur,Pisangan Lama Selatan,1575,7,Sekunder,Kolektor,Kota,2457,0
+jakarta timur,Pisangan Lama Timur,1200,7,Sekunder,Kolektor,Kota,59601,0
+jakarta timur,Pkp Ciracas,1500,7,Sekunder,Kolektor,Kota,66079,0
+jakarta timur,Poncol,1200,6,Sekunder,Kolektor,Kota,3490,0
+jakarta timur,Pondasi,198,12,Sekunder,Kolektor,Kota,64064,0
+jakarta timur,Pondok Bambu Asri Raya,525,7,Sekunder,Kolektor,Kota,46643,0
+jakarta timur,Pondok Bambu Batas,500,7,Sekunder,Kolektor,Kota,58248,0
+jakarta timur,Pondok Kelapa Barat,1125,7,Sekunder,Kolektor,Kota,58286,0
+jakarta timur,Pondok Kelapa Raya,3600,7,Sekunder,Kolektor,Kota,59794,0
+jakarta timur,Pondok Kelapa Timur,1125,8,Sekunder,Kolektor,Kota,38808,0
+jakarta timur,Pondok Kopi Timur,600,8,Sekunder,Kolektor,Kota,2935,0
+jakarta timur,Pulo Asem Raya,300,7,Sekunder,Kolektor,Kota,64800,0
+jakarta timur,Pulo Asem Timur,225,7,Sekunder,Kolektor,Kota,64797,0
+jakarta timur,Pulo Asem Utara,825,7,Sekunder,Kolektor,Kota,64795,0
+jakarta timur,Pulo Gadel Tembus Pondok Gede,1800,7,Sekunder,Kolektor,Kota,13730,0
+jakarta timur,Pulo Gadung,2130,15,Sekunder,Kolektor,Kota,44940,0
+jakarta timur,Pulo Kambing (Kawasan  Pt Jiep),1110,24,Sekunder,Kolektor,Kota,7410,0
+jakarta timur,Pulo Lentut,1150,14,Sekunder,Kolektor,Kota,2440,0
+jakarta timur,Pulo Lio,1130,25,Sekunder,Kolektor,Kota,68008,0
+jakarta timur,Pulo Mas,785,14,Sekunder,Kolektor,Kota,64118,0
+jakarta timur,Pulo Mas Barat,1125,9,Sekunder,Kolektor,Kota,64383,0
+jakarta timur,Pulo Mas Jaya,525,7,Sekunder,Kolektor,Kota,2446,0
+jakarta timur,Pulo Mas Selatan,1350,7,Sekunder,Kolektor,Kota,24303,0
+jakarta timur,Pulo Mas Timur,1125,7,Sekunder,Kolektor,Kota,2445,0
+jakarta timur,Pulo Mas Utara,680,8,Sekunder,Kolektor,Kota,93567,0
+jakarta timur,Pulo Nangka Timur,675,7,Sekunder,Kolektor,Kota,64156,0
+jakarta timur,Rajawali Baru,700,7,Sekunder,Kolektor,Kota,55460,0
+jakarta timur,Rajawali Raya,600,7,Sekunder,Kolektor,Kota,55459,0
+jakarta timur,Rawa Domba,2050,8,Sekunder,Kolektor,Kota,222,0
+jakarta timur,Rawa Gelam,700,7,Sekunder,Kolektor,Kota,7421,0
+jakarta timur,Rawa Sumur Barat,1400,9,Sekunder,Kolektor,Kota,4065,0
+jakarta timur,Rawamangun Muka,525,8,Sekunder,Kolektor,Kota,64446,0
+jakarta timur,Rawamangun Muka Barat,890,8,Sekunder,Kolektor,Kota,64453,0
+jakarta timur,Rawamangun Muka Selatan,346,8,Sekunder,Kolektor,Kota,22700,0
+jakarta timur,Rawamangun Muka Timur,600,8,Sekunder,Kolektor,Kota,64454,0
+jakarta timur,Selat Makasar,1100,8,Sekunder,Kolektor,Kota,3515,0
+jakarta timur,Selat Roti,1300,8,Sekunder,Kolektor,Kota,3559,0
+jakarta timur,Sinar Jaya,330,7,Sekunder,Kolektor,Kota,64232,0
+jakarta timur,Slamet Riyadi,361,9,Sekunder,Kolektor,Kota,60009,0
+jakarta timur,Sunan Derajat,270,7,Sekunder,Kolektor,Kota,64659,0
+jakarta timur,Sunan Giri,365,7,Sekunder,Kolektor,Kota,64113,0
+jakarta timur,Sunan Sedayu,420,7,Sekunder,Kolektor,Kota,64638,0
+jakarta timur,Swadaya,250,9,Sekunder,Kolektor,Kota,68012,0
+jakarta timur,Taman Malaka Selatan,1350,7,Sekunder,Kolektor,Kota,59417,0
+jakarta timur,Taman Mini Indonesia,653,16,Sekunder,Kolektor,Kota,62758,0
+jakarta timur,Taman Pulo Asem,675,7,Sekunder,Kolektor,Kota,59544,0
+jakarta timur,Tanah Mas,467,8,Sekunder,Kolektor,Kota,64506,0
+jakarta timur,Tanah Mas 1,450,7,Sekunder,Kolektor,Kota,64601,0
+jakarta timur,Tanah Merdeka ,2440,8,Sekunder,Kolektor,Kota,66119,0
+jakarta timur,Taruna Jaya,400,7,Sekunder,Kolektor,Kota,11372,0
+jakarta timur,Tawes,340,7,Sekunder,Kolektor,Kota,64887,0
+jakarta timur,Tegalan,225,7,Sekunder,Kolektor,Kota,60004,0
+jakarta timur,"Ten, H",435,11,Sekunder,Kolektor,Kota,16137,0
+jakarta timur,Tengah Raya,1425,7,Sekunder,Kolektor,Kota,66113,0
+jakarta timur,Teratai Putih Raya,548,7,Sekunder,Kolektor,Kota,7522,0
+jakarta timur,Tidar,525,8,Sekunder,Kolektor,Kota,59744,0
+jakarta timur,Tiner,286,8,Sekunder,Kolektor,Kota,64298,0
+jakarta timur,Tmii Pintu 2,1450,7,Sekunder,Kolektor,Kota,90004,0
+jakarta timur,Trikora,2355,7,Sekunder,Kolektor,Kota,66136,0
+jakarta timur,Utan Kayu,1425,7,Sekunder,Kolektor,Kota,71943,0
+jakarta timur,Waringin Raya,300,7,Sekunder,Kolektor,Kota,59599,0
+jakarta timur,Waru,551,7,Sekunder,Kolektor,Kota,64250,0
+jakarta timur,Wijaya Kusuma,885,10,Sekunder,Kolektor,Kota,7450,0
+jakarta timur,Wisma Jaya,345,7,Sekunder,Kolektor,Kota,64204,0
+,,,,,,,,

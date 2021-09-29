@@ -1,0 +1,468 @@
+type_operasi,area_operasi,jumlah_bus,jumlah_penumpang
+RSUD CENGKARENG,JAKARTA,118,6732
+RSUD CENGKARENG,DEPOK,31,886
+RSUD CENGKARENG,TANGERANG,85,1756
+RSUD CENGKARENG,BEKASI,31,519
+RSUD DUREN SAWIT,JAKARTA,62,1142
+RSUD PASAR MINGGU,JAKARTA,31,1247
+RSUD TARAKAN,JAKARTA,47,4909
+RSUD TARAKAN,BOGOR,31,2144
+RSUD TARAKAN,DEPOK,31,1550
+RSUD TARAKAN,TANGERANG,31,1798
+RSUD TARAKAN,BEKASI,60,2273
+RSUD PASAR REBO,BOGOR,28,719
+RSUD PASAR REBO,DEPOK,29,346
+RSUD PASAR REBO,BEKASI,31,671
+RSUD KOJA,JAKARTA,83,3469
+RSUD KOJA,BEKASI,94,1966
+RS PONDOK INDAH,JAKARTA,31,1340
+RS PONDOK INDAH,BOGOR,31,1788
+RSUD BUDHI ASIH,JAKARTA,65,1187
+RSUD BUDHI ASIH,BOGOR,22,359
+R S C M,JAKARTA,62,3046
+R S C M,BOGOR,69,3343
+R S C M,DEPOK,47,3266
+R S C M,TANGERANG,67,2097
+R S C M,BEKASI,75,5408
+P M I,DEPOK,26,602
+P M I,BEKASI,25,448
+RSUD JATI PADANG,JAKARTA,93,2658
+PUSKESMAS MAMPANG PRAPATAN,JAKARTA,,
+PUSKESMAS PANCORAN,JAKARTA,,
+PUSKESMAS CILANDAK,JAKARTA,,
+PUSKESMAS TEBET,JAKARTA,,
+PUSKESMAS KUNINGAN  BARAT,JAKARTA,,
+PUSKESMAS KEBAYORAN BARU,JAKARTA,,
+PUSKESMAS KEBAYORAN LAMA,JAKARTA,,
+SUDINKES JAKARTA SELATAN,JAKARTA,,
+RSUP PERSAHABATAN,JAKARTA,21,301
+RSUP PERSAHABATAN,BOGOR,42,658
+RSUP PERSAHABATAN,DEPOK,21,434
+RSUP PERSAHABATAN,BEKASI,39,1204
+RS JANTUNG HARAPAN KITA,JAKARTA,44,1406
+RS JANTUNG HARAPAN KITA,BOGOR,31,1241
+RS JANTUNG HARAPAN KITA,BEKASI,21,743
+RSPI SULIANTI SAROSO,JAKARTA,91,3937
+RSUP FATMAWATI,JAKARTA,26,842
+RS KANKER DHARMAIS,JAKARTA,45,1701
+RS UKI CAWANG,BOGOR,1,8
+Puskesmas Tebet,RS Wisma Atlet,1,3
+RS Marinir Cilandak,RS Wisma Atlet,1,19
+Puskesmas Koja,RS Wisma Atlet,1,12
+Puskesmas Cipayung ,RS Wisma Atlet,1,19
+Puskesmas Cakung,RS Wisma Atlet,1,10
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,10
+Puskesmas Cilincing,RS Wisma Atlet,1,12
+Puskesmas Setiabudi,RS Wisma Atlet,1,12
+Puskesmas Grogol Petamburan,RS Wisma Atlet,1,10
+Puskesmas Setia Budi,RS Wisma Atlet,1,8
+Puskesmas Pancoran,RS Wisma Atlet,1,10
+Puskesmas Palmerah,RS Wisma Atlet,1,18
+RS Marinir Cilandak Tahap II,RS Wisma Atlet,1,7
+Puskesmas Kemayoran,RS Wisma Atlet,1,7
+Puskesmas Sawah Besar,RS Wisma Atlet,1,14
+Puskesmas Tebet Tahap II,RS Wisma Atlet,1,8
+Puskesmas Penjaringan,RS Wisma Atlet,1,14
+Puskesmas Cakung,RS Wisma Atlet,1,8
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,29
+Puskesmas Tanah Abang,RS Wisma Atlet,1,7
+Puskesmas Kemayoran Tahap II,RS Wisma Atlet,1,15
+Puskesmas Kemayoran Tahap III,RS Wisma Atlet,1,15
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+Puskesmas Koja,RS Wisma Atlet,1,7
+Puskesmas Matraman,RS Wisma Atlet,1,14
+Puskesmas Koja,RS Wisma Atlet,1,9
+Puskesmas Duren Sawit,RS Wisma Atlet,1,8
+Puskesmas Cipayung ,RS Wisma Atlet,1,4
+Puskesmas Setia Budi,RS Wisma Atlet,1,13
+Puskesmas Tebet,RS Wisma Atlet,1,20
+Puskesmas Cipayung Tahap II,RS Wisma Atlet,1,12
+Puskesmas Pademangan,RS Wisma Atlet,1,4
+Puskesmas Makasar,RS Wisma Atlet,1,4
+Puskesmas pancoran,RS Wisma Atlet,1,7
+Puskesmas Cilincing,RS Wisma Atlet,1,12
+Puskesmas Jatinegara,RS Wisma Atlet,1,16
+Puskesmas Kemayoran,RS Wisma Atlet,1,14
+Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+Puskesmas Sawah Besar,RS Wisma Atlet,1,20
+Puskesmas Senen,RS Wisma Atlet,1,12
+Puskesmas Cilandak,RS Wisma Atlet,1,7
+Puskesmas tebet,RS Wisma Atlet,1,5
+Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+Puskesmas Kemayoran,RS Wisma Atlet,1,14
+RS Marinir Cilandak,RS Wisma Atlet,1,11
+Puskesmas palmerah,RS Wisma Atlet,1,26
+Puskesmas Penjaringan,RS Wisma Atlet,1,6
+Puskesmas Tebet Tahap I,RS Wisma Atlet,1,33
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,5
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,3
+RSCM,RS Wisma Atlet,1,8
+Puskesmas Tebet Tahap II,RS Wisma Atlet,1,13
+Puskesmas Kelapa Gading,RS Wisma Atlet,1,7
+Puskesmas Menteng,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,26
+RS Marinir Cilandak Tahap I,RS Wisma Atlet,1,17
+Puskesmas Kramat Jati,RS Wisma Atlet,1,11
+Puskesmas Pancoran,RS Wisma Atlet,1,18
+Puskesmas Kemayoran,RS Wisma Atlet,1,15
+Puskesmas Johar Baru,RS Wisma Atlet,1,13
+Puskesmas Matraman,RS Wisma Atlet,1,15
+Puskesmas Cilincing,RS Wisma Atlet,1,8
+Puskesmas Tanah Abang,RS Wisma Atlet,1,6
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,29
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,14
+RS Marinir Cilandak Tahap II,RS Wisma Atlet,1,10
+Puskesmas Cipayung Tahap I,RS Wisma Atlet,1,7
+Puskesmas Cipayung Tahap II,RS Wisma Atlet,1,6
+Puskesmas Pademangan,RS Wisma Atlet,1,11
+Puskesmas Tebet,RS Wisma Atlet,1,19
+Puskesmas Kemayoran,RS Wisma Atlet,1,10
+Puskesmas Tanah Abang,RS Wisma Atlet,1,8
+RS Marinir Cilandak,RS Wisma Atlet,1,36
+Puskesmas Cilincing,RS Wisma Atlet,1,15
+Puskesmas Matraman,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,6
+Puskesmas Makasar,RS Wisma Atlet,1,14
+Puskesmas Penjaringan,RS Wisma Atlet,1,18
+Puskesmas Kelapa Gading Tahap I,RS Wisma Atlet,1,10
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,8
+Puskesmas Palmerah,RS Wisma Atlet,1,11
+Puskesmas Kelapa Gading Tahap II,RS Wisma Atlet,1,11
+Puskesmas Menteng,RS Wisma Atlet,1,4
+Puskesmas Kramat Jati,RS Wisma Atlet,1,4
+Puskesmas Tebet,RS Wisma Atlet,1,8
+Puskesmas Koja,RS Wisma Atlet,1,3
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,10
+Puskesmas Matraman,RS Wisma Atlet,1,14
+Puskesmas Cilincing,RS Wisma Atlet,1,6
+Puskesmas Ciracas,RS Wisma Atlet,1,26
+Puskesmas Kemayoran,RS Wisma Atlet,1,7
+Puskesmas Pancoran,RS Wisma Atlet,1,12
+Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+Puskesmas Jagakarsa,RS Wisma Atlet,1,5
+Puskesmas Palmerah,RS Wisma Atlet,1,16
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,13
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+Puskesmas Grogol Petamburan,RS Wisma Atlet,1,8
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,8
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,12
+Puskesmas Tebet,RS Wisma Atlet,1,26
+Puskesmas Cipayung,RS Wisma Atlet,1,9
+Puskesmas Cilincing,RS Wisma Atlet,1,9
+Puskesmas Kemayoran,RS Wisma Atlet,1,6
+Puskesmas Ciracas,RS Wisma Atlet,1,12
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,7
+Puskesmas Pancoran,RS Wisma Atlet,1,10
+Puskesmas Menteng,RS Wisma Atlet,1,7
+Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+RS Marinir Cilandak,RS Wisma Atlet,1,7
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,9
+Puskesmas Makasar,RS Wisma Atlet,1,10
+Puskesmas Penjaringan,RS Wisma Atlet,1,6
+Puskesmas Cempaka Putih,RS Wisma Atlet,1,18
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,5
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,13
+Puskesmas Cipayung,RS Wisma Atlet,1,17
+Puskesmas Ciracas,RS Wisma Atlet,1,18
+Puskesmas Kemayoran,RS Wisma Atlet,1,21
+Puskesmas Gambir,RS Wisma Atlet,1,10
+Puskesmas Senen,RS Wisma Atlet,1,11
+Puskesmas Sawah Besar,RS Wisma Atlet,1,13
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,16
+Puskesmas Johar Baru,RS Wisma Atlet,1,8
+Puskesmas Pancoran,RS Wisma Atlet,1,10
+Puskesmas Tanah Abang,RS Wisma Atlet,1,14
+Puskesmas Tebet,RS Wisma Atlet,1,14
+Puskesmas Menteng,RS Wisma Atlet,1,15
+Puskesmas Tanjung Priok Tahap I,RS Wisma Atlet,1,15
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,13
+Puskesmas Cilincing Tahap I,RS Wisma Atlet,1,11
+Puskesmas Cilincing Tahap II,RS Wisma Atlet,1,19
+Puskesmas Palmerah,RS Wisma Atlet,1,15
+Puskesmas Tanjung Priok Tahap II,RS Wisma Atlet,1,17
+Puskesmas Penjaringan,RS Wisma Atlet,1,11
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,13
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,5
+Puskesmas Matraman,RS Wisma Atlet,1,15
+Puskesmas Tebet Tahap I,RS Wisma Atlet,1,14
+Puskesmas Tebet Tahap II,RS Wisma Atlet,1,41
+RSCM IGD Kiara,RS Wisma Atlet,1,16
+Puskesmas Kelapa Gading,RS Wisma Atlet,1,14
+Puskesmas Cipayung,RS Wisma Atlet,1,10
+Puskesmas Cilincing,RS Wisma Atlet,1,15
+Puskesmas Cakung,RS Wisma Atlet,1,9
+Puskesmas Kemayoran,RS Wisma Atlet,1,14
+Puskesmas Ciracas,RS Wisma Atlet,1,22
+Puskesmas Pancoran,RS Wisma Atlet,1,10
+Puskesmas Kramat Jati,RS Wisma Atlet,1,6
+Puskesmas Tanjung Priok,RS Wisma Atlet,1,18
+RS Marinir Cilandak,RS Wisma Atlet,1,35
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+Puskesmas Tanah Abang,RS Wisma Atlet,1,13
+Puskesmas Penjaringan,RS Wisma Atlet,1,14
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,13
+Puskesmas Tebet,RS Wisma Atlet,1,6
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,18
+Puskesmas Matraman,RS Wisma Atlet,1,15
+Puskesmas Kelapa Gading,RS Wisma Atlet,1,11
+Puskesmas Jatinegara,RS Wisma Atlet,1,8
+Puskesmas Cipayung,RS Wisma Atlet,1,9
+Puskesmas Kemayoran,RS Wisma Atlet,1,19
+RS Marinir Cilandak,RS Wisma Atlet,1,26
+Puskesmas Senen,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,14
+Puskesmas Pancoran,RS Wisma Atlet,1,12
+Puskesmas Menteng,RS Wisma Atlet,1,10
+Puskesmas Cilincing,RS Wisma Atlet,1,15
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,13
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,20
+Puskesmas gambir,RS Wisma Atlet,1,16
+Puskesmas Tanah Abang,RS Wisma Atlet,1,15
+Puskesmas Penjaringan,RS Wisma Atlet,1,7
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,7
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,6
+Puskesmas Cilincing,RS Wisma Atlet,1,25
+Puskesmas Tebet,RS Wisma Atlet,1,21
+Puskesmas Ciracas,RS Wisma Atlet,1,11
+Puskesmas Kelapa gading,RS Wisma Atlet,1,10
+Puskesmas Cipayung,RS Wisma Atlet,1,8
+Puskesmas pancoran,RS Wisma Atlet,1,11
+Puskesmas Kemayoran,RS Wisma Atlet,1,25
+Puskesmas Matraman,RS Wisma Atlet,1,17
+Puskesmas Penjaringan,RS Wisma Atlet,1,11
+Puskesmas Sawah Besar,RS Wisma Atlet,1,14
+Puskesmas Menteng,RS Wisma Atlet,1,8
+Puskesmas Kramat Jati,RS Wisma Atlet,1,14
+Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+Puskesmas Gambir,RS Wisma Atlet,1,13
+UP. Angkutan Sekolah,RS Wisma Atlet,1,9
+Puskesmas Cilincing,RS Wisma Atlet,1,14
+Puskesmas Matraman,RS Wisma Atlet,1,14
+Puskesmas Kelapa Gading,RS Wisma Atlet,1,10
+Puskesmas tebet,RS Wisma Atlet,1,25
+Puskesmas Kemayoran,RS Wisma Atlet,1,20
+Puskesmas Cilincing,RS Wisma Atlet,1,10
+Puskesmas Menteng,RS Wisma Atlet,1,7
+Puskesmas Sawah Besar,RS Wisma Atlet,1,14
+Puskesmas Penjaringan,RS Wisma Atlet,1,8
+Puskesmas Gambir,RS Wisma Atlet,1,14
+RS Marinir Cilandak,RS Wisma Atlet,1,21
+Puskesmas Cipayung,RS Wisma Atlet,1,29
+Puskesmas Tanah Abang,RS Wisma Atlet,1,15
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,12
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,8
+Puskesmas Kemayoran,RS Wisma Atlet,1,12
+Puskesmas Ciracas,RS Wisma Atlet,1,20
+Puskesmas Pancoran,RS Wisma Atlet,1,9
+Puskesmas Makasar,RS Wisma Atlet,1,14
+Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+RS Marinir Cilandak,RS Wisma Atlet,1,10
+Puskesmas Koja Tahap I,RS Wisma Atlet,1,10
+Puskesmas Koja Tahap II,RS Wisma Atlet,1,8
+Puskesmas Tebet,RS Wisma Atlet,1,17
+Puskesmas Ciracas,RS Wisma Atlet,1,10
+Unit Pengelola Angkutan Sekolah ,RS Wisma Atlet,1,1
+Puskesmas Pancoran,RS Wisma Atlet,1,24
+Puskesmas Cilincing,RS Wisma Atlet,1,13
+Puskesmas Kemayoran,RS Wisma Atlet,1,20
+Puskesmas Penjaringan,RS Wisma Atlet,1,8
+Puskesmas Gambir,RS Wisma Atlet,1,8
+Puskesmas Menteng,RS Wisma Atlet,1,9
+Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+Rusun Nagrak,RS Wisma Atlet,1,38
+Puskesmas Ciracas,RS Wisma Atlet,1,16
+Puskesmas Koja,RS Wisma Atlet,1,7
+Puskesmas Pulo Gebang,RS Wisma Atlet,1,9
+Puskesmas Cipayung,RS Wisma Atlet,1,13
+Puskesmas Tebet,RS Wisma Atlet,1,27
+Puskesmas Ciracas Tahap II,RS Wisma Atlet,1,13
+Puskesmas Kemayoran,RS Wisma Atlet,1,11
+Puskesmas Pancoran,RS Wisma Atlet,1,14
+Puskesmas Menteng,RS Wisma Atlet,1,11
+Puskesmas Penjaringan,RS Wisma Atlet,1,9
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,16
+Puskesmas Makasar,RS Wisma Atlet,1,7
+RS Marinir Cilandak,RS Wisma Atlet,1,17
+Puskesmas Cilincing,RS Wisma Atlet,1,11
+Puskesmas Koja,RS Wisma Atlet,1,3
+Puskesmas Ciracas,RS Wisma Atlet,1,10
+Puskesmas Tebet,RS Wisma Atlet,1,17
+Puskesmas Cilincing,RS Wisma Atlet,1,15
+Puskesmas Matraman,RS Wisma Atlet,1,22
+Puskesmas Makasar,RS Wisma Atlet,1,3
+Puskesmas Cakung,RS Wisma Atlet,1,10
+Puskesmas Senen,RS Wisma Atlet,1,21
+Puskesmas Grogol Petamburan,RS Wisma Atlet,1,13
+Puskesmas Pancoran,RS Wisma Atlet,1,16
+Puskesmas kemayoran,RS Wisma Atlet,1,29
+Puskesmas Setia Budi,RS Wisma Atlet,1,12
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,15
+Puskesmas Tanah Abang,RS Wisma Atlet,1,11
+Puskesmas Setia Budi Tahap II,RS Wisma Atlet,1,7
+Puskesmas menteng,RS Wisma Atlet,1,5
+Puskesmas Kelapa Gading,RS Wisma Atlet,1,8
+Rusun Nagrak,RS Wisma Atlet,1,11
+Rusun Nagrak,RS Wisma Atlet,1,9
+Puskesmas Koja,RS Wisma Atlet,1,9
+Puskesmas Cilandak,RS Wisma Atlet,1,12
+Puskesmas Setia Budi,RS Wisma Atlet,1,24
+Puskesmas tebet,RS Wisma Atlet,1,11
+Puskesmas Ciracas,RS Wisma Atlet,1,24
+Puskesmas Sawah Besar,RS Wisma Atlet,1,20
+PDC Pertamina Jaya,RS Wisma Atlet,1,10
+Puskesmas Kemayoran,RS Wisma Atlet,1,30
+Puskesmas Cakung,RS Wisma Atlet,1,10
+Puskesmas Penjaringan,RS Wisma Atlet,1,8
+Puskesmas Pancoran,RS Wisma Atlet,1,21
+Puskesmas Duren Sawit,RS Wisma Atlet,1,11
+Puskesmas Jagakarsa,RS Wisma Atlet,1,6
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,11
+RS Marinir Cilandak,RS Wisma Atlet,1,11
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,21
+Puskesmas Tanjung Priok,RS Wisma Atlet,1,10
+Puskesmas Makasar,RS Wisma Atlet,1,9
+Puskesmas Pulo Gadung Tahap II,RS Wisma Atlet,1,10
+Puskesmas Kembangan,RS Wisma Atlet,1,7
+Puskesmas Cakung Tahap II,RS Wisma Atlet,1,7
+Puskesmas Tanah Abang,RS Wisma Atlet,1,12
+Puskesmas Setia Budi,RS Wisma Atlet,1,14
+Puskesmas Koja,RS Wisma Atlet,1,9
+Puskesmas Cilincing,RS Wisma Atlet,1,10
+Puskesmas Matraman,RS Wisma Atlet,1,16
+Puskesmas Pancoran,RS Wisma Atlet,1,12
+Puskesmas Palmerah,RS Wisma Atlet,1,7
+Puskesmas Ciracas,RS Wisma Atlet,1,18
+Puskesmas Cakung,RS Wisma Atlet,1,8
+Puskesmas Kemayoran,RS Wisma Atlet,1,25
+Puskesmas Tebet,RS Wisma Atlet,1,16
+Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,17
+RS Marinir Cilandak,RS Wisma Atlet,1,5
+Puskesmas Cilincing,RS Wisma Atlet,1,18
+Puskesmas Gambir,RS Wisma Atlet,1,15
+Puskesmas Tebet,RS Wisma Atlet,1,8
+Puskesmas Makasar,RS Wisma Atlet,1,2
+Puskesmas Kemayoran,RS Wisma Atlet,1,16
+Puskesmas Tanah Abang,RS Wisma Atlet,1,8
+Puskesmas Ciracas,RS Wisma Atlet,1,19
+Puskesmas Koja,RS Wisma Atlet,1,7
+Puskesmas Matraman,RS Wisma Atlet,1,22
+RS Marinir Cilandak,RS Wisma Atlet,1,8
+Puskesmas Kemayoran,RS Wisma Atlet,1,12
+Puskesmas Pancoran,RS Wisma Atlet,1,13
+Puskesmas Cipayung,RS Wisma Atlet,1,6
+RS Marinir Cilandak Tahap II,RS Wisma Atlet,1,18
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+Puskesmas Setia Budi,RS Wisma Atlet,1,20
+Puskesmas Tanah Abang,RS Wisma Atlet,1,9
+Puskesmas Kel. Ciganjur,RS Wisma Atlet,1,20
+Puskesmas Koja,RS Wisma Atlet,1,13
+Puskesmas Ciracas,RS Wisma Atlet,1,7
+Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+Puskesmas Pancoran,RS Wisma Atlet,1,10
+RS Marinir Cilandak,RS Wisma Atlet,1,19
+Puskesmas Tanjung Priok,RS Wisma Atlet,1,8
+Panti Hafidhin Royan Ciganjur,RS Wisma Atlet,1,11
+Puskesmas Setia Budi,RS Wisma Atlet,1,9
+Puskesmas Koja,RS Wisma Atlet,1,9
+Puskesmas  Duren Sawit,RS Wisma Atlet,1,13
+Puskesmas Matraman,RS Wisma Atlet,1,8
+Puskesmas Ciracas,RS Wisma Atlet,1,12
+Puskesmas Kemayoran,RS Wisma Atlet,1,22
+Puskesmas Pancoran,RS Wisma Atlet,1,10
+Puskesmas Tanjung Priok,RS Wisma Atlet,1,12
+Puskesmas Tanah Abang,RS Wisma Atlet,1,10
+Rusun Nagrak,RS Wisma Atlet,1,34
+Puskesmas Koja,RS Wisma Atlet,1,8
+Puskesmas Matraman,RS Wisma Atlet,1,12
+Puskesmas Cilincing,RS Wisma Atlet,1,17
+Puskesmas Tebet,RS Wisma Atlet,1,9
+Puskesmas Ciracas,RS Wisma Atlet,1,26
+Puskesmas Menteng,RS Wisma Atlet,1,9
+Puskesmas kemayoran,RS Wisma Atlet,1,12
+RS Marinir Cilandak,RS Wisma Atlet,1,12
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,10
+Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+Puskesmas Tanjung Priok,RS Wisma Atlet,1,15
+Puskesmas Palmerah,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,15
+Puskesmas Kemayoran,RS Wisma Atlet,1,19
+Puskesmas Palmerah,RS Wisma Atlet,1,12
+Puskesmas Tebet,RS Wisma Atlet,1,18
+RS Marinir Cilandak,RS Wisma Atlet,1,8
+Puskesmas Makasar,RS Wisma Atlet,1,9
+Puskesmas Koja,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,14
+Puskesmas Pancoran,RS Wisma Atlet,1,14
+Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+Puskesmas Tebet,RS Wisma Atlet,1,16
+Rusun Nagrak,RS Wisma Atlet,1,18
+Puskesmas Ciracas,RS Wisma Atlet,1,20
+Puskesmas Pancoran,RS Wisma Atlet,1,14
+RS Marinir Cilandak,RS Wisma Atlet,1,12
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,8
+Puskesmas Kemayoran,RS Wisma Atlet,1,15
+Puskesmas Pancoran,RS Wisma Atlet,1,9
+RS Marinir Cilandak ,RS Wisma Atlet,1,8
+Puskesmas Kemayoran,RS Wisma Atlet,1,18
+UPAS - CIRACAS,RS Wisma Atlet,1,1
+UPAS - CILINCING,RS Wisma Atlet,1,1
+UPAS - MAKASAR,RS Wisma Atlet,1,1
+Puskesmas Tebet,RS Wisma Atlet,1,7
+Puskesmas Koja,RS Wisma Atlet,1,10
+Puskesmas Cilincing,RS Wisma Atlet,1,14
+Puskesmas Cakung,RS Wisma Atlet,1,9
+Puskesmas Ciracas,RS Wisma Atlet,1,7
+Puskesmas Kemayoran,RS Wisma Atlet,1,8
+Puskesmas Pancoran,RS Wisma Atlet,1,11
+RS Marinir Cilandak,RS Wisma Atlet,1,19
+Puskesmas Koja,RS Wisma Atlet,1,8
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,6
+Puskesmas Ciracas,RS Wisma Atlet,1,29
+CILINCING,Sentra Vaksinasi terdekat dari lokasi penjemputan,15,1142
+KELAPA GADING,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+KOJA,Sentra Vaksinasi terdekat dari lokasi penjemputan,11,219
+PADEMANGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,104
+PENJARINGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,8,336
+TANJUNG PRIOK,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+CAKUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,36,751
+CIPAYUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,10,212
+CIRACAS,Sentra Vaksinasi terdekat dari lokasi penjemputan,19,289
+DUREN SAWIT,Sentra Vaksinasi terdekat dari lokasi penjemputan,9,142
+JATINEGARA,Sentra Vaksinasi terdekat dari lokasi penjemputan,18,389
+KRAMAT JATI,Sentra Vaksinasi terdekat dari lokasi penjemputan,18,292
+MAKASAR,Sentra Vaksinasi terdekat dari lokasi penjemputan,3,63
+MATRAMAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,2,10
+PASAR REBO,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,45
+PULO GADUNG,Sentra Vaksinasi terdekat dari lokasi penjemputan,19,411
+CEMPAKA PUTIH,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+GAMBIR,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+JOHAR BARU,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+KEMAYORAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,27,226
+MENTENG,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+SAWAH BESAR,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+SENEN,Sentra Vaksinasi terdekat dari lokasi penjemputan,7,44
+TANAH ABANG,Sentra Vaksinasi terdekat dari lokasi penjemputan,18,667
+CILANDAK,Sentra Vaksinasi terdekat dari lokasi penjemputan,7,107
+JAGAKARSA,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+KEBAYORAN BARU,Sentra Vaksinasi terdekat dari lokasi penjemputan,25,658
+KEBAYORAN LAMA,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,18
+MAMPANG PRAPATAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,6,106
+PANCORAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,36,906
+PASAR MINGGU,Sentra Vaksinasi terdekat dari lokasi penjemputan,5,126
+PESANGGRAHAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+SETIABUDI,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+TEBET,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+CENGKARENG,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+GROGOL PETAMBURAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,4,84
+KALIDERES,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+KEBON JERUK,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+KEMBANGAN,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+PALMERAH,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+TAMAN SARI,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+TAMBORA,Sentra Vaksinasi terdekat dari lokasi penjemputan,0,0
+SETU,Sentra Vaksinasi terdekat dari lokasi penjemputan,1,22

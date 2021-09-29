@@ -1,0 +1,119 @@
+type_operasi,area_operasi,jumlah_bus,jumlah_penumpang
+RSUD CENGKARENG,JAKARTA,115,6114
+RSUD CENGKARENG,BOGOR,,
+RSUD CENGKARENG,DEPOK,27,759
+RSUD CENGKARENG,TANGERANG,60,1277
+RSUD CENGKARENG,BEKASI,28,507
+RSUD DUREN SAWIT,JAKARTA,117,2284
+RSUD DUREN SAWIT,BOGOR,,
+RSUD DUREN SAWIT,DEPOK,,
+RSUD DUREN SAWIT,TANGERANG,,
+RSUD DUREN SAWIT,BEKASI,,
+RSUD PASAR MINGGU,JAKARTA,,
+RSUD PASAR MINGGU,BOGOR,12,109
+RSUD PASAR MINGGU,DEPOK,2,9
+RSUD PASAR MINGGU,TANGERANG,,
+RSUD PASAR MINGGU,BEKASI,13,118
+RSUD TARAKAN,JAKARTA,,
+RSUD TARAKAN,BOGOR,27,1426
+RSUD TARAKAN,DEPOK,31,1479
+RSUD TARAKAN,TANGERANG,58,2209
+RSUD TARAKAN,BEKASI,57,1786
+RSUD PASAR REBO,JAKARTA,,
+RSUD PASAR REBO,BOGOR,26,653
+RSUD PASAR REBO,DEPOK,20,324
+RSUD PASAR REBO,TANGERANG,,
+RSUD PASAR REBO,BEKASI,31,584
+RSUD KOJA,JAKARTA,80,3896
+RSUD KOJA,BOGOR,,
+RSUD KOJA,DEPOK,,
+RSUD KOJA,TANGERANG,,
+RSUD KOJA,BEKASI,81,1763
+RS PONDOK INDAH,JAKARTA,31,1335
+RS PONDOK INDAH,BOGOR,30,1675
+RS PONDOK INDAH,DEPOK,,
+RS PONDOK INDAH,TANGERANG,0,0
+RS PONDOK INDAH,BEKASI,,
+RSUD BUDHI ASIH,JAKARTA,,
+RSUD BUDHI ASIH,BOGOR,56,1035
+RSUD BUDHI ASIH,DEPOK,,
+RSUD BUDHI ASIH,TANGERANG,,
+RSUD BUDHI ASIH,BEKASI,19,298
+R S C M,JAKARTA,83,4610
+R S C M,BOGOR,72,3429
+R S C M,DEPOK,52,3002
+R S C M,TANGERANG,66,1797
+R S C M,BEKASI,81,5730
+P M I,JAKARTA,0,0
+P M I,BOGOR,,
+P M I,DEPOK,29,895
+P M I,TANGERANG,,
+P M I,BEKASI,28,595
+RSUD JATI PADANG,JAKARTA,93,893
+PUSKESMAS MAMPANG PRAPATAN,JAKARTA,,
+PUSKESMAS PANCORAN,JAKARTA,,
+PUSKESMAS CILANDAK,JAKARTA,,
+PUSKESMAS TEBET,JAKARTA,,
+PUSKESMAS KUNINGAN  BARAT,JAKARTA,,
+PUSKESMAS KEBAYORAN BARU,JAKARTA,,
+PUSKESMAS KEBAYORAN LAMA,JAKARTA,,
+SUDINKES JAKARTA SELATAN,JAKARTA,,
+RSUP PERSAHABATAN,JAKARTA,22,428
+RSUP PERSAHABATAN,BOGOR,25,535
+RSUP PERSAHABATAN,DEPOK,17,408
+RSUP PERSAHABATAN,TANGERANG,,
+RSUP PERSAHABATAN,BEKASI,43,1582
+RS JANTUNG HARAPAN KITA,JAKARTA,24,883
+RS JANTUNG HARAPAN KITA,BOGOR,28,986
+RS JANTUNG HARAPAN KITA,TANGERANG,,
+RS JANTUNG HARAPAN KITA,BEKASI,17,772
+RSPI SULIANTI SAROSO,JAKARTA,91,3252
+RSUP FATMAWATI,JAKARTA,31,2100
+RS KANKER DHARMAIS,JAKARTA,31,1152
+Puskesmas Koja,RS Wisma Atlet,1,13
+Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+Puskesmas Cipayung,RS Wisma Atlet,1,13
+Puskesmas Ciracas,RS Wisma Atlet,1,11
+Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+Puskesmas Ciracas,RS Wisma Atlet,1,7
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,8
+Puskesmas Ciracas,RS Wisma Atlet,1,6
+Puskesmas Pulo Gadung,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,6
+Puskesmas Ciracas,RS Wisma Atlet,1,7
+Puskesmas Tebet,RS Wisma Atlet,1,8
+Puskesmas Cilincing,RS Wisma Atlet,1,9
+Puskesmas Kramat Jati,RS Wisma Atlet,1,7
+Puskesmas Cipayung,RS Wisma Atlet,1,12
+Puskesmas Cipayung Tahap II,RS Wisma Atlet,1,6
+Puskesmas Cipayung,RS Wisma Atlet,1,17
+Puskesmas Duren Sawit,RS Wisma Atlet,1,9
+Puskesmas Kramat Jati,RS Wisma Atlet,1,9
+Puskesmas Ciracas,RS Wisma Atlet,1,10
+Puskesmas Cilandak,RS Wisma Atlet,1,8
+Puskesmas Gambir,RS Wisma Atlet,1,13
+Puskesmas Cipayung,RS Wisma Atlet,1,48
+Puskesmas Duren Sawit,RS Wisma Atlet,1,7
+Puskesmas Ciracas,RS Wisma Atlet,1,12
+Puskesmas Pasar Minggu,RS Wisma Atlet,1,7
+Puskesmas Duren Sawit,RS Wisma Atlet,1,6
+Puskesmas Ciracas,RS Wisma Atlet,1,5
+Puskesmas Duren Sawit,RS Wisma Atlet,1,10
+Puskesmas Ciracas,RS Wisma Atlet,1,22
+Puskesmas Duren Sawit,RS Wisma Atlet,1,14
+Puskesmas Cipayung,RS Wisma Atlet,1,21
+Puskesmas Ciracas,RS Wisma Atlet,1,7
+Puskesmas Kramat Jati,RS Wisma Atlet,1,8
+Puskesmas Ciracas,RS Wisma Atlet,1,8
+Puskesmas Cilandak,RS Wisma Atlet,1,7
+Puskesmas Penjaringan,RS Wisma Atlet,1,7
+Puskesmas Duren Sawit,RS Wisma Atlet,1,16
+Puskesmas Cilincing,RS Wisma Atlet,1,10
+Puskesmas Pasar Rebo,RS Wisma Atlet,1,12
+Puskesmas Ciracas,RS Wisma Atlet,1,18
+Puskesmas Pancoran,RS Wisma Atlet,1,13
+Puskesmas Kembangan,RS Wisma Atlet,1,9
+Puskesmas Cipayung,RS Wisma Atlet,1,30
+Puskesmas Kebayoran Lama,RS Wisma Atlet,1,9

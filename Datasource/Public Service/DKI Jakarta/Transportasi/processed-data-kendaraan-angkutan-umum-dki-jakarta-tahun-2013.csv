@@ -1,0 +1,112 @@
+operator,jenis_kendaraan,jenis_layanan,jumlah_armada,jumlah_trayek
+"Perum PPD","Bus Kota","Patas AC",38,3
+"Mayasari Bakti","Bus Kota","Patas AC",557,53
+"PT. Bianglala Metropolitan","Bus Kota","Patas AC",41,3
+"PT. Sinar Jaya Megah Langgeng","Bus Kota","Patas AC",89,13
+"PT. Daya Sentosa Utama","Bus Kota","Patas AC",0,0
+"PT. Jasa Utama","Bus Kota","Patas AC",0,0
+"PT. Koda Jaya/AJA Putra","Bus Kota","Patas AC",68,3
+"PT. Steady Safe","Bus Kota","Patas AC",3,2
+"PT. ARH","Bus Kota","Patas AC",0,0
+"PT. Metromini (bus besar)","Bus Kota","Patas AC",10,1
+"Perum PPD","APTB","Patas AC",25,3
+"Mayasari Bakti","APTB","Patas AC",63,5
+"PT. Bianglala Metropolitan","APTB","Patas AC",15,1
+"PT. Sinar Jaya Megah Langgeng","APTB","Patas AC",30,3
+"PT. Hiba Utama","APTB","Patas AC",10,1
+"PT. Jakarta Mega Trans - Kor 5","Busway","Patas AC",13,
+"PT. Jakarta Mega Trans - Kor 7","Busway","Patas AC",53,
+"PT. Jakarta Trans Metropolitan - Kor 4","Busway","Patas AC",30,
+"PT. Jakarta Trans Metropolitan - Kor 6","Busway","Patas AC",31,
+"PT. Transbatavia - Kor 2","Busway","Patas AC",48,
+"PT. Transbatavia - Kor 3","Busway","Patas AC",77,
+"PT. Primajasa Perdanaraya Utama - Kor 4","Busway","Patas AC",15,
+"PT. Primajasa Perdanaraya Utama - Kor 6","Busway","Patas AC",25,
+"PT. Jakarta Express Trans - Kor 1","Busway","Patas AC",0,
+"PT. Transmayapada Busway - Kor 9","Busway","Patas AC",41,
+"PT. Transmayapada Busway - Kor 10","Busway","Patas AC",16,
+"PT. Eka Sari Lorena Transport - Kor 5","Busway","Patas AC",13,
+"PT. Eka Sari Lorena Transport - Kor 7","Busway","Patas AC",34,
+"PT. Bianglala Metropolitan - Kor 9","Busway","Patas AC",43,
+"PT. Bianglala Metropolitan - Kor 10","Busway","Patas AC",17,
+"PT. Bianglala Metropolitan - Kor 12","Busway","Patas AC",36,
+"Perum DAMRI - Kor 1","Busway","Patas AC",52,
+"Perum DAMRI - Kor 8","Busway","Patas AC",14,
+"Perum DAMRI - Kor 11","Busway","Patas AC",21,
+"UPTJ - Kor 2 Exp","Busway","Patas AC",13,
+"UPTJ - Kor 3 Exp","Busway","Patas AC",17,
+"UPTJ - Kor 9","Busway","Patas AC",54,
+"Perum PPD","Bus Kota","Patas",101,7
+"Mayasari Bakti","Bus Kota","Patas",117,12
+"PT. Bianglala Metropolitan","Bus Kota","Patas",0,0
+"PT. Sinar Jaya Megah Langgeng","Bus Kota","Patas",0,0
+"PT. Daya Sentosa Utama","Bus Kota","Patas",23,1
+"PT. Jasa Utama","Bus Kota","Patas",45,4
+"PT. Koda Jaya/AJA Putra","Bus Kota","Patas",63,3
+"PT. Steady Safe","Bus Kota","Patas",3,1
+"PT. ARH","Bus Kota","Patas",13,1
+"PT. Metromini (bus besar)","Bus Kota","Patas",0,0
+"Perum PPD","APTB","Patas",,
+"Mayasari Bakti","APTB","Patas",,
+"PT. Bianglala Metropolitan","APTB","Patas",,
+"PT. Sinar Jaya Megah Langgeng","APTB","Patas",,
+"PT. Hiba Utama","APTB","Patas",,
+"PT. Jakarta Mega Trans - Kor 5","Busway","Patas",,
+"PT. Jakarta Mega Trans - Kor 7","Busway","Patas",,
+"PT. Jakarta Trans Metropolitan - Kor 4","Busway","Patas",,
+"PT. Jakarta Trans Metropolitan - Kor 6","Busway","Patas",,
+"PT. Transbatavia - Kor 2","Busway","Patas",,
+"PT. Transbatavia - Kor 3","Busway","Patas",,
+"PT. Primajasa Perdanaraya Utama - Kor 4","Busway","Patas",,
+"PT. Primajasa Perdanaraya Utama - Kor 6","Busway","Patas",,
+"PT. Jakarta Express Trans - Kor 1","Busway","Patas",,
+"PT. Transmayapada Busway - Kor 9","Busway","Patas",,
+"PT. Transmayapada Busway - Kor 10","Busway","Patas",,
+"PT. Eka Sari Lorena Transport - Kor 5","Busway","Patas",,
+"PT. Eka Sari Lorena Transport - Kor 7","Busway","Patas",,
+"PT. Bianglala Metropolitan - Kor 9","Busway","Patas",,
+"PT. Bianglala Metropolitan - Kor 10","Busway","Patas",,
+"PT. Bianglala Metropolitan - Kor 12","Busway","Patas",,
+"Perum DAMRI - Kor 1","Busway","Patas",,
+"Perum DAMRI - Kor 8","Busway","Patas",,
+"Perum DAMRI - Kor 11","Busway","Patas",,
+"UPTJ - Kor 2 Exp","Busway","Patas",,
+"UPTJ - Kor 3 Exp","Busway","Patas",,
+"UPTJ - Kor 9","Busway","Patas",,
+"Perum PPD","Bus Kota","Reguler",133,8
+"Mayasari Bakti","Bus Kota","Reguler",24,3
+"PT. Bianglala Metropolitan","Bus Kota","Reguler",0,0
+"PT. Sinar Jaya Megah Langgeng","Bus Kota","Reguler",0,0
+"PT. Daya Sentosa Utama","Bus Kota","Reguler",0,0
+"PT. Jasa Utama","Bus Kota","Reguler",9,1
+"PT. Koda Jaya/AJA Putra","Bus Kota","Reguler",0,0
+"PT. Steady Safe","Bus Kota","Reguler",6,3
+"PT. ARH","Bus Kota","Reguler",0,0
+"PT. Metromini (bus besar)","Bus Kota","Reguler",0,0
+"Perum PPD","APTB","Reguler",,
+"Mayasari Bakti","APTB","Reguler",,
+"PT. Bianglala Metropolitan","APTB","Reguler",,
+"PT. Sinar Jaya Megah Langgeng","APTB","Reguler",,
+"PT. Hiba Utama","APTB","Reguler",,
+"PT. Jakarta Mega Trans - Kor 5","Busway","Reguler",,
+"PT. Jakarta Mega Trans - Kor 7","Busway","Reguler",,
+"PT. Jakarta Trans Metropolitan - Kor 4","Busway","Reguler",,
+"PT. Jakarta Trans Metropolitan - Kor 6","Busway","Reguler",,
+"PT. Transbatavia - Kor 2","Busway","Reguler",,
+"PT. Transbatavia - Kor 3","Busway","Reguler",,
+"PT. Primajasa Perdanaraya Utama - Kor 4","Busway","Reguler",,
+"PT. Primajasa Perdanaraya Utama - Kor 6","Busway","Reguler",,
+"PT. Jakarta Express Trans - Kor 1","Busway","Reguler",,
+"PT. Transmayapada Busway - Kor 9","Busway","Reguler",,
+"PT. Transmayapada Busway - Kor 10","Busway","Reguler",,
+"PT. Eka Sari Lorena Transport - Kor 5","Busway","Reguler",,
+"PT. Eka Sari Lorena Transport - Kor 7","Busway","Reguler",,
+"PT. Bianglala Metropolitan - Kor 9","Busway","Reguler",,
+"PT. Bianglala Metropolitan - Kor 10","Busway","Reguler",,
+"PT. Bianglala Metropolitan - Kor 12","Busway","Reguler",,
+"Perum DAMRI - Kor 1","Busway","Reguler",,
+"Perum DAMRI - Kor 8","Busway","Reguler",,
+"Perum DAMRI - Kor 11","Busway","Reguler",,
+"UPTJ - Kor 2 Exp","Busway","Reguler",,
+"UPTJ - Kor 3 Exp","Busway","Reguler",,
+"UPTJ - Kor 9","Busway","Reguler",,

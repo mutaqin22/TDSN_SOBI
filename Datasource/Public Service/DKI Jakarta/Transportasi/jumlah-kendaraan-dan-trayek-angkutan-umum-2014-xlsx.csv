@@ -1,0 +1,9 @@
+jenis_kendaraan,jenis_pelayanan,jumlah_kendaraan,jumlah_trayek
+Bus Besar,Patas AC,821.0,109.0
+Bus Besar,Patas,365.0,29.0
+Bus Besar,Reguler,172.0,15.0
+Bus Besar,Busway,859.0,12.0
+Bus Besar,APTB,193.0,17.0
+Bus Sedang,Reguler,3125.0,76.0
+Bus Kecil / MPU,Reguler,13529.0,157.0
+Total,,19064.0,415.0

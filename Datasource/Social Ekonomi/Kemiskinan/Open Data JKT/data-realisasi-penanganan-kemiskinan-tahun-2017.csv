@@ -1,0 +1,37 @@
+tahun,wilayah,jumlah_rumah_tangga_miskin,jumlah_orang_miskin,jenis_penanganan_kemiskinan,jumlah
+2017,Wilayah Jakarta Pusat,34802,1249,Bpnt Rumah Tangga,
+2017,Wilayah Jakarta Utara,69471,266146,Bpnt Rumah Tangga,53756
+2017,Wilayah Jakarta Barat,52973,202724,Bpnt Rumah Tangga,46716
+2017,Wilayah Jakarta Selatan,38084,142584,Bpnt Rumah Tangga,39776
+2017,Wilayah Jakarta Timur,67727,248902,Bpnt Rumah Tangga,51427
+2017,Kepulauan Seribu,1752,7165,Bpnt Rumah Tangga,
+2017,Wilayah Jakarta Pusat,34802,1249,Rastra Rumah Tangga,
+2017,Wilayah Jakarta Utara,69471,266146,Rastra Rumah Tangga,
+2017,Wilayah Jakarta Barat,52973,202724,Rastra Rumah Tangga,
+2017,Wilayah Jakarta Selatan,38084,142584,Rastra Rumah Tangga,
+2017,Wilayah Jakarta Timur,67727,248902,Rastra Rumah Tangga,
+2017,Kepulauan Seribu,1752,7165,Rastra Rumah Tangga,1301
+2017,Wilayah Jakarta Pusat,34802,1249,Pkh Rumah Tangga,
+2017,Wilayah Jakarta Utara,69471,266146,Pkh Rumah Tangga,9937
+2017,Wilayah Jakarta Barat,52973,202724,Pkh Rumah Tangga,10985
+2017,Wilayah Jakarta Selatan,38084,142584,Pkh Rumah Tangga,1017
+2017,Wilayah Jakarta Timur,67727,248902,Pkh Rumah Tangga,1387
+2017,Kepulauan Seribu,1752,7165,Pkh Rumah Tangga,545
+2017,Wilayah Jakarta Pusat,34802,1249,Aslut Jiwa,
+2017,Wilayah Jakarta Utara,69471,266146,Aslut Jiwa,255
+2017,Wilayah Jakarta Barat,52973,202724,Aslut Jiwa,279
+2017,Wilayah Jakarta Selatan,38084,142584,Aslut Jiwa,207
+2017,Wilayah Jakarta Timur,67727,248902,Aslut Jiwa,237
+2017,Kepulauan Seribu,1752,7165,Aslut Jiwa,50
+2017,Wilayah Jakarta Pusat,34802,1249,Tasa Jiwa,
+2017,Wilayah Jakarta Utara,69471,266146,Tasa Jiwa,168
+2017,Wilayah Jakarta Barat,52973,202724,Tasa Jiwa,116
+2017,Wilayah Jakarta Selatan,38084,142584,Tasa Jiwa,315
+2017,Wilayah Jakarta Timur,67727,248902,Tasa Jiwa,402
+2017,Kepulauan Seribu,1752,7165,Tasa Jiwa,
+2017,Wilayah Jakarta Pusat,34802,1249,Apbd Jiwa,
+2017,Wilayah Jakarta Utara,69471,266146,Apbd Jiwa,208
+2017,Wilayah Jakarta Barat,52973,202724,Apbd Jiwa,264
+2017,Wilayah Jakarta Selatan,38084,142584,Apbd Jiwa,114
+2017,Wilayah Jakarta Timur,67727,248902,Apbd Jiwa,73
+2017,Kepulauan Seribu,1752,7165,Apbd Jiwa,16
